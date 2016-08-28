@@ -24,7 +24,11 @@ class Player:
         self.ban = int(opts['Lock']) < 0
         
     def __repr__(self):
-        return "{0},{1},{2},${3},{4}".format(self.position,                                     self.name,                                     self.team,                                     self.salary,                                     self.projected,
+        return "{0},{1},{2},${3},{4}".format(self.position, \
+                                    self.name, \
+                                    self.team, \
+                                    self.salary, \
+                                    self.projected,
                                     "LOCK" if self.lock else "")
         
     def export_csv(self):
@@ -87,7 +91,7 @@ def write_bulk_import_csv(rosters):
 def run():
     solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
     all_players = []
-    with open('Fanduel Players.csv', 'rb') as csvfile:
+    with open('Player List 09-11-2016.csv', 'rb') as csvfile:
         csvdata = csv.DictReader(csvfile, skipinitialspace=True)
         for row in csvdata:
             all_players.append(Player(row))
@@ -113,7 +117,7 @@ def run():
     
     #
     # Add salary cap and salary for each player
-    #
+    
     salary_cap = solver.Constraint(0, SALARY_CAP)
     for i, player in enumerate(all_players):
         salary_cap.SetCoefficient(variables[i], player.salary)
@@ -181,7 +185,7 @@ def run():
         
         with open('Results.csv', 'a') as csvfile:
             writer = csv.writer(csvfile,quotechar='"')
-            writer.writerow(["Lineup based on Fanduel FPPG"])
+            writer.writerow(["Lineup based on Fanduel FPPG","","","","",])
 
         for i, player in enumerate(all_players):
             if variables[i].solution_value() == 1:
