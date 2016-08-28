@@ -123,13 +123,13 @@ def run():
         salary_cap.SetCoefficient(variables[i], player.salary)
     
     #
-    # Add min number of different teams players must be drafted from constraint
+    # Add min number of different teams players must be drafted from
     #
     team_names = set([o.team for o in all_players])
     teams = []
     for team in team_names:
         teams.append(solver.IntVar(0, 1, team))
-    solver.Add(solver.Sum(teams)>=6)
+    solver.Add(solver.Sum(teams)>=2)
     
     for i, team in enumerate(team_names):
         ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
@@ -179,7 +179,7 @@ def run():
     if solution == solver.OPTIMAL:
         roster = Roster()
 
-        with open('Results.csv', 'wb') as csvfile:
+        with open('Results.csv', 'a') as csvfile:
             writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
             writer.writeheader()
         
