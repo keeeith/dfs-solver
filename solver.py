@@ -122,7 +122,7 @@ def run():
     for i, player in enumerate(all_players):
         salary_cap.SetCoefficient(variables[i], player.salary)
     
-    # NOT WORKING?
+    # 
     # Add min number of different teams players must be drafted from
     #
     team_names = set([o.team for o in all_players])
@@ -130,20 +130,23 @@ def run():
     for team in team_names:
         teams.append(solver.IntVar(0, 1, team))
     
-    solver.Add(solver.Sum(teams)>=2)
+    solver.Add(solver.Sum(teams)>=3)
     
     for i, team in enumerate(team_names):
         ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
         solver.Add(teams[i]<=solver.Sum(players_by_team))
  
-    # NOT WORKING?
+    # 
     # Add MAX number of offense-players per team constraint (Fanduel == 4)
     #
+    #     for team in list(team_names):
+    #         team_players = filter(lambda x: x.team in team, all_players)
+    #         ids, players_by_game = zip(*filter(lambda (x,_): x.team in team and x.position in ['WR','TE','RB','QB'], zip(all_players, variables)))
+    #         solver.Add(solver.Sum(players_by_game)<=4)
     for team in list(team_names):
-        team_players = filter(lambda x: x.team in team, all_players)
-        ids, players_by_game = zip(*filter(lambda (x,_): x.team in team and x.position in ['WR','TE','RB','QB'], zip(all_players, variables)))
-        solver.Add(solver.Sum(players_by_game)<=4)
-        
+        ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
+        solver.Add(solver.Sum(players_by_team)<=4)
+
     # Add defense cant play against any offensive player constraint
     #
     #     o_players = filter(lambda x: x.position in ['QB','WR','RB','TE'], all_players)
