@@ -123,7 +123,8 @@ def run():
         salary_cap.SetCoefficient(variables[i], player.salary)
     
     # 
-    # Add min number of different teams players must be drafted from
+    # Add minimum number of teams players must be drafted from
+    # Fanduel requires that you have players from at least 3 different teams
     #
     team_names = set([o.team for o in all_players])
     teams = []
@@ -137,7 +138,8 @@ def run():
         solver.Add(teams[i]<=solver.Sum(players_by_team))
  
     # 
-    # Add MAX number of offense-players per team constraint (Fanduel == 4)
+    # Add max number of offense-players per team constraint (Fanduel <= 4)
+    # Fanduel requires that you don't have any more than 4 players from the same team
     #
     #     for team in list(team_names):
     #         team_players = filter(lambda x: x.team in team, all_players)
@@ -147,7 +149,10 @@ def run():
         ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
         solver.Add(solver.Sum(players_by_team)<=4)
 
-    # Add defense cant play against any offensive player constraint
+    #
+    # Make sure the defense chosen is NOT any of the offense players team OPPONENT for the week. 
+    # This way high scoring defenses are not also shutting down your offense players.
+    # It does not check if the defense is not the same team as the offense's players.
     #
     #     o_players = filter(lambda x: x.position in ['QB','WR','RB','TE'], all_players)
     #     opps_team_names= set([o.opponent for o in o_players])
