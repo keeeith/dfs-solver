@@ -69,7 +69,7 @@ class Roster:
 
     def add_player(self, player, index):
         self.players.append(player)
-        self.index
+        self.index = index
 
     def spent(self):
         return sum(map(lambda x: x.salary, self.players))
