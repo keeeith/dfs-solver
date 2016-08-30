@@ -6,6 +6,7 @@
 from ortools.linear_solver import pywraplp
 import csv
 import itertools as IT
+from operator import itemgetter,attrgetter
 
 class Player:
 
@@ -17,20 +18,25 @@ class Player:
         self.index = 0
         #Sometimes projections have bad or missing projection for players, so we need to check
         self.projected = []
+        self.projection = []
         try:
             self.projected.append(float(opts['FPPG']))
+            self.projection.append('FFPG')
         except:
             self.projected.append( float(0))
         try:
             self.projected.append( float(opts['New projection']))
+            self.projection.append('New projection')
         except:
             self.projected.append( float(0))
         try:
             self.projected.append( float(opts['Another projection']))
+            self.projection.append('Another projection')
         except:
             self.projected.append( float(0))
         try:
             self.projected.append( float(opts['Yet another projection']))
+            self.projection.append('Yet another projection')
         except:
             self.projected.append( float(0))
 
@@ -40,7 +46,7 @@ class Player:
         self.ban = int(opts['Lock']) < 0
 
     def set_index(self,index):
-	    self.index = index
+        self.index = index
 
     def __repr__(self):
         return "{0},{1},{2},${3},{4}".format(self.position, \
@@ -51,7 +57,8 @@ class Player:
                                     "LOCK" if self.lock else "")
 
     def export_csv(self):
-        return [self.position,self.name,self.team,self.salary,self.projected[self.index]]
+        csv_obj = [self.position,self.name,self.team,self.salary,self.projected[self.index]]
+        return csv_obj
 
 class Roster:
     POSITION_ORDER = {
@@ -85,8 +92,9 @@ class Roster:
 
     def __repr__(self):
         s = '\n'.join(str(x) for x in self.sorted_players())
-        s += "\n\nProjected Score: %s" % self.projected(self.index)
+        s += "\nProjected Score: %s" % self.projected(self.index)
         s += "\tCost: $%s" % self.spent()
+        s += "\n"
         return s
 
 SALARY_CAP = 60000
@@ -110,145 +118,150 @@ def write_bulk_import_csv(rosters):
             writer.writerow([x.name for x in roster.sorted_players()])
 
 def run(all_players):
-	for x in range(0, 4):
-	    solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
-	    variables = []
+    with open('Results.csv', 'wb') as csvfile:
+        writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
+        writer.writeheader()
+                
+    for x in range(0, 4):
+        solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
+        variables = []
 
-	    for player in all_players:
-	        if player.lock:
-	            variables.append(solver.IntVar(1, 1, player.id))
-	        elif player.ban:
-	            variables.append(solver.IntVar(0, 0, player.id))
-	        else:
-	            player.set_index(x)
-	            variables.append(solver.IntVar(0, 1, player.id))
+        for player in all_players:
+            if player.lock:
+                variables.append(solver.IntVar(1, 1, player.id))
+            elif player.ban:
+                variables.append(solver.IntVar(0, 0, player.id))
+            else:
+                player.set_index(x)
+                variables.append(solver.IntVar(0, 1, player.id))
 
-	    objective = solver.Objective()
-	    objective.SetMaximization()
+        objective = solver.Objective()
+        objective.SetMaximization()
 
-	    #
-	    # Add projected points for each player
-	    #
-	    for i, player in enumerate(all_players):
-	        objective.SetCoefficient(variables[i], player.projected[x])
+        #
+        # Add projected points for each player
+        #
+        for i, player in enumerate(all_players):
+            objective.SetCoefficient(variables[i], player.projected[x])
 
-	    #
-	    # Add salary cap and salary for each player
+        #
+        # Add salary cap and salary for each player
 
-	    salary_cap = solver.Constraint(0, SALARY_CAP)
-	    for i, player in enumerate(all_players):
-	        salary_cap.SetCoefficient(variables[i], player.salary)
+        salary_cap = solver.Constraint(0, SALARY_CAP)
+        for i, player in enumerate(all_players):
+            salary_cap.SetCoefficient(variables[i], player.salary)
 
-	    #
-	    # Add minimum number of teams players must be drafted from
-	    # Fanduel requires that you have players from at least 3 different teams
-	    #
-	    team_names = set([o.team for o in all_players])
-	    teams = []
-	    for team in team_names:
-	        teams.append(solver.IntVar(0, 1, team))
+        #
+        # Add minimum number of teams players must be drafted from
+        # Fanduel requires that you have players from at least 3 different teams
+        #
+        team_names = set([o.team for o in all_players])
+        teams = []
+        for team in team_names:
+            teams.append(solver.IntVar(0, 1, team))
 
-	    solver.Add(solver.Sum(teams)>=3)
+        solver.Add(solver.Sum(teams)>=3)
 
-	    for i, team in enumerate(team_names):
-	        ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
-	        solver.Add(teams[i]<=solver.Sum(players_by_team))
+        for i, team in enumerate(team_names):
+            ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
+            solver.Add(teams[i]<=solver.Sum(players_by_team))
 
-	    #
-	    # Add max number of offense-players per team constraint (Fanduel <= 4)
-	    # Fanduel requires that you don't have any more than 4 players from the same team
-	    #
-	    #     for team in list(team_names):
-	    #         team_players = filter(lambda x: x.team in team, all_players)
-	    #         ids, players_by_game = zip(*filter(lambda (x,_): x.team in team and x.position in ['WR','TE','RB','QB'], zip(all_players, variables)))
-	    #         solver.Add(solver.Sum(players_by_game)<=4)
-	    for team in list(team_names):
-	        ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
-	        solver.Add(solver.Sum(players_by_team)<=4)
+        #
+        # Add max number of offense-players per team constraint (Fanduel <= 4)
+        # Fanduel requires that you don't have any more than 4 players from the same team
+        #
+        #     for team in list(team_names):
+        #         team_players = filter(lambda x: x.team in team, all_players)
+        #         ids, players_by_game = zip(*filter(lambda (x,_): x.team in team and x.position in ['WR','TE','RB','QB'], zip(all_players, variables)))
+        #         solver.Add(solver.Sum(players_by_game)<=4)
+        for team in list(team_names):
+            ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
+            solver.Add(solver.Sum(players_by_team)<=4)
 
-	    #
-	    # Make sure the defense chosen is NOT any of the offense players team OPPONENT for the week.
-	    # This way high scoring defenses are not also shutting down your offense players.
-	    # It does not check if the defense is not the same team as the offense's players.
-	    #
-	    #     o_players = filter(lambda x: x.position in ['QB','WR','RB','TE'], all_players)
-	    #     opps_team_names= set([o.opponent for o in o_players])
-	    #     teams_obj = filter(lambda x: x.position == 'D' , all_players)
-	    #     teams = set([o.team for o in teams_obj])
-	    #     for opps_team in team_names:
-	    #         if opps_team in teams :
-	    #             ids, players_by_opps_team = zip(*filter(lambda (x,_): x.position in ['QB','WR','RB','TE'] and x.opponent in opps_team, zip(all_players, variables)))
-	    #             idxs, defense = zip(*filter(lambda (x,_): x.position == 'D' and x.team in opps_team, zip(all_players, variables)))
-	    #             solver.Add(solver.Sum(1-x for x in players_by_opps_team)+solver.Sum(1-x for x in defense)>=1)
-	    #
-	    o_players = filter(lambda x: x.position in ['QB','WR','RB','TE','K'], all_players)
-	    opps_team_names= set([o.opponent for o in o_players])
-	    teams_obj = filter(lambda x: x.position == 'D' , all_players)
-	    teams = set([o.team for o in teams_obj])
-	    for opps_team in team_names:
-	        if opps_team in teams :
-	            ids, players_by_opps_team = zip(*filter(lambda (x,_): x.position in ['QB','WR','RB','TE'] and x.opponent in opps_team, zip(all_players, variables)))
-	            idxs, defense = zip(*filter(lambda (x,_): x.position == 'D' and x.team in opps_team, zip(all_players, variables)))
-	            for player in players_by_opps_team:
-	                solver.Add(player<=1-defense[0])
+        #
+        # Make sure the defense chosen is NOT any of the offense players team OPPONENT for the week.
+        # This way high scoring defenses are not also shutting down your offense players.
+        # It does not check if the defense is not the same team as the offense's players.
+        #
+        #     o_players = filter(lambda x: x.position in ['QB','WR','RB','TE'], all_players)
+        #     opps_team_names= set([o.opponent for o in o_players])
+        #     teams_obj = filter(lambda x: x.position == 'D' , all_players)
+        #     teams = set([o.team for o in teams_obj])
+        #     for opps_team in team_names:
+        #         if opps_team in teams :
+        #             ids, players_by_opps_team = zip(*filter(lambda (x,_): x.position in ['QB','WR','RB','TE'] and x.opponent in opps_team, zip(all_players, variables)))
+        #             idxs, defense = zip(*filter(lambda (x,_): x.position == 'D' and x.team in opps_team, zip(all_players, variables)))
+        #             solver.Add(solver.Sum(1-x for x in players_by_opps_team)+solver.Sum(1-x for x in defense)>=1)
+        #
+        o_players = filter(lambda x: x.position in ['QB','WR','RB','TE','K'], all_players)
+        opps_team_names= set([o.opponent for o in o_players])
+        teams_obj = filter(lambda x: x.position == 'D' , all_players)
+        teams = set([o.team for o in teams_obj])
+        for opps_team in team_names:
+            if opps_team in teams :
+                ids, players_by_opps_team = zip(*filter(lambda (x,_): x.position in ['QB','WR','RB','TE'] and x.opponent in opps_team, zip(all_players, variables)))
+                idxs, defense = zip(*filter(lambda (x,_): x.position == 'D' and x.team in opps_team, zip(all_players, variables)))
+                for player in players_by_opps_team:
+                    solver.Add(player<=1-defense[0])
 
-	    #
-	    # Add QB stacking (at least 1 wr or te on same team as QB) constraint
-	    #
-	    offense_team_names = set([o.team for o in o_players])
-	    for o_team in offense_team_names:
-	        ids, players_by_team = zip(*filter(lambda (x,_): x.position in ['WR','TE'] and x.team == o_team, zip(all_players, variables)))
-	        idxs, qb = zip(*filter(lambda (x,_): x.position == 'QB' and x.team == o_team, zip(all_players, variables)))
-	        solver.Add(solver.Sum(players_by_team)>=solver.Sum(qb))
+        #
+        # Add QB stacking (at least 1 wr or te on same team as QB) constraint
+        #
+        offense_team_names = set([o.team for o in o_players])
+        for o_team in offense_team_names:
+            ids, players_by_team = zip(*filter(lambda (x,_): x.position in ['WR','TE'] and x.team == o_team, zip(all_players, variables)))
+            idxs, qb = zip(*filter(lambda (x,_): x.position == 'QB' and x.team == o_team, zip(all_players, variables)))
+            solver.Add(solver.Sum(players_by_team)>=solver.Sum(qb))
 
-	    #
-	    # Add position limits
-	    #
-	    for position, limit in POSITION_LIMITS:
-	        position_cap = solver.Constraint(0, limit)
+        #
+        # Add position limits
+        #
+        for position, limit in POSITION_LIMITS:
+            position_cap = solver.Constraint(0, limit)
 
-	        for i, player in enumerate(all_players):
-	            if position == player.position:
-	                position_cap.SetCoefficient(variables[i], 1)
+            for i, player in enumerate(all_players):
+                if position == player.position:
+                    position_cap.SetCoefficient(variables[i], 1)
 
-	    #
-	    # Add roster size
-	    #
-	    size_cap = solver.Constraint(ROSTER_SIZE, ROSTER_SIZE)
-	    for variable in variables:
-	        size_cap.SetCoefficient(variable, 1)
+        #
+        # Add roster size
+        #
+        size_cap = solver.Constraint(ROSTER_SIZE, ROSTER_SIZE)
+        for variable in variables:
+            size_cap.SetCoefficient(variable, 1)
 
-	    solution = solver.Solve()
+        solution = solver.Solve()
 
-	    if solution == solver.OPTIMAL:
-	        roster = Roster()
+        if solution == solver.OPTIMAL:
+            roster = Roster()
+            projection_title = player.projection[x]
+            #with open('Results.csv', 'a') as csvfile:
+            #  writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
+            #  writer.writeheader()
 
-	        with open('Results.csv', 'a') as csvfile:
-	            writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
-	            writer.writeheader()
+            with open('Results.csv', 'a') as csvfile:
+                writer = csv.writer(csvfile,quotechar='"')
+                writer.writerow([projection_title,"","","","",])
 
-	        with open('Results.csv', 'a') as csvfile:
-	            writer = csv.writer(csvfile,quotechar='"')
-	            writer.writerow(["Lineup based on Fanduel FPPG","","","","",])
+            for i, player in enumerate(all_players):
+                if variables[i].solution_value() == 1:
+                    
+                    roster.add_player(player,x)
 
-	        for i, player in enumerate(all_players):
-	            if variables[i].solution_value() == 1:
-	                roster.add_player(player,x)
+                    with open('Results.csv', 'a') as csvfile:
+                        writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
+                        writer.writerow(player.export_csv())
 
-	                with open('Results.csv', 'a') as csvfile:
-	                    writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
-	                    writer.writerow(player.export_csv())
+            with open('Results.csv', 'a') as csvfile:
+                writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
+                writer.writerow(['','','','',roster.projected(x)])
 
-	        with open('Results.csv', 'a') as csvfile:
-	            writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
-	            writer.writerow(['','','','',roster.projected(x)])
+            print projection_title+" Lineup:"
+            #print "Optimal roster for: $%s\n" % SALARY_CAP
+            print roster
 
-	        print "Fanduel FFPG Lineup"
-	        print "Optimal roster for: $%s\n" % SALARY_CAP
-	        print roster
-
-	    else:
-	        print "No solution :("
+        else:
+            print "No solution :("
 
 
 def load():
@@ -273,4 +286,3 @@ def load():
 if __name__ == "__main__":
     all_players = load()
     run(all_players)
-
