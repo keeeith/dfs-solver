@@ -6,7 +6,6 @@
 from ortools.linear_solver import pywraplp
 import csv
 import itertools as IT
-from operator import itemgetter,attrgetter
 
 class Player:
 
