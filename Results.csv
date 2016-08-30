@@ -1,5 +1,5 @@
 Position,Name,Team,Salary,Projected
-Lineup based on Fanduel FPPG,"","","",
+FFPG,,,,
 "D","Kansas City Chiefs","KC",5100,11.125
 "K","Chris Boswell","PIT",4600,10.5
 "QB","Geno Smith","NYJ",6400,21.0
@@ -10,3 +10,36 @@ Lineup based on Fanduel FPPG,"","","",
 "WR","DeAndre Hopkins","HOU",8400,17.22500038
 "WR","Brandon Marshall","NYJ",7700,17.79375076
 "","","","",141.39232175
+New projection,,,,
+"D","Philadelphia Eagles","PHI",4800,12.98
+"K","Zach Hocker","CIN",4500,12.8
+"QB","Mike Glennon","TB",5500,12.74
+"RB","Zach Zenner","DET",4900,12.97
+"RB","Ryan Hewitt","CIN",4500,12.99
+"TE","Jake Stoneburner","LA",4500,12.95
+"WR","Jarvis Turner","WAS",4500,12.96
+"WR","Sammy Watkins","BUF",7300,12.96
+"WR","Adam Humphries","TB",4500,12.88
+"","","","",116.23000000000002
+Another projection,,,,
+"D","San Diego Chargers","SD",4100,12.87
+"K","Roberto Aguayo","TB",4500,12.92
+"QB","Jake Heaps","SEA",5000,12.99
+"RB","Eddie Lacy","GB",7100,12.73
+"RB","Brandon Bolden","NE",4900,12.72
+"TE","Jerell Adams","NYG",4500,12.96
+"WR","Brittan Golden","ARI",4500,12.98
+"WR","Devin Street","DAL",4500,12.96
+"WR","Doug Baldwin","SEA",6700,12.9
+"","","","",116.03
+Yet another projection,,,,
+"D","San Francisco 49ers","SF",4400,12.92
+"K","Ryan Succop","TEN",4500,12.43
+"QB","Josh Johnson","BAL",5000,12.66
+"RB","Devonta Freeman","ATL",8100,12.96
+"RB","Storm Johnson","TB",4500,12.89
+"TE","Geoff Swaim","DAL",4500,12.91
+"WR","Jeremy Butler","BAL",4500,12.5
+"WR","Rashawn Scott","MIA",4500,12.94
+"WR","Shaq Evans","JAC",4500,12.85
+"","","","",115.06
