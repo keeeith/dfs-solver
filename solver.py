@@ -7,6 +7,23 @@ from ortools.linear_solver import pywraplp
 import csv
 import itertools as IT
 
+# Change this for the number of projections you need to run
+PROJECTION_COUNT = 2
+
+SALARY_CAP = 60000
+
+POSITION_LIMITS = [
+    ["QB", 1],
+    ["RB", 2],
+    ["WR", 3],
+    ["TE", 1],
+    ["K",  1],
+    ["D",  1]
+]
+
+ROSTER_SIZE = 9
+TEAM_MAX = 4
+
 class Player:
 
     def __init__(self, opts):
@@ -96,20 +113,6 @@ class Roster:
         s += "\n"
         return s
 
-SALARY_CAP = 60000
-
-POSITION_LIMITS = [
-    ["QB", 1],
-    ["RB", 2],
-    ["WR", 3],
-    ["TE", 1],
-    ["K",  1],
-    ["D",  1]
-]
-
-ROSTER_SIZE = 9
-TEAM_MAX = 4
-
 def write_bulk_import_csv(rosters):
     with open('test.csv', 'wb') as csvfile:
         writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
@@ -121,7 +124,7 @@ def run(all_players):
         writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
         writer.writeheader()
                 
-    for x in range(0, 4):
+    for x in range(0, PROJECTION_COUNT):
         solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
         variables = []
 
