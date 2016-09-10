@@ -1,785 +1,755 @@
-Position,First Name,Last Name,FPPG,New projection,Another projection,Yet another projection
-D,Kansas City,Chiefs,11.125,5.96,6.84,6.39
-D,Arizona,Cardinals,10.5,4.42,9.48,9.77
-D,Seattle,Seahawks,10.3125,10.18,9.37,2.08
-D,Houston,Texans,9.4375,8.4,11.51,10.46
-D,Philadelphia,Eagles,8.25,12.98,10.04,10.67
-D,Pittsburgh,Steelers,9.3125,3.32,7.33,11.24
-D,Minnesota,Vikings,8.8125,7.52,4.22,2.36
-D,Cincinnati,Bengals,8.75,4.57,11.48,4.43
-D,New York,Jets,7.3125,12.87,12.23,2.83
-D,Buffalo,Bills,6.125,10.66,5.63,5.69
-D,Los Angeles,Rams,8.6875,11.5,3.53,11.7
-D,San Francisco,49ers,4.5,9.73,9.48,12.92
-D,New England,Patriots,8.4375,3.69,10.71,5.57
-D,New York,Giants,7.375,12.59,7.73,12.24
-D,Indianapolis,Colts,7.625,6.36,12.48,9.37
-D,Dallas,Cowboys,5.25,12.79,9.61,12.3
-D,Baltimore,Ravens,6.4375,9.11,6.72,10.58
-D,Chicago,Bears,5.0625,6.43,3.39,6.43
-D,Oakland,Raiders,7,6.63,10.76,4.54
-D,Green Bay,Packers,7.5625,11.72,5.3,3.8
-D,Detroit,Lions,6.0625,12.48,5.65,5.85
-D,Tampa Bay,Buccaneers,6.625,3.36,4.82,9.87
-D,Washington,Redskins,8.3125,2.77,5.33,7.12
-D,Atlanta,Falcons,5.8125,12.81,4.76,8.5
-D,Miami,Dolphins,6,8.43,8.73,5.98
-D,San Diego,Chargers,5.1875,11.76,12.87,6.4
-D,Jacksonville,Jaguars,6.1875,2.86,5.59,3.02
-D,Tennessee,Titans,5.625,6.02,7.48,2.64
-D,New Orleans,Saints,5.125,8.14,12.76,8.71
-D,Cleveland,Browns,5.4375,7.5,4.38,8.09
-K,Nick,Folk,9.285714286,3.24,12.62,9.08
-K,Matt,Bryant,7.4,12.18,2.38,8.83
-K,Cody,Parkey,5.666666667,3.12,9.46,6.41
-K,Patrick,Murray,0,12.41,2.4,2.23
-K,Zach,Hocker,5.625,12.8,10.42,4.78
-K,Stephen,Gostkowski,10.6875,6.86,7.93,9.22
-K,Chandler,Catanzaro,8.9375,11.44,7.55,2.22
-K,Justin,Tucker,9.125,5.01,4.31,12.19
-K,Dan,Bailey,8.1875,10.47,6.75,11.63
-K,Cairo,Santos,9.132499695,11.93,9.5,2.34
-K,Adam,Vinatieri,7.6875,7.41,12.63,11.7
-K,Steven,Hauschka,9.125,2.19,4.38,4.76
-K,Caleb,Sturgis,7.461538462,11.7,2.46,5.23
-K,Mason,Crosby,8.266666667,3.73,7.47,6.98
-K,Blair,Walsh,9.5625,5.97,2.18,7.79
-K,Mike,Nugent,8.1875,9.32,7.05,7.6
-K,Kai,Forbath,6.454545455,11.64,10.13,11.02
-K,Connor,Barth,8.583333333,8.97,2.98,8.61
-K,Chris,Boswell,10.5,11.27,3.05,3.67
-K,Dan,Carpenter,7.25,4.15,9.15,2.83
-K,Phil,Dawson,6.5,5.73,12.11,10.9
-K,Matt,Prater,7.375,12.04,10.84,2.34
-K,Sebastian,Janikowski,7.125,6.39,10.28,7.78
-K,Aldrick,Rosas,0,11.99,2.87,10.48
-K,Marshall,Morgan,0,6.07,10.91,5.42
-K,Josh,Lambo,7.8125,6.98,6.08,7.5
-K,Tom,Obarski,0,10.09,3.01,8.66
-K,Andrew,Franks,4.875,2.37,9.26,6.94
-K,Jason,Myers,7.625,4.08,7.16,9.12
-K,Travis,Coons,7.0625,11.22,5.81,8.83
-K,Robbie,Gould,9.866666667,10.86,4.55,3.7
-K,Shaun,Suisham,0,9.67,2.1,3.58
-K,Greg,Zuerlein,6.928571429,2.01,3.1,11.53
-K,Ryan,Succop,5.714285714,2.15,5.43,12.43
-K,Nick,Novak,7,5.94,5.26,5.08
-K,Giorgio,Tavecchio,0,4.54,2.37,3.28
-K,Dustin,Hopkins,8.333333333,12.26,4.94,4.63
-K,Roberto,Aguayo,0,5.51,12.92,2.75
-QB,Aaron,Rodgers,19.32749939,12.53,10.82,9.89
-QB,Tony,Romo,11.91499996,11.73,8.83,8.7
-QB,Joe,Flacco,17.39400024,2.15,8.72,2.13
-QB,Teddy,Bridgewater,13.09000015,2.34,9.96,8.49
-QB,Colin,Kaepernick,12.79999966,6.26,7.7,5.99
-QB,Cardale,Jones,0,11.6,12.09,5.14
-QB,Matt,Moore,0.360000014,8.91,12.28,8.83
-QB,Dustin,Vaughan,0,6.54,4.42,4.23
-QB,Carson,Wentz,0,2.19,8.14,6.42
-QB,Brett,Hundley,0,10.71,10.59,6.13
-QB,Tyler,Bray,0,6.99,10.65,12.99
-QB,Andrew,Luck,20.40571376,8.36,11.4,6.79
-QB,Drew,Brees,21.01333415,6.65,3.47,2.64
-QB,Russell,Wilson,21.51625061,10.65,12.04,8.88
-QB,Ben,Roethlisberger,20.34333293,3.73,2.72,11.46
-QB,Blake,Bortles,20.88249969,2.42,2.92,10.96
-QB,Carson,Palmer,20.01499939,10.54,10.45,4.75
-QB,Kirk,Cousins,19.02750015,4.94,7.17,10.39
-QB,Derek,Carr,17.76749992,9.43,2.44,12.36
-QB,Andy,Dalton,19.32307669,4.71,11.18,12.37
-QB,Matt,Ryan,15.62125015,7.3,9.17,9.59
-QB,Marcus,Mariota,18.37666702,10.41,4.01,6.96
-QB,Jameis,Winston,18.12375069,7.58,12.53,7.47
-QB,Matthew,Stafford,18.95499992,10.85,9.02,11.12
-QB,Ryan,Fitzpatrick,18.76250076,11.28,12.07,9.75
-QB,Philip,Rivers,18.59250069,9.15,12.62,11.08
-QB,Eli,Manning,18.83625031,2.97,7.38,4.52
-QB,Tyrod,Taylor,19.79285758,10.91,12.96,2.54
-QB,Brock,Osweiler,15.34749985,3.02,7.84,7.69
-QB,Alex,Smith,17.38999939,5.79,3.07,6.04
-QB,Robert,Griffin III,0,9.86,8.15,8.37
-QB,Jimmy,Garoppolo,-0.064999998,3.95,7.07,2.51
-QB,Josh,McCown,17.02000046,3.62,6.87,4.35
-QB,Sam,Bradford,14.92142814,12.33,10.43,4.62
-QB,Jared,Goff,0,12.21,11.91,3.93
-QB,Jay,Cutler,15.83066711,12.62,4.02,12.02
-QB,Ryan,Tannehill,16.86375046,4.45,9.09,8.25
-QB,Geno,Smith,21,4.29,5.01,11.04
-QB,Blaine,Gabbert,17.09250069,5.51,3.38,6.01
-QB,Brandon,Weeden,11.40333303,10.79,2.27,8.55
-QB,Matt,Schaub,15.30000019,10.74,4.7,6.3
-QB,Nick,Foles,9.64363653,5.16,5.32,10.75
-QB,Ryan,Mallett,10.99142892,5.05,9.14,3.65
-QB,Case,Keenum,8.923999786,2.3,5.68,5.41
-QB,Zach,Mettenberger,7.028571538,4.33,6.21,6.18
-QB,Brian,Hoyer,15.78545449,3.33,5.71,3.72
-QB,Drew,Stanton,0.143333336,10.82,10.91,9.69
-QB,Matt,Cassel,9.229999542,10.65,5.05,7.07
-QB,AJ,McCarron,8.17999976,4.45,6.51,4.06
-QB,Aaron,Murray,0,7.79,6.88,10.84
-QB,Austin,Davis,7.393333435,2.19,6.89,11.85
-QB,Landry,Jones,3.717142923,2.65,9.77,3.26
-QB,Mike,Glennon,0,12.74,3.49,7.09
-QB,Colt,McCoy,8.819999695,2.97,11.46,4.83
-QB,Chad,Henne,0,12.4,7.51,6.66
-QB,EJ,Manuel,10.46000004,5.81,5.69,5.01
-QB,Matt,McGloin,5.340000153,2.74,8.91,3.31
-QB,Chase,Daniel,-0.02,11.71,4.24,7.77
-QB,Dylan,Thompson,0,6.44,11.76,10.29
-QB,Trevone,Boykin,0,12.37,6.22,9.63
-QB,Connor,Shaw,0,9.55,12.85,3.2
-QB,Joe,Callahan,0,10.25,10.73,3.97
-QB,Connor,Cook,0,2.64,11.98,13
-QB,Josh,Woodrum,0,10.67,2.35,8.86
-QB,Brandon,Doughty,0,6.7,2.06,9.87
-QB,David,Fales,0,11.58,12.83,11.49
-QB,Logan,Thomas,0,6.95,4.94,4.49
-QB,Christian,Hackenberg,0,5.91,11.87,7.49
-QB,Garrett,Grayson,0,3.46,8.31,5.95
-QB,Ryan,Nassib,6.71999979,2.01,5.81,7.34
-QB,Jameill,Showers,0,4.46,3.67,8.69
-QB,Jacoby,Brissett,0,10.38,3.34,6.81
-QB,Jeff,Driskel,0,9.77,6.97,4.78
-QB,Stephen,Morris,0,5.12,3.99,4.46
-QB,Zac,Dysert,0,7.09,12.69,6.27
-QB,Scott,Tolzien,-0.07,8.1,12.28,11.77
-QB,Nate,Sudfeld,0,10.76,7.08,5.52
-QB,Ryan,Griffin,0,11.39,2.58,6.45
-QB,Griffin,Neal,0,3.65,4.89,2.77
-QB,Bryce,Petty,0,2.42,11.11,4.01
-QB,Jerrod,Johnson,0,3.43,6.86,11.35
-QB,Shaun,Hill,0.033333334,10.66,3.15,3.38
-QB,Jake,Rudock,0,6.57,3.92,9.4
-QB,Kevin,Hogan,0,3.37,4.67,6.39
-QB,Tom,Savage,0,8.14,3.93,5.97
-QB,Matt,Simms,0,9.59,10.35,6.06
-QB,Max,Wittek,0,5.46,11.22,8.39
-QB,Cody,Kessler,0,2.06,12.82,6.82
-QB,Marquise,Williams,0,11.43,6.76,10.69
-QB,Matt,Barkley,0,5.16,11.17,7.43
-QB,Dak,Prescott,0,9.79,12.23,5.77
-QB,Sean,Mannion,1.24000001,9.85,6.54,10.24
-QB,Mike,Bercovici,0,7.96,6.5,3.55
-QB,Dan,Orlovsky,5.519999981,4.4,12.83,4.78
-QB,Keith,Wenning,0,6.81,8.39,4.39
-QB,Sean,Renfree,-0.479999989,5.01,9.9,6.69
-QB,Josh,Johnson,0,5.34,6.22,12.66
-QB,Jake,Heaps,0,7.74,12.99,7.32
-QB,Brandon,Allen,0,3.31,8.56,8.36
-QB,Luke,McCown,6.199999809,5.95,7.12,7.15
-QB,Kellen,Clemens,3.210000038,11.89,8.31,3.21
-QB,Joel,Stave,0,6.52,2.03,3.14
-QB,Dan,LeFevour,0,11.49,10.98,11.52
-QB,Jake,Coker,0,7.11,4.03,5.83
-QB,B.J.,Daniels,0.920000017,6.9,4.25,7.01
-RB,Jamaal,Charles,18.11999969,8.79,9.47,8.41
-RB,Thomas,Rawls,10.25833321,5.52,7.4,11.02
-RB,Doug,Martin,13.48750019,11.43,11.42,12.28
-RB,Matt,Forte,14.82307669,9.33,10.73,2.69
-RB,Ameer,Abdullah,6.53125,11.02,2.46,9.34
-RB,Alfred,Blue,7.442856925,12.61,10.21,6.42
-RB,Denard,Robinson,4.791666667,3,5.11,6.98
-RB,Charcandrick,West,9.446154081,5.16,11.8,6.96
-RB,Khiry,Robinson,7.75,3.21,10.97,2.33
-RB,Chris,Thompson,5.77692296,9.68,7.25,6.83
-RB,Antonio,Andrews,7.252857208,9.11,7.06,11.48
-RB,Shaun,Draughn,5.854545593,10.85,9.38,2.46
-RB,Lance,Dunbar,9.675000191,10.56,3.53,5.04
-RB,Jonathan,Williams,0,2.19,11.57,4.17
-RB,Isaiah,Pead,-1.700000048,7.8,8.82,12.22
-RB,Brandon,Wilds,0,11.6,6.93,8.68
-RB,Will,Johnson,2.260000038,2.91,7.62,9.08
-RB,Senorise,Perry,0,8.55,7.47,12.21
-RB,Terron,Ward,2.729999924,12.07,3.57,3.41
-RB,Wendell,Smallwood,0,2.8,2.08,10.3
-RB,Glenn,Winston,-2.799999952,9.38,9.82,7.85
-RB,Carlos,Hyde,10.82857186,11.72,9.98,6.3
-RB,Matt,Jones,8.069230887,2.2,5.38,5.35
-RB,Mike,Gillislee,9.719999695,9.68,5.5,10.96
-RB,Kenyan,Drake,0,11.62,9.57,10.67
-RB,Ka'Deem,Carey,4.412499905,8.76,8.11,3.17
-RB,Keith,Marshall,0,11.42,8.08,10.93
-RB,John,Crockett,1.049999952,4.12,2.68,8.6
-RB,Marcus,Murphy,0.307692308,9.89,3.39,6.94
-RB,Daniel,Lasco,0,11.1,7.17,7
-RB,Raheem,Mostert,-0.25,3.54,6.36,6.21
-RB,Todd,Gurley,15.22307645,4.94,7.11,8.72
-RB,David,Johnson,12.36250019,2.11,2.96,2.88
-RB,Adrian,Peterson,15.35624981,9.86,5.74,10.58
-RB,Devonta,Freeman,18.65999959,11.22,6.1,12.96
-RB,Ezekiel,Elliott,0,11.6,5.12,4.98
-RB,Lamar,Miller,13.02499962,4.97,7.12,8.6
-RB,Mark,Ingram,14.86666616,2.71,3.48,4.91
-RB,DeAngelo,Williams,13.21249962,8.85,4.39,7.84
-RB,Eddie,Lacy,8.706667074,12.45,12.73,5.31
-RB,Justin,Forsett,10.69000015,3.28,7.56,10.19
-RB,LeSean,McCoy,13.55833308,8.62,2.81,11.45
-RB,Latavius,Murray,11.51875019,8.93,3.98,5.18
-RB,Arian,Foster,16.5,7.73,9.74,6.88
-RB,DeMarco,Murray,10.82666626,2.25,6.42,6.43
-RB,Jeremy,Hill,10.17500019,4.98,4.45,10.76
-RB,Jeremy,Langford,9.106667074,2.58,8.5,9.81
-RB,Frank,Gore,11.02499962,11.76,12.17,12.09
-RB,Chris,Ivory,12.51333313,9.41,5.11,10.17
-RB,Jay,Ajayi,4.35555564,7.04,2.25,7.08
-RB,Ryan,Mathews,8.807692308,2.19,6.86,5.12
-RB,T.J.,Yeldon,11.49166616,7.41,3.38,4.91
-RB,Chris,Johnson,9.472726995,5.71,12.03,11.23
-RB,LeGarrette,Blount,9.96666654,11.69,8.98,4.5
-RB,Rashad,Jennings,9.399999619,5.61,11.81,7.61
-RB,Danny,Woodhead,12.69375038,7.18,8.8,6.16
-RB,Isaiah,Crowell,8.018750191,6.6,8.4,2.28
-RB,Melvin,Gordon,6.557143075,11,11.26,10.33
-RB,Duke,Johnson Jr.,8.362500191,10.31,4.39,3.74
-RB,Giovani,Bernard,9.793749809,9.98,4.27,3.32
-RB,Darren,Sproles,8.375,10.46,3.36,3.99
-RB,James,Starks,9.050000191,11.85,5.86,7.36
-RB,Bilal,Powell,10.14545441,7.33,11.12,5.4
-RB,Derrick,Henry,0,8.86,10.68,4.59
-RB,Alfred,Morris,5.724999905,12.25,10.64,3.93
-RB,Javorius,Allen,7.699999809,9.99,5.54,5.6
-RB,Spencer,Ware,8.866667006,9.4,9.28,8.82
-RB,Shane,Vereen,8.056249619,5.63,12.23,3.58
-RB,Jerick,McKinnon,4.556250095,3.55,3.17,6.82
-RB,Tevin,Coleman,3.46666654,10.38,3.17,10.68
-RB,Tim,Hightower,13.40000025,6.73,10.08,11.42
-RB,Theo,Riddick,8.6875,12.45,6.98,6.33
-RB,Travaris,Cadet,6.116666794,10.44,4.25,11.11
-RB,Zach,Zenner,2.025000095,12.97,9.79,4.12
-RB,Benny,Cunningham,3.466666667,7.06,4.46,6.44
-RB,C.J.,Prosise,0,9.78,5.53,10.79
-RB,Robert,Turbin,3.170000076,8.39,8.63,12.07
-RB,Brandon,Bolden,5.472727342,10.58,12.72,11.99
-RB,C.J.,Spiller,4.930769113,3.22,8.28,9.31
-RB,James,White,8.549999873,4.83,3.38,10.57
-RB,Jordan,Howard,0,5.69,9.96,11.85
-RB,Christine,Michael,3.424999952,6.28,9.55,11.22
-RB,Matt,Asiata,2.260000102,11.88,11.44,7.87
-RB,DuJuan,Harris,7.775000095,7.79,12.25,10.91
-RB,Donald,Brown,6.950000127,6.39,5.03,10.15
-RB,Jordan,Todman,0.550000012,5.34,7.66,6.8
-RB,Andre,Ellington,6.719999695,5.21,3.22,2.63
-RB,DeAndre,Washington,0,5.59,4.45,4.81
-RB,Branden,Oliver,4.071428571,6.48,7.42,8.75
-RB,Terrance,West,2.900000095,7.9,3.69,9.1
-RB,Andre,Williams,2.181250095,5.08,7.9,10.37
-RB,Charles,Sims,9.65625,12.9,4.12,11.53
-RB,Stepfan,Taylor,1.116666635,7.77,6.97,2.48
-RB,Jacquizz,Rodgers,1.119999981,12.41,8.57,2.11
-RB,Kerwynn,Williams,3.46666654,11.31,11.79,9.68
-RB,Fitzgerald,Toussaint,2.066666603,11.25,8.8,4.97
-RB,Bobby,Rainey,0.19333334,7.89,4.43,11.55
-RB,Stevan,Ridley,1.350000024,7.78,8.92,6.69
-RB,Roy,Helu Jr.,2.737499952,5.68,2.45,12.39
-RB,Damien,Williams,2.471428462,10.54,5.37,4.97
-RB,Kenjon,Barner,2.850000064,12.8,2.12,6.95
-RB,Alex,Collins,0,11.85,4.29,8.65
-RB,Akeem,Hunt,2.357142857,2.91,8.79,7.07
-RB,Cedric,O'Neal,0,10.91,12.38,12.35
-RB,Mike,Davis,2.620000076,2.06,4.54,2.87
-RB,Trent,Richardson,0,3.33,9.95,8.88
-RB,Jerome,Felton,0.474999994,3.86,6.67,9.92
-RB,Brandon,Brown-Dukes,0,9.43,7.85,12.64
-RB,Tyler,Ervin,0,8.66,6.52,3.52
-RB,C.J.,Ham,0,7.87,8.1,4.92
-RB,David,Cobb,2.985714231,6.31,3.21,8.54
-RB,Chase,Reynolds,0,10.56,6.55,5.63
-RB,James,Develin,0,10.01,12.43,10.32
-RB,Trey,Williams,1.200000048,6.8,7.55,12.29
-RB,Dominique,Williams,0,8.55,6.31,2.54
-RB,Joey,Iosefa,2.549999952,9.26,7.56,4.64
-RB,Mack,Brown,0,8.55,4.49,2.37
-RB,Gus,Johnson,0,7.78,3.42,10.02
-RB,George,Atkinson III,0,7.49,11.41,3.49
-RB,Josh,Ferguson,0,6.89,5.49,8
-RB,Mike,James,0,5.74,4.5,5.19
-RB,Don,Jackson,0,7.74,8.67,2.2
-RB,Kenneth,Dixon,0,3.54,12.7,3.81
-RB,Bishop,Sankey,4.183333397,9.31,11.26,6.89
-RB,Kyle,Juszczyk,4.806250095,2.82,12.59,7.64
-RB,Zach,Line,2.863636364,10.77,7.97,11.57
-RB,Orleans,Darkwa,2.877777735,3.5,11.37,6.19
-RB,Tommy,Bohanon,1.560000038,8.87,6.52,3.8
-RB,Patrick,DiMarco,2.95,11.57,10.78,9.04
-RB,Kendall,Gaskins,3.674999952,3.45,9.69,11.79
-RB,Rob,Kelley,0,6.79,10.04,10.77
-RB,Paul,Perkins,0,12.78,8.33,5.49
-RB,Sam,Bergen,0,2.72,11.72,4.34
-RB,Michael,Burton,1.637500048,9.83,6.81,12.18
-RB,Daryl,Richardson,0,10.79,6.06,4.34
-RB,Sione,Houma,0,10.81,6.68,5.15
-RB,Paul,Lasike,0,6.74,2.89,12.63
-RB,Bruce,Miller,2.589999962,7.16,9.64,7.85
-RB,Kenneth,Farrow,0,12.41,5.32,2.12
-RB,Daniel,Herron,1.900000042,2.33,6.6,4.09
-RB,Bernard,Pierce,0.824999988,4.45,3.28,4.01
-RB,Ryan,Hewitt,1.544444402,12.99,12.1,4.37
-RB,Patrick,Skov,0,9.33,5.03,3.57
-RB,Terrell,Watson,0,4.15,3.12,5.53
-RB,Tre,Madden,0,11.5,8.15,6.7
-RB,Romar,Morris,0,4.91,2.15,9.94
-RB,Malcolm,Johnson,0.7,8.89,10.97,9.74
-RB,Daniel,Thomas,0,8.46,7.25,3.55
-RB,Rex,Burkhead,1.566666603,5.22,4.94,7.3
-RB,Storm,Johnson,0,9.38,2.57,12.89
-RB,Jonathan,Grimes,5.576923077,4.79,12.54,5.37
-RB,Roosevelt,Nix,0.866666635,4.56,9.32,9.38
-RB,Taiwan,Jones,2.125,6.19,10.01,5.77
-RB,Kelvin,Taylor,0,6.88,11.61,4.49
-RB,Jay,Prosch,0.824999988,9.79,2.03,5.47
-RB,Byron,Marshall,0,11.43,6.26,4.82
-RB,Nikita,Whitlock,0,6.53,11.19,9.68
-RB,Darius,Jackson,0,11.28,2.15,2.08
-RB,Bronson,Hill,0,10.41,9.38,11.86
-RB,Aaron,Ripkowski,1.149999976,6.42,12.51,2.03
-RB,Corey,Grant,0.1,3.76,10.18,3.41
-RB,Jonas,Gray,4.100000109,7.02,2.63,10.75
-RB,Knile,Davis,1.276923106,9.41,3.44,6.27
-RB,James,Wilder Jr.,0,4.83,11.84,2.97
-RB,Jhurell,Pressley,0,6.05,4.96,7.07
-RB,Dexter,McCluster,6.92727245,5.91,4.13,12.57
-RB,Dreamius,Smith,0,10.11,9.74,10.09
-RB,Jalston,Fowler,2.525000095,2.9,9.52,2.87
-RB,Christian,Powell,0,4.24,9.41,4.22
-RB,Zac,Brooks,0,4.87,3.05,4.66
-RB,Dwayne,Washington,0,2.37,8.57,9.74
-RB,Zach,Laskey,0,11.16,9.95,2.91
-RB,Jamize,Olawale,2.989999962,10.48,8.04,3.06
-RB,Derek,Watt,0,7.28,11.18,4.99
-RB,Peyton,Barber,0,4.26,12.09,10.51
-RB,Glenn,Gronkowski,0,11.74,2.1,8.36
-RB,Zac,Stacy,3.699999946,4.88,12.48,11.45
-RB,Cedric,Peerman,0,6.57,10.27,3.97
-TE,Jordan,Reed,14.33571407,5.99,5.06,9.04
-TE,Zach,Miller,7.575000127,4.22,7.02,6.98
-TE,Maxx,Williams,4.066666603,6.9,4.67,2.74
-TE,Clive,Walford,4.326666768,10.54,10.15,11.72
-TE,Niles,Paul,0,9.04,6.64,8.49
-TE,Kellen,Davis,1.033333355,11.55,6.43,10.86
-TE,Mitchell,Henry,0,7.72,2.55,3.07
-TE,Ben,Braunecker,0,8.2,2.53,7.63
-TE,Bryce,Williams,0,2.43,12.04,3.19
-TE,Gavin,Escobar,2.057142803,2.34,2.95,11.62
-TE,Seth,DeValve,0,7.36,8.57,8.09
-TE,Matt,LaCosse,3.700000048,6.01,6.84,9.44
-TE,James,O'Shaughnessy,2.339999962,5.8,11.28,11.15
-TE,Randall,Telfer,0,4.94,5.38,6.5
-TE,Logan,Paulsen,0,11.89,8.74,9.36
-TE,Jermaine,Gresham,2.869230711,4.44,5.56,3.22
-TE,Jim,Dray,1.011111153,3.7,7.46,12.01
-TE,Matthew,Mulligan,0.699999988,8.7,7.41,6.45
-TE,Clay,Harbor,3.737499952,2.65,6.95,12.04
-TE,Jimmy,Graham,8.772727273,5.3,2.54,2.08
-TE,Eric,Ebron,7.657142639,3.07,8.76,8.73
-TE,Tyler,Kroft,4.066666603,3.38,9.26,12.16
-TE,Dennis,Pitta,0,3.99,6.18,11.45
-TE,Jace,Amaro,0,2.74,5.06,3.92
-TE,Nick,Vannett,0,6.65,6.47,3.41
-TE,Rhett,Ellison,2.172727238,10.4,3,8.44
-TE,Tony,Moeaki,4.433333397,7.87,4.6,10.43
-TE,Chris,Gragg,3,2.07,6.77,12.86
-TE,Michael,Hoomanawanui,2.910000038,9.36,9.77,11.55
-TE,Rob,Gronkowski,14.64000041,4.12,2.56,10.8
-TE,Delanie,Walker,13.15999959,9.31,6.46,4.63
-TE,Travis,Kelce,9.59375,2.31,9.33,8.91
-TE,Gary,Barnidge,12.36250019,2.05,6.09,2.17
-TE,Antonio,Gates,11,2.87,9.06,3.3
-TE,Julius,Thomas,8.208333333,3.45,7.96,9.62
-TE,Zach,Ertz,8.853333537,2.07,12.54,4.76
-TE,Dwayne,Allen,2.083333333,8.39,3.47,8.05
-TE,Jason,Witten,7.862500191,12.5,11.55,10.18
-TE,Coby,Fleener,6.406666565,11.2,12.34,10.38
-TE,Austin,Seferian-Jenkins,9.757143293,3.81,10.82,9.22
-TE,Kyle,Rudolph,6.5,6.52,11.41,8.28
-TE,Benjamin,Watson,9.59375,9.62,4.55,9.22
-TE,Jared,Cook,4.224999905,5.06,2.7,2.42
-TE,Will,Tye,6.415384733,12.28,9.09,6.88
-TE,Martellus,Bennett,8.036363775,10.01,6.15,9.59
-TE,Jacob,Tamme,6.746666463,10.55,7.77,4.24
-TE,Charles,Clay,7.407692542,6.1,5.66,6.09
-TE,Jordan,Cameron,4.631249905,2.49,11.99,4.44
-TE,Crockett,Gillmore,8.169999695,11.76,12.29,8.4
-TE,Brent,Celek,5.941666921,4.06,5.76,9.22
-TE,Larry,Donnell,6.099999905,5.08,7.19,7.92
-TE,Luke,Willson,2.753846095,11.11,2.96,8
-TE,Vernon,Davis,4.5,5.54,9.88,2.87
-TE,Richard,Rodgers,8.193750381,9.38,3.39,4.43
-TE,Vance,McDonald,4.685714177,7.39,4.14,5.01
-TE,Ryan,Griffin,5.233333164,3.8,6.27,9.71
-TE,Lance,Kendricks,3.5,6.53,8.12,9.67
-TE,Darren,Fells,5.418181679,2.37,10.53,9.03
-TE,Cameron,Brate,4.85833327,6.59,7.37,10.51
-TE,Justin,Perillo,3.616666794,12.07,5.83,6.69
-TE,Marcedes,Lewis,2.040000025,3.07,2.98,4.27
-TE,Levine,Toilolo,1.099999958,3.47,4.78,2.03
-TE,Dion,Sims,2.14166673,4.93,12.11,5.4
-TE,Nick,O'Leary,1.399999936,6.63,9,8.83
-TE,Mychal,Rivera,3.571428571,9.97,12.03,5.62
-TE,David,Johnson,-0.174999997,11.88,4.65,12.37
-TE,Busta,Anderson,0,9.8,4.95,11.54
-TE,Jerell,Adams,0,5.57,12.96,6.69
-TE,Tyler,Higbee,0,8.03,10.18,11.29
-TE,Cole,Wick,0,8.6,2.47,5.81
-TE,Adam,Fuehne,0,4.31,12.35,12.65
-TE,Ifeanyi,Momah,0,5.93,7.77,3.75
-TE,Justice,Cunningham,0,9.83,5.82,10.17
-TE,Ryan,O'Malley,0,11.39,4.78,5.58
-TE,Craig,Stevens,3.010000038,10.09,4.9,10.81
-TE,Matt,Spaeth,0.666666667,2.81,6.05,2.74
-TE,MarQueis,Gray,0.699999988,12.22,11.96,2.89
-TE,Kivon,Cartwright,0,7.02,6.77,4.81
-TE,Gerald,Christian,0,3.98,9.12,2.59
-TE,A.J.,Derby,0,10.13,8.25,6.15
-TE,M.J.,McFarland,0,11.65,10.96,9.95
-TE,Anthony,Denham,0,7.28,4.17,12.66
-TE,Danny,Vitale,0,10.85,11.31,9.62
-TE,Ryan,Malleck,0,11.28,4.37,4.49
-TE,Jake,Stoneburner,6.400000254,12.95,6.02,9.48
-TE,Eric,Tomlinson,0,7.23,11.71,11.48
-TE,Nick,Truesdell,0,11.43,8.44,6.42
-TE,Trey,Burton,2.300000032,10.91,9.72,3.07
-TE,Temarrick,Hemingway,0,10.35,6.21,9.74
-TE,Blake,Annen,0,12.94,12.68,5.53
-TE,Matt,Lengel,0,9.71,5.36,12.66
-TE,Chris,Pantale,0,5.04,7.01,8.02
-TE,Brandon,Williams,0,2.72,6.32,6.95
-TE,Khari,Lee,0.300000012,5.54,8.2,9.27
-TE,Asante,Cleveland,0.600000024,11.79,8.46,8.18
-TE,John,Peters,0,7.72,2.23,10.17
-TE,E.J.,Bibbs,0.600000024,4.39,8.86,2.27
-TE,MyCole,Pruitt,1.389999962,11.32,6.42,11.63
-TE,Joshua,Perkins,0,4.28,9.15,7.25
-TE,Josh,Hill,2.461538462,3.35,9.41,3.49
-TE,Brian,Parker,0.550000012,6.35,7.02,10.94
-TE,Brian,Leonhardt,0.899999976,9.46,6.71,3.1
-TE,Sean,McGrath,0,6.39,11.1,7.36
-TE,C.J.,Fiedorowicz,2.246153905,4.36,5.81,4.48
-TE,Darion,Griswold,0,5.57,7.69,4.73
-TE,Jack,Doyle,2.400000095,8,7.94,10.47
-TE,Zach,Sudfeld,0,3.69,9.21,9.7
-TE,Garrett,Griffin,0,5.41,10.39,12.47
-TE,Ben,Koyack,0,6.21,4.14,4.98
-TE,Paul,Lang,0,4.33,9.15,5.58
-TE,Anthony,Fasano,3.850000109,12.9,4.36,12.03
-TE,Troy,Niklas,4.324999809,12.74,12.11,9.41
-TE,Adrien,Robinson,0,12.03,8.82,10.13
-TE,Lee,Smith,1.727272727,8.39,5.48,5.03
-TE,Xavier,Grimble,0,2.33,4.49,11.52
-TE,Austin,Hooper,0,4.48,6.12,6.47
-TE,Cory,Harkey,0.849999984,10.49,9.21,4.58
-TE,Je'Ron,Hamm,0,2.3,4.78,11.12
-TE,Cooper,Helfet,2.785714286,7.27,6.56,2.27
-TE,Rob,Housler,1.060000038,8.48,8.32,7.76
-TE,Kennard,Backman,0,12.85,4.96,11.89
-TE,Phillip,Supernaw,1.350000024,11.84,8.63,11.87
-TE,Luke,Stocker,2.075000048,4.06,8.66,9.66
-TE,Connor,Hamlett,0,10.45,9.82,4.64
-TE,Blake,Bell,2.900000042,10.88,12.83,10.64
-TE,Nic,Jacobs,0.366666675,7.22,9.22,4.08
-TE,Stephen,Anderson,0,3.66,6.24,11.28
-TE,Garrett,Celek,4.609999847,8.25,11.51,4.24
-TE,Benson,Browne,0,7.54,9.43,5.2
-TE,Geoff,Swaim,0.5,9.19,5.93,12.91
-TE,C.J.,Uzomah,0.899999976,9.91,6.95,8.2
-TE,Michael,Cooper,0,7.88,6.99,11.55
-TE,Braedon,Bowman,0,10.45,3.08,12.09
-TE,Wes,Saxton,0,10.36,10.58,9.58
-TE,D.J.,Tialavea,0,10.99,3.87,9.18
-TE,Jerome,Cunningham,1.649999936,5.29,9.36,8.45
-TE,Thomas,Duarte,0,8.07,7.89,4.5
-TE,Brandon,Bostick,0,12.69,4.25,10.19
-TE,Hunter,Henry,0,7.02,10.47,11.72
-TE,Brandon,Myers,3.116666794,11.37,12.47,9.23
-TE,Demetrius,Harris,2.816666603,4.23,5.41,3.99
-TE,David,Morgan,0,6.31,12.22,6.2
-TE,Jesse,James,3.520000076,3.88,5.48,4.96
-WR,Julio,Jones,19.19375038,4.07,11.69,7.16
-WR,Eric,Decker,14.1799998,10.77,2.44,4.77
-WR,T.Y.,Hilton,11.05624962,6.8,8.26,9.53
-WR,Corey,Coleman,0,12.87,4.41,11.22
-WR,Markus,Wheaton,8.056249619,2.57,9.08,7.17
-WR,Kendall,Wright,7.85,11.77,4.76,2.48
-WR,Terrance,Williams,8,5.84,6.71,11.82
-WR,Dontrelle,Inman,6.84166654,2.72,7.59,10.46
-WR,Eddie,Royal,5.35555564,12.92,10.46,3.64
-WR,Jamison,Crowder,6.506249905,10.93,2.92,10.25
-WR,Jarius,Wright,4.139999898,9.28,8.88,7.97
-WR,De'Anthony,Thomas,3.590000153,4.63,5.32,2.6
-WR,Tajae,Sharpe,0,2.99,4.22,4.98
-WR,Dwayne,Harris,6.320000203,6.97,3.26,11.56
-WR,Kenbrell,Thompkins,4.166666667,5.82,6.83,10.04
-WR,Greg,Salas,5.599999905,4.65,3.98,7.32
-WR,Reggie,Diggs,0,11,6.32,12.14
-WR,Jarvis,Turner,0,12.96,5.87,12.74
-WR,Tyrell,Williams,8,4.45,3.65,8.28
-WR,Brittan,Golden,0.25,9.92,12.98,4.09
-WR,Devin,Street,1.889999962,9.53,12.96,7.87
-WR,Geremy,Davis,0.774999976,2.23,3.19,7.58
-WR,Bryan,Walters,5.345454476,9.39,5.55,9.33
-WR,Javontee,Herndon,3.849999905,11.81,7.05,9.01
-WR,Jordy,Nelson,0,2.58,11.06,5.25
-WR,Dez,Bryant,8.177777608,10.22,6.16,10.24
-WR,Larry,Fitzgerald,14.125,9.6,10.54,2.09
-WR,Steve,Smith Sr.,15.42857143,2.52,4.12,2.65
-WR,Jordan,Matthews,11.76249981,8.26,2.73,6.18
-WR,John,Brown,11.66666667,7.4,6.85,10.81
-WR,Brandon,LaFell,6.445454684,6.96,5.52,9.08
-WR,Victor,Cruz,0,9.7,8.01,2.94
-WR,Quincy,Enunwa,3.863636364,3.03,3.78,7
-WR,Justin,Hardy,3.32222218,3.51,12.49,7.4
-WR,Breshad,Perriman,0,5.71,12.06,7.3
-WR,Bruce,Ellington,1.576923077,4.83,11.08,5.11
-WR,Mario,Alford,2,8.84,7.44,8.86
-WR,Bradley,Marquez,1.530000019,11.28,10.59,8.77
-WR,Nelson,Spruce,0,2.79,12.06,2.44
-WR,Malcolm,Mitchell,0,10.54,2.49,6.14
-WR,Tony,Washington,0.800000012,7.94,8.57,11.69
-WR,Evan,Spencer,0,4.23,10.67,8.24
-WR,DeAndre,Smelter,0,11.41,12.63,10.2
-WR,Daniel,Brown,2.349999905,6.16,6.11,3.06
-WR,Donteea,Dye,2.470000076,6.92,9.24,12.79
-WR,Dominique,Williams,0,8.97,7.45,3.32
-WR,Deonte,Thompson,1.51666673,7.68,9.4,3.5
-WR,Ricardo,Louis,0,3.93,11.61,3.11
-WR,Bryce,Treggs,0,11.87,2.82,10.32
-WR,Antonio,Brown,20.01250076,8.69,4.15,6.65
-WR,Odell,Beckham Jr.,18.08666585,8.15,11.33,10.6
-WR,Allen,Robinson,16.5,2.41,5.23,8.91
-WR,DeAndre,Hopkins,17.22500038,12.26,5.42,5.53
-WR,A.J.,Green,14.41874981,8.18,11.8,12.16
-WR,Mike,Evans,11.57333374,11.52,7.28,5.19
-WR,Brandon,Marshall,17.79375076,8.66,6.97,4.14
-WR,Brandin,Cooks,13.22500038,3.09,4.39,10.6
-WR,Alshon,Jeffery,14.63333299,2.84,8.57,2.38
-WR,Keenan,Allen,16,12.89,7.55,2.34
-WR,Sammy,Watkins,14.52307716,12.96,9.42,6.96
-WR,Julian,Edelman,15.77777778,10.24,2.6,8.66
-WR,Randall,Cobb,10.58749962,4.99,8.91,11.06
-WR,Amari,Cooper,11.04374981,4.49,3.1,4.14
-WR,Allen,Hurns,12.87333374,9.1,4.25,10.53
-WR,Michael,Floyd,9.793332926,6.8,4.8,11.62
-WR,Golden,Tate,10.27499962,3.74,2.94,10.02
-WR,Jeremy,Maclin,13.31333313,9.87,10.96,12.17
-WR,Doug,Baldwin,14.36874962,11.31,12.9,8.74
-WR,DeSean,Jackson,9.977778117,4.58,2.17,11.86
-WR,Jarvis,Landry,13.77250004,7.68,12.42,4.71
-WR,Tavon,Austin,10.79374981,4.23,4.66,7.13
-WR,Willie,Snead,9.92666626,2.05,9.62,11.17
-WR,Kamar,Aiken,9.993749619,2.15,2.2,5.8
-WR,Pierre,Garcon,9.356249809,7.69,2.07,11
-WR,Stefon,Diggs,9.484615619,4.99,3.51,7.46
-WR,Donte,Moncrief,8.831250191,12.62,9.56,3.93
-WR,Tyler,Lockett,8.743749619,4.96,8.5,2.86
-WR,Michael,Crabtree,11.79374981,8.27,11.4,8.71
-WR,DeVante,Parker,10.05000019,4.44,2.01,4.79
-WR,Kevin,White,0,2.36,12.61,7.27
-WR,Laquon,Treadwell,0,11.94,2.57,12.54
-WR,Vincent,Jackson,9.080000305,8.86,7.58,11.74
-WR,Anquan,Boldin,9.671428135,4.27,10.38,4.84
-WR,Mohamed,Sanu,4.6875,4.92,5.28,5.86
-WR,Andrew,Hawkins,5.137499809,3.98,5.51,3.17
-WR,Travis,Benjamin,10.23750019,10.02,4.47,6.67
-WR,Torrey,Smith,6.800000191,5.4,11.44,9.22
-WR,Sterling,Shepard,0,3.86,10.49,9.99
-WR,Tyler,Boyd,0,7.53,2.85,11.91
-WR,Will,Fuller,0,5.03,10.75,2.73
-WR,Marvin,Jones Jr.,8.837499619,5.6,11.88,11.71
-WR,Robert,Woods,6.764285496,10.37,9.52,3.34
-WR,Mike,Wallace,5.293333435,7.13,9.53,4.36
-WR,Phillip,Dorsett,3.381818251,12.14,3.16,11.77
-WR,Jermaine,Kearse,7.6875,3.53,6.18,7.56
-WR,Nelson,Agholor,3.369230711,7.42,11.6,8.84
-WR,Rueben,Randle,9.762499809,12.21,11.73,3.24
-WR,Kenny,Britt,6.506249905,4.21,3.79,5.42
-WR,Davante,Adams,6.253846389,2.04,3.65,9.47
-WR,Taylor,Gabriel,3.174999873,3.77,8.42,5.12
-WR,Rishard,Matthews,10.19090895,5.18,10.14,8.97
-WR,Cecil,Shorts III,8.085454767,11.48,10.9,9.49
-WR,Sammie,Coates,1.600000024,3.36,5.88,8.85
-WR,Albert,Wilson,5.514285496,3.09,3.62,2.14
-WR,Seth,Roberts,6,9.71,7.38,4.89
-WR,J.J.,Nelson,5.044444614,12.06,10.6,8.8
-WR,Leonard,Hankerson,9.100000109,4.84,9.9,8.81
-WR,Nate,Washington,8.71538485,3.58,9.81,6.71
-WR,Cole,Beasley,6.599999905,4.57,7.23,4.61
-WR,Brian,Hartline,7.275000254,9.46,8.33,11.37
-WR,Rashad,Greene,4.088888804,2.58,3.99,11.08
-WR,Terrelle,Pryor,2.299999952,11.32,2.66,11.35
-WR,Jaelen,Strong,4.109999847,12.2,5.83,4.46
-WR,Michael,Thomas,0,5.47,8.28,4.67
-WR,TJ,Jones,2.189999962,4.69,9.15,12.08
-WR,Dezmin,Lewis,0,12.31,3.55,10.66
-WR,Andre,Johnson,5.925000191,4.78,6.99,5.63
-WR,Keshawn,Martin,5.5,5.79,2.17,2.24
-WR,Kenny,Stills,5.033333333,2.68,2.65,12.77
-WR,Dorial,Green-Beckham,6.92142868,7.45,2.89,3.34
-WR,Brian,Quick,1.688888868,10.73,12.38,9.65
-WR,Paul,Richardson,4.5,9.09,10.99,10.33
-WR,Andre,Holmes,3.930769113,6.28,8.02,5.78
-WR,Charles,Johnson,2.866666794,4.13,11.22,7.69
-WR,Quinton,Patton,3.806250095,10.71,5.26,2.99
-WR,Brandon,Coleman,4.525000095,3.07,12.28,7.61
-WR,Marqise,Lee,4.044444614,12.25,5.05,11.05
-WR,Jaron,Brown,2.35454542,2.01,4.38,4.61
-WR,Brandon,Tate,0.859999975,8.72,10.9,3.29
-WR,Brice,Butler,6.359999847,11.61,12.29,5.02
-WR,Chris,Hogan,5.812307505,3.13,8.9,8.84
-WR,Devin,Hester,0,11.01,10.9,8.09
-WR,Chris,Givens,3.792857034,10.6,4.57,12.11
-WR,Jeremy,Kerley,2.346666718,9.11,4.04,10.86
-WR,Kenny,Bell,0,2.12,3.92,3.68
-WR,Harry,Douglas,4.892857143,12.11,6.23,9.12
-WR,Quan,Bray,0,4.22,8.72,7.59
-WR,Josh,Huff,4.478571483,4.85,8.56,2.92
-WR,Jared,Abbrederis,2.228571483,5.02,10.16,8.82
-WR,Pharoh,Cooper,0,4.95,5.74,11.08
-WR,Chris,Conley,3.822222392,7.31,11.56,11.3
-WR,Josh,Boyce,0,11.3,10.48,12.54
-WR,Jeremy,Ross,0.681818182,8.32,12.3,11.58
-WR,Griff,Whalen,3.555555556,4.28,10.94,4.43
-WR,Ryan,Grant,4.191666603,3.26,2.51,4.88
-WR,Shane,Wynn,0,9.11,10.32,3.4
-WR,Jordan,Payton,0,11.16,11.89,12.15
-WR,Nick,Williams,3.309091048,3.51,12.5,6.85
-WR,Rannell,Hall,0,6.39,5.51,4.51
-WR,Issac,Blakeney,0,8.42,10.07,9.26
-WR,Jordan,Williams-Lambert,0,9.62,7.63,6.77
-WR,Rashad,Ross,2.646153964,7.31,12.44,11.31
-WR,Justin,Hunter,4.822222392,11.94,4.62,3.68
-WR,Cordarrelle,Patterson,0.964285714,4.6,3.2,4.14
-WR,Jerome,Simpson,2.779999924,10.22,10.75,8.34
-WR,T.J.,Graham,1.466666698,10.05,9.52,9
-WR,Chris,Moore,0,2.08,7.99,9.12
-WR,Geronimo,Allison,0,3.53,11.32,11.99
-WR,K.J.,Brent,0,4.93,12.09,6.13
-WR,Paul,McRoberts,0,2.54,7.06,9.37
-WR,Jace,Billingsley,0,8.44,9,2.12
-WR,Andy,Jones,0,7.7,4.36,4.13
-WR,Ed,Eagan,0,9.75,7.55,7.26
-WR,Chris,Hubert,0,5.5,6.32,11.15
-WR,Isaac,Fruechte,0,10.78,10.27,12.38
-WR,Eric,Weems,0.166666667,12.8,5.27,3.47
-WR,Aaron,Burbridge,0,12.08,9.41,7.78
-WR,Ben,Roberts,0,5.88,8.44,3.09
-WR,Kieran,Duncan,0,4.81,4.21,3.56
-WR,Rashard,Higgins,0,5.14,11.86,3.88
-WR,Vince,Mayle,0,9.62,6.4,3.71
-WR,Chandler,Worthy,0.966666698,4.28,5.09,2.19
-WR,Johnny,Holton,0,3.47,10.43,4.92
-WR,Jakeem,Grant,0,2.69,6.61,3.21
-WR,Isaiah,Burse,0,12.19,3.62,2.43
-WR,Eli,Rogers,0,3.87,3.72,4.87
-WR,Chris,Matthews,2.509090944,4.85,3.76,5.57
-WR,Tommylee,Lewis,0,8.21,6.13,10
-WR,D'haquille,Williams,0,6.07,9.18,8.33
-WR,Dwayne,Bowe,1.114285742,5.28,9.46,12.36
-WR,Cayleb,Jones,0,10.23,12.27,9.64
-WR,Jaxon,Shipley,0,10.12,12.61,3.96
-WR,Dres,Anderson,0,2.03,5.19,7.75
-WR,Braxton,Miller,0,2.94,9.63,7.31
-WR,Michael,Bennett,0,10.81,12.82,12.16
-WR,Tavarres,King,0,12.47,5.45,10.09
-WR,Freddie,Martino,0,3.25,11.36,5.99
-WR,Jeremy,Butler,6.474999905,3.91,4.94,12.5
-WR,Jordan,Leslie,0,10.31,3.57,10.68
-WR,Lucky,Whitehead,1.108333349,12.62,9.88,2.6
-WR,Tyler,Murphy,2.099999905,10.62,6.46,8.96
-WR,Frankie,Hammond Jr.,-0.4,9.94,12.52,2.32
-WR,Quinton,Dunbar,0,5.95,12.45,9.66
-WR,Matt,Hazel,0,3.86,10.42,10.05
-WR,Walt,Powell,0,12.55,11.85,8.96
-WR,Jamel,Johnson,0,5.59,2.24,7.93
-WR,Montario,Hunter,0,4.85,11.87,3.67
-WR,Franky,Okafor,0,5.17,2.75,3.49
-WR,Moritz,Boehringer,0,12.11,4.19,4.21
-WR,Valdez,Showers,0,2.19,11.06,11.24
-WR,Donte,Foster,0,5.35,4.35,7.43
-WR,DeAndre,Carter,0,11.84,5.7,6.68
-WR,Jake,Kumerow,0,5.52,3.8,11.51
-WR,Rashaun,Simonise,0,4.89,3.52,10.11
-WR,Joshua,Stangby,0,2.8,5.76,12.49
-WR,Rashawn,Scott,0,12.55,3.55,12.94
-WR,Reggie,Bell,0,6.87,10.74,5.31
-WR,Herb,Waters,0,10.39,3.18,6.35
-WR,Kevin,Smith,1.933333397,5.49,2.01,2.38
-WR,Kasen,Williams,1.799999952,8.2,9.37,5.53
-WR,C.J.,Goodwin,0,5.04,7.44,9.42
-WR,Tre,McBride,1.433333397,9.72,8.28,12.27
-WR,Rasheed,Bailey,0,8.43,5.6,9.83
-WR,Jaydon,Mickens,0,8.46,3.52,2.3
-WR,Joshua,Bellamy,4.390000153,3.83,2.69,5.82
-WR,Jamaal,Jones,0,3.47,5.51,3.97
-WR,Bernard,Reedy,0,3.41,7.7,2.65
-WR,Trevor,Davis,0,5.52,4.24,6.39
-WR,Cameron,Meredith,2.5,10.11,9.06,5.19
-WR,R.J.,Harris,0,11.25,4.92,11.41
-WR,Xavier,Rush,0,10.6,5.33,3.05
-WR,Jarrett,Boykin,0,8.81,12.89,11.07
-WR,Devin,Lucien,0,6.82,3.86,3.19
-WR,Antwan,Goodley,0,12.71,12.27,4.27
-WR,Shaq,Evans,0,2.24,6.07,12.85
-WR,Leonte,Carroo,0,8.45,10.55,2.74
-WR,Devin,Fuller,0,4.59,7.95,4.14
-WR,Levi,Norwood,0,3.71,7.3,12.34
-WR,Myles,White,2.033333249,9.24,11.61,10.2
-WR,Tevin,Jones,0,6.06,12.84,11.47
-WR,Marvin,Hall,0,10.85,8.47,7.77
-WR,Daniel,Braverman,0,2.72,4.95,4.52
-WR,Marken,Michel,0,9.16,12.1,11.89
-WR,Hakeem,Nicks,1.48333327,4.01,3.86,6.79
-WR,Ty,Montgomery,5.75,4.85,6.58,3.25
-WR,Adam,Thielen,2.929999924,3.8,7.72,9.84
-WR,Aldrick,Robinson,0,4.7,3.24,12.03
-WR,Devon,Cajuste,0,10.08,6.07,3.28
-WR,Keith,Mumphery,1.421428544,11.15,9.72,9.92
-WR,Andre,Caldwell,2.041666667,12.7,6.06,2.28
-WR,Deshon,Foxx,0,8.49,7.47,10.46
-WR,Quinshad,Davis,0,5.91,12.36,11.29
-WR,Cody,Core,0,2.62,2.31,2.82
-WR,Ed,Williams,0,2.51,9.2,12.35
-WR,T.J.,Thorpe,0,3.94,2.23,5.54
-WR,Rod,Streater,1.299999952,8.65,7.2,10.11
-WR,Richard,Mullaney,0,11.03,7.58,11.82
-WR,Greg,Little,0,8.44,7.27,9.55
-WR,Marcus,Leak,0,6.57,5.93,10.35
-WR,Vincent,Brown,2.700000048,11.62,8.71,9.91
-WR,Douglas,McNeil III,0,3.01,6.18,6.03
-WR,Demarcus,Ayers,0,10.82,3.37,11.66
-WR,Demarcus,Robinson,0,10.96,3.89,9.23
-WR,Michael,Campanaro,3.424999952,6.06,2.49,9.6
-WR,MarQuez,North,0,9.31,8.52,7.32
-WR,Russell,Shepard,1.471428599,6.27,3.28,3.23
-WR,Hunter,Sharp,0,3.88,8.86,11.95
-WR,Titus,Davis,0,11.26,4.09,6.47
-WR,Darius,Jennings,6.233333588,2.85,10.44,11.77
-WR,Damond,Powell,0,11.36,9.61,10.69
-WR,Aaron,Dobson,3.433333397,5.79,8.26,2.18
-WR,Roger,Lewis,0,12.14,12.54,8.52
-WR,Mike,Thomas,0,10.33,6.5,11.14
-WR,DeAndre,Reaves,0,7.82,3.82,2.38
-WR,Kadron,Boone,0,11.79,4.24,4.91
-WR,Nathan,Palmer,0,4.35,9.62,11.54
-WR,Maurice,Harris,0,12.79,3.27,3.68
-WR,Brian,Tyms,0,7.16,4.72,10.83
-WR,Kenny,Lawler,0,3.23,9.99,10.76
-WR,James,Wright,0,3.24,3.98,12.18
-WR,Kashif,Moore,0,8.84,12.44,5.15
-WR,Chris,Harper,-0.299999992,2.75,7.9,7.84
-WR,Jared,Dangerfield,0,6.6,8.24,9.76
-WR,Josh,Lenz,0,4.13,3.63,11.77
-WR,Marquis,Bundy,0,8.8,10.64,8.72
-WR,DeAndrew,White,1.399999976,11.99,6.57,11.46
-WR,Max,McCaffrey,0,2.39,9.88,12.02
-WR,Andre,Roberts,3.125,10.54,7.96,7.84
-WR,Adam,Humphries,4.136363636,12.88,11.23,5.27
-WR,Mekale,McKay,0,2.23,11.49,5.99
-WR,Charone,Peake,0,10.92,2.55,3.92
-WR,Alex,Erickson,0,10.49,9.89,10.23
-WR,Jonathan,Krause,1.049999952,12.29,7.76,2.09
-WR,A.J.,Cruz,0,6.5,10.95,6.28
-WR,Marlon,Moore,2.200000048,3.89,10.99,2.23
-WR,Matthew,Slater,0,5.93,7.63,6.74
-WR,Darrius,Heyward-Bey,4.900000139,3,5.56,9.16
-WR,Daniel,Anthrop,0,11.65,2.14,11.29
-WR,Kyle,Williams,0,7.34,5.62,4.16
-WR,Marc,Mariani,2.4375,10.36,8.48,9.51
+Position,Name,Fanduel,Owned 50/50,Owned GPP,Owned Combined,DFSReport Ownership,DFSReport Projected,DFSReport+Owned,Formula 7,Formula 8,Formula 5,Formula 6,Formula 9,FFA Points,FFA Ceiling,FFA Floor,FFA Points/Ceiling Avg,FFA Points/Floor Avg,FFA Ceiling/Floor Avg,FantasyPros,FantasyLabs,Fantasy Labs Ceiling,Fantasy Labs Floor,Fantasy Labs 2,FantasyLabs3,FantasyLabs4,Fantasy Labs 5,Rotogrinders,Counting
+D,Kansas City Chiefs,11.13,8,8,8,,,8,9.95,276.06835,165,21.9597,97.4879,140.0667,132.4033,110.7,136.235,125.3834,121.5517,140.0667,5.7,10.3,1.1,25.89,5.7,16.72,95.32,10.16,2
+D,Arizona Cardinals,10.5,2,2,2,,,2,67,267.19725,160.7745,19.6894,85.7887,140.5551,132.8843,94.4,136.7197,117.4776,113.6422,140.5551,4.6,8.9,0.3,32.18,4.6,3.95,18.18,8.68,1
+D,Seattle Seahawks,10.31,12,12,12,,,12,86.3,262.40555,155.3142,21.0252,82.9571,128.4571,121.5969,81.7,125.027,105.0786,101.6485,128.4571,7.2,14.2,0.2,36.53,7.2,7.47,53.78,10.9,3
+D,Houston Texans,9.44,8,8,8,,,8,62.25,262.3426,153.9213,20.6713,78.5929,130.4634,123.7584,105.5,127.1109,117.9817,114.6292,130.4634,4.6,9.5,-0.3,17.83,4.6,-2.34,-10.75,9.41,0
+D,Philadelphia Eagles,8.25,14,14,14,,,14,-16.9,239.06225,138.464,20.7309,72.2181,112.768,117.9885,105.4,115.37825,109.084,111.6943,112.768,4.4,8.9,-0.1,4.86,4.4,-0.19,-0.84,8.64,3
+D,Pittsburgh Steelers,9.31,0,0,0,,,0,39.6,239.49955,135.2559,17.3926,82.2945,119.0497,130.1497,103.55,124.5997,111.2999,116.8499,119.0497,5.3,9.9,0.7,25.49,5.3,9.36,49.61,8.58,0
+D,Minnesota Vikings,8.81,4,4,4,,,4,-7.25,256.214,153.823,19.7584,81.6723,132.9538,126.2204,107.8,129.5871,120.3769,117.0102,132.9538,5,9.9,0.1,15.49,5,0.77,3.83,7.85,4
+D,Cincinnati Bengals,8.75,1,1,1,,,1,40.75,241.57525,145.0582,17.9601,77.7718,127.1628,115.9249,103.4,121.54385,115.2814,109.6625,127.1628,5,9.9,0.1,16.45,5,0.81,4.07,8.54,0
+D,New York Jets,7.31,1,1,1,,,1,-21.95,200.5572,121.164,15.674,67.3752,106.0124,117.9396,88.05,111.976,97.0312,102.9948,106.0124,4.6,9.3,-0.1,-4.64,4.6,0.2,0.91,6.75,0
+D,Buffalo Bills,6.13,1,1,1,,,1,-8,181.2474,112.389,14.3115,66.3974,98.3013,106.1922,75.7,102.24675,87.0007,90.9461,98.3013,4.2,8.4,-1.7,-16.19,4.2,9.71,40.78,7.48,0
+D,Los Angeles Rams,8.69,10,10,10,,,10,75.65,249.4927,140.33,20.1191,77.2917,116.8267,123.482,107.55,120.15435,112.1884,115.516,116.8267,5.6,10.6,0.6,9.61,5.6,3.42,19.16,8.97,1
+D,San Francisco 49ers,4.5,2,2,2,,,2,-15.95,148.25495,94.3128,12.1058,53.5259,81.8336,97.1927,49.55,89.51315,65.6918,73.3714,81.8336,3,7.1,-1.1,-36.28,3,8.5,25.5,5.96,0
+D,New England Patriots,8.44,0,0,0,,,0,-37.7,222.31855,145.1315,17.6706,78.6846,127.9169,121.5533,97.65,124.7351,112.7835,109.6017,127.9169,4.9,9.5,0.3,16.08,4.9,2.25,11.01,7.08,0
+D,New York Giants,7.38,3,3,3,,,3,-11.65,199.50905,119.2168,15.8164,65.3313,103.0816,114.7049,83.45,108.89325,93.2658,99.0775,103.0816,4,7.9,0.1,4.56,4,0.14,0.58,7.3,0
+D,Indianapolis Colts,7.63,2,2,2,,,2,1.55,221.69695,126.7415,16.7925,72.0069,110.1702,124.7035,95.25,117.43685,102.7101,109.9768,110.1702,5.2,9.6,0.8,4.49,5.2,1.79,9.32,8.65,0
+D,Dallas Cowboys,5.25,0,0,0,,,0,-44.65,161.74995,96.6666,12.5068,59.6355,85.037,95.4759,75.25,90.25645,80.1435,85.363,85.037,4,8.8,-0.8,-34.93,4,9.84,39.35,6.65,0
+D,Baltimore Ravens,6.44,1,1,1,,,1,1.3,189.10935,107.8381,14.1007,64.2503,94.3672,108.8343,78.05,101.60075,86.2086,93.4422,94.3672,3.7,8.7,-1.3,-20.01,3.7,8.37,30.98,6.6,0
+D,Chicago Bears,5.06,0,0,0,,,0,-62.45,173.5124,108.2988,13.9579,64.8053,95.3989,105.777,85.35,100.58795,90.3745,95.5635,95.3989,3.9,8.8,-1,-22.35,3.9,7.67,29.92,6.14,0
+D,Oakland Raiders,7,0,0,0,,,0,-57.7,210.44945,128.0369,16.3401,71.3268,112.7439,117.4111,103.4,115.0775,108.072,110.4056,112.7439,4.8,9.2,0.4,-1.52,4.8,-0.27,-1.29,5.86,0
+D,Green Bay Packers,7.56,5,5,5,,,5,42.55,238.84345,134.5716,18.2804,73.1543,115.0859,121.0151,104.4,118.0505,109.743,112.7076,115.0859,5.4,10.3,0.5,-1.39,5.4,-0.39,-2.08,9.08,0
+D,Detroit Lions,6.06,0,0,0,,,0,-9.45,197.29805,119.7883,15.2305,62.1672,105.2785,117.1391,85.8,111.2088,95.5393,101.4696,105.2785,5.4,10.1,0.7,-17.33,5.4,-6.62,-35.73,8.23,0
+D,Tampa Bay Buccaneers,6.63,0,0,0,,,0,-63.45,193.36785,121.6679,15.3169,65.8683,106.9492,116.8873,83.85,111.91825,95.3996,100.3687,106.9492,5.4,10.3,0.5,-6.09,5.4,-1.69,-9.14,7.88,0
+D,Washington Redskins,8.31,0,0,0,,,0,-69.3,203.75925,126.5423,16.1318,73.4751,111.282,124.1545,91.4,117.71825,101.341,107.7773,111.282,5.4,10.2,0.6,12.99,5.4,4.29,23.19,6.9,0
+D,Atlanta Falcons,5.81,0,0,0,,,0,-5.95,176.05195,105.9303,13.1694,58.974,93.2936,106.7167,61.7,100.00515,77.4968,84.2084,93.2936,3.9,8.2,-0.4,-21.77,3.9,2.79,10.86,6.82,0
+D,Miami Dolphins,6,0,0,0,,,0,-154,148.45075,106.9569,13.353,59.9514,94.1839,100.6837,72.85,97.4338,83.517,86.7669,94.1839,4,8.5,-0.5,-18.02,4,3.06,12.26,5.27,0
+D,San Diego Chargers,5.19,1,1,1,,,1,-37.25,184.9422,115.9202,14.9138,69.0859,101.4624,110.0596,86.4,105.761,93.9312,98.2298,101.4624,4.1,9.1,-0.9,-29.93,4.1,10.05,41.2,5.45,0
+D,Jacksonville Jaguars,6.19,1,1,1,,,1,-71.65,211.8796,129.2777,16.757,69.0952,113.2468,119.1656,104.4,116.2062,108.8234,111.7828,113.2468,4.5,9,1.1,-11.59,4.5,-5.16,-23.23,6.5,4
+D,Tennessee Titans,5.63,7,7,7,,,7,4.35,182.96085,114.4116,15.6592,64.2727,95.9436,109.5345,64.8,102.73905,80.3718,87.1673,95.9436,4.9,10.5,-0.7,-22.45,4.9,8.08,39.61,6.78,0
+D,New Orleans Saints,5.13,0,0,0,,,0,3.6,171.21685,90.6321,12.4491,50.9308,79.5396,113.1545,72,96.34705,75.7698,92.5773,79.5396,4.6,9.2,0.5,-29.05,4.6,-6.15,-28.27,6.82,1
+D,Cleveland Browns,5.44,7,7,7,,,7,-7.1,175.1399,106.7533,15.1534,58.7651,89.2918,102.4962,74.4,95.894,81.8459,88.4481,89.2918,4.2,8.8,-0.4,-21.34,4.2,3.16,13.25,6.66,0
+K,Stephen Gostkowski,10.69,0,0,0,,,0,-25.5,306.10695,122.918,18.456,609.6697,157.0906,162.9411,141.0916,160.01585,149.0911,152.0164,6.6,10.5,14.8,7.4,35.04,10.5,402.99,"4,231.40",10.46,3
+K,Chandler Catanzaro,8.94,0,0,0,,,0,75.2,282.61075,106.1922,15.6688,370.3429,134.1729,138.6757,115.8,136.4243,124.9865,127.2379,7.7,10.7,32.5,7.3,8.89,10.7,225.64,"2,414.33",8.95,2
+K,Justin Tucker,9.13,0,0,0,,,0,10.2,308.4541,118.3959,17.7681,128.8456,150.5112,155.9278,139.558,153.2195,145.0346,147.7429,7.1,11.4,6.5,3.1,15.61,11.4,35.87,408.88,9.15,1
+K,Dan Bailey,8.19,0,0,0,,,0,-35.35,276.32185,109.8324,16.4409,94.6547,139.2098,142.8241,130.1,141.01695,134.6549,136.4621,7.6,10.3,14.4,6.8,1.75,10.3,17.65,181.81,8.3,0
+K,Cairo Santos,9.13,0,0,0,,,0,8.85,281.5915,106.6427,16.0633,471.5686,135.1236,138.2358,128,136.6797,131.5618,133.1179,7.4,10.1,17.8,8.2,21.56,10.1,317.85,"3,210.33",9.2,0
+K,Adam Vinatieri,7.69,0,0,0,,,0,9.65,202.46595,96.5016,11.662,23.4754,122.0688,141.4943,0,131.78155,61.0344,70.7472,6.8,9.6,9.4,5,-5.09,9.6,-22.95,-220.37,8.05,0
+K,Steven Hauschka,9.13,0,0,0,,,0,81.2,312.13665,113.3915,17.0451,80.8648,143.5053,147.7627,135.1,145.634,139.3027,141.4314,8.3,10.6,3.2,1,14,10.6,4.75,50.34,9.28,1
+K,Caleb Sturgis,7.46,0,0,0,,,0,-25.7,154.05215,71.21,9.0839,32.8089,88.7967,118.9109,0,103.8538,44.3984,59.4555,6.5,8.7,5.8,2.2,-5.74,8.7,-6.38,-55.46,7.47,0
+K,Mason Crosby,8.27,0,0,0,,,0,47.05,221.51955,104.009,12.5136,-66.148,131.3787,149.1817,0,140.2802,65.6894,74.5909,7.6,10.5,15.3,7.7,-7.45,10.5,-92.11,-967.16,10.17,0
+K,Blair Walsh,9.56,0,0,0,,,0,-7.15,282.1856,108.6925,16.4712,152.6313,138.3566,141.6671,133.2909,140.01185,135.8238,137.479,6.4,10.1,9.7,3.7,17.61,10.1,63.82,644.56,8.86,0
+K,Mike Nugent,8.19,0,0,0,,,0,48.15,259.955,98.6477,14.7954,65.3465,125.2969,130.4162,114.6,127.85655,119.9485,122.5081,6.2,9.4,4.2,1.6,0.83,9.4,0.52,4.93,7.84,0
+K,Kai Forbath,6.45,0,0,0,,,0,12.9,222.7513,84.5486,14.5052,62.1653,112.7314,124.1467,79.0931,118.43905,95.9123,101.6199,0,,,,,,0,0,,0
+K,Connor Barth,8.58,0,0,0,,,0,-53.75,62.8984,32.4784,4.7174,-43.8244,37.0712,69.1544,0,53.1128,18.5356,34.5772,6,9.7,4.6,2,-59.58,9.7,-53.17,-515.71,7.23,0
+K,Chris Boswell,10.5,0,0,0,,,0,55.5,309.20735,114.8926,17.3298,174.7266,146.1234,153.3783,133.7896,149.75085,139.9565,143.584,7.4,10.1,7.7,3.1,32.5,10.1,78.34,791.27,9.23,6
+K,Dan Carpenter,7.25,0,0,0,,,0,-0.1,253.7535,99.709,15.0951,50.7863,126.8286,131.8432,122.2066,129.3359,124.5176,127.0249,6.1,9.2,4.7,2.1,-14.61,9.2,-13.26,-122.04,7.27,0
+K,Phil Dawson,6.5,0,0,0,,,0,-9.45,234.60835,92.9209,14.0442,44.6433,117.1112,128.8943,107,123.00275,112.0556,117.9472,6.7,10.3,3.2,1.2,-32.99,10.3,-13.05,-134.4,8.23,0
+K,Matt Prater,7.38,0,0,0,,,0,0.65,256.27115,101.0202,15.2474,6.825,127.8436,136.5343,119.0208,132.18895,123.4322,127.7776,6.9,10.2,9.9,4.7,-9.9,10.2,-46.97,-479.06,8.14,0
+K,Sebastian Janikowski,7.13,0,0,0,,,0,-47.4,236.2047,94.7234,14.245,-64.1179,120.2478,129.6138,107.1,124.9308,113.6739,118.3569,6.5,8.4,14.3,6.1,-16.43,8.4,-120.42,"-1,011.52",7.74,0
+K,Nick Folk,9.29,0,0,0,,,0,-14.55,248.1262,100.0934,14.9374,74.9646,126.3578,133.6593,111.9775,130.00855,119.1677,122.8184,7.4,10.2,15.1,6.5,0.75,10.2,7.54,76.91,7.77,0
+K,Aldrick Rosas,0,,,,,,,5.45,0.95,0,0,0,,,,,,,,,,,,,0,0,,0
+K,Marshall Morgan,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+K,Josh Lambo,7.81,0,0,0,,,0,-29.35,235.87385,96.025,14.4823,56.9614,121.9667,127.945,113.5693,124.95585,117.768,120.7572,5.6,9.8,8.6,4.2,-1.48,9.8,-5.22,-51.19,8.02,0
+K,Tom Obarski,0,,,,,,,-5.35,3.65,0,0,0,,,,,,,,,,,,,0,0,,0
+K,Andrew Franks,4.88,0,0,0,,,0,-143.1,170.53225,80.7879,11.4843,-318.5467,101.7172,116.1301,64.7,108.92365,83.2086,90.4151,6,9,12.4,5.6,-52.45,9,-327.81,"-2,950.32",6.81,2
+K,Jason Myers,7.63,0,0,0,,,0,-67.15,220.14775,91.3946,13.6792,57.8407,115.9428,121.3099,104.4,118.62635,110.1714,112.855,5.9,8.9,3.7,1.1,-4.98,8.9,-1.8,-16.05,7.65,0
+K,Travis Coons,7.06,0,0,0,,,0,-5.9,189.95935,76.3481,15.5912,64.9635,101.7975,117.7825,61.3412,109.79,81.5694,89.5619,,,,,,,0,0,,0
+K,Matt Bryant,7.4,0,0,0,,,0,3.65,262.842,101.5635,15.2041,-197.0056,128.6013,135.7268,116.4546,132.16405,122.528,126.0907,6.9,10.1,19.4,9.4,-11.33,10.1,-208.73,"-2,108.19",8.46,0
+K,Robbie Gould,9.87,0,0,0,,,0,-52.75,245.8415,95.7652,20.682,86.1749,127.6869,133.2092,118.6,130.44805,123.1435,125.9046,,,,,,,0,0,,1
+K,Shaun Suisham,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+K,Greg Zuerlein,6.93,0,0,0,,,0,73.15,173.29785,80.3342,9.6404,29.3066,101.1622,114.9713,0,108.06675,50.5811,57.4857,5.9,9,5.5,2.1,-11.01,9,-11.44,-102.96,7.29,0
+K,Ryan Succop,5.71,0,0,0,,,0,5.45,199.00645,79.6848,11.7933,2.9392,100.7131,112.2867,82.4,106.4999,91.5566,97.3434,5.4,8.5,5.8,2.2,-42.22,8.5,-45.79,-389.25,5.54,0
+K,Cody Parkey,5.67,0,0,0,,,0,-25.7,177.94035,80.6615,13.9979,58.3246,107.5486,129.1835,0,118.36605,53.7743,64.5918,,,,,,,0,0,,0
+K,Nick Novak,7,0,0,0,,,0,63.95,250.9908,95.1032,13.9306,53.2088,119.2542,131.6732,93.9,125.4637,106.5771,112.7866,8.3,10.2,4.2,1.6,-8.85,10.2,-6.07,-61.9,8.19,1
+K,Giorgio Tavecchio,0,,,,,,,-47.4,-2.4,0,0,0,,,,,,,,,,,,,0,0,,0
+K,Patrick Murray,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+K,Zach Hocker,5.63,0,0,0,,,0,48.15,12.15,0,0.225,0.9375,0,0,0,0,0,0,,,,,,,0,0,,0
+K,Dustin Hopkins,8.33,0,0,0,,,0,-58.4,243.3039,97.714,14.8203,196.724,123.6187,130.5704,117.6,127.09455,120.6094,124.0852,7,9.5,21.8,10.4,5.16,9.5,111.06,"1,055.08",7.97,1
+K,Roberto Aguayo,0,,,,,,,-52.85,-3.35,0,0,0,,,,,,,,,,,,,0,0,,1
+QB,Cardale Jones,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Aaron Rodgers,19.33,5,6,5.5,,,5.5,52.55,667.1198,260.3682,40.3579,-187372.941,324.3242,335.9912,307.5,330.1577,315.9121,321.7456,20.4,21.4,33.3,9.5,-25.31,875.53,"-1,713.63","-1,500,338.31",22.91,0
+QB,Andrew Luck,20.41,3,6,4.5,,,4.5,14.15,642.24085,252.7392,39.0185,40849.6369,315.0522,328.347,297.7303,321.6996,306.3913,313.0387,20.4,21.7,32,11.4,20.58,199.83,"1,628.77","325,478.70",21.41,0
+QB,Drew Brees,21.01,9,9,9,,,9,21.9,617.1003,245.1106,38.7467,176595.5719,301.2308,313.6687,283.2703,307.44975,292.2506,298.4695,19.7,20.2,33.7,6.7,111.06,278.64,"5,065.61","1,411,502.94",21.52,0
+QB,Russell Wilson,21.52,24,16,20,,,20,108.2,705.59545,274.0946,45.0399,185608.9344,328.1594,344.5321,301.94,336.34575,315.0497,323.2361,20.6,21,32.4,9.6,159.29,142.58,"10,404.52","1,483,505.08",21.49,8
+QB,Ben Roethlisberger,20.34,4,8,6,,,6,55.5,600.2533,235.2083,36.648,21812.8227,292.2444,299.9373,277.0805,296.09085,284.6625,288.5089,18,19.1,32.3,5.9,12.25,388.71,445.78,"173,282.90",19.83,0
+QB,Blake Bortles,20.88,2,4,3,,,3,-63.15,573.8013,231.2626,35.5547,672778.3839,291.0834,306.7753,267.9605,298.92935,279.522,287.3679,16.4,18.2,28.3,8.1,161.52,798.53,"6,738.68","5,381,014.16",18.73,1
+QB,Carson Palmer,20.01,0,1,1,,,1,74.2,584.1279,223.641,34.1329,94076.4109,282.488,288.3853,274.4945,285.43665,278.4913,281.4399,17,18.6,31.7,5.5,78.02,297,"2,530.09","751,427.14",19.28,0
+QB,Kirk Cousins,19.03,8,12,10,,,10,-49.4,569.17655,230.7655,36.8112,568454.9995,282.8707,297.4712,265.9405,290.17095,274.4056,281.7059,16.9,19.1,31.9,6.3,206.81,572.71,"7,938.50","4,546,456.61",18.31,0
+QB,Derek Carr,17.77,26,21,23.5,,,23.5,-22.9,559.5913,232.748,39.3626,32915.6087,270.8973,274.448,258.74,272.67265,264.8187,266.594,18.6,19.9,32.5,7.3,92.91,59.77,"4,386.39","262,193.93",19.59,1
+QB,Andy Dalton,19.32,0,1,1,,,1,49.15,554.8189,213.8266,32.7252,147828.391,270.9188,278.7666,262.7336,274.8427,266.8262,270.7501,14.7,17.5,28,7,152.16,226.38,"5,219.08","1,181,492.25",17.52,0
+QB,Matt Ryan,15.62,0,4,4,,,4,7.65,530.61925,209.4903,32.268,-62839.7451,260.5037,264.4701,251.461,262.4869,255.9824,257.9656,17.5,18.2,29.8,6.6,-43.4,324.31,"-1,553.48","-503,805.34",17.32,0
+QB,Marcus Mariota,18.38,0,2,2,,,2,7.45,517.43175,206.4757,31.484,10475.5679,259.8176,265.8869,243.4414,262.85225,251.6295,254.6642,15.5,17.2,27.5,6.9,43.6,58.14,"1,422.89","82,723.60",18.1,0
+QB,Jameis Winston,18.12,3,6,4.5,,,4.5,-49.35,555.6548,223.6476,34.6295,183661.3391,279.2801,288.0294,264.42,283.65475,271.8501,276.2247,16.9,17.9,28.1,7.7,85.03,445.8,"3,293.25","1,468,125.93",18.75,0
+QB,Matthew Stafford,18.95,34,26,30,,,30,31.65,582.4092,241.5141,42.0272,170183.3644,276.9854,293.5828,253.9648,285.2841,265.4751,273.7738,17.2,19.3,31.4,7.2,85.73,363.66,"3,740.65","1,360,310.96",18.28,1
+QB,Ryan Fitzpatrick,18.76,0,1,1,,,1,-13.55,415.4048,215.5269,25.4995,54068.0894,273.1359,284.6378,0,278.88685,136.568,142.3189,15.2,16.9,27.3,6.5,82.53,174.41,"2,474.94","431,662.73",17.11,0
+QB,Philip Rivers,18.59,0.1,1,0.55,,,0.55,-27.8,563.64825,225.2388,34.1198,24497.4173,286.235,298.026,267.4005,292.1305,276.8178,282.7133,15.2,17.8,30.1,5.5,43.46,152.11,"1,280.57","194,790.92",16.73,1
+QB,Eli Manning,18.84,2,6,4,,,4,-1.35,567.27275,225.9844,34.7521,94363.0964,282.3125,289.4205,265.2,285.8665,273.7563,277.3103,17.8,18.3,31.2,5.4,62.64,390.29,"1,931.22","753,730.45",18.44,0
+QB,Tyrod Taylor,19.79,2,6,4,,,4,3.9,557.4263,220.9363,34.4216,44880.0118,275.8817,288.5892,266.7,282.23545,271.2909,277.6446,17.4,18,28.8,7.2,158.58,60.46,"5,918.91","357,877.34",18.51,0
+QB,Brock Osweiler,15.35,5,8,6.5,,,6.5,69.45,492.32155,194.437,30.0614,5796.6078,238.6826,258.8579,199.52,248.77025,219.1013,229.189,16.6,17.3,28.1,6.5,60.48,23.75,"1,911.07","45,388.96",16.21,0
+QB,Joe Flacco,17.39,0,1,1,,,1,10.2,523.0261,202.9928,30.9447,10847.5582,257.007,266.4382,245.2,261.7226,251.1035,255.8191,14.1,16.8,28.7,4.9,7.13,508.94,168.4,"85,707.90",15.42,0
+QB,Alex Smith,17.39,1,2,1.5,,,1.5,10.35,537.201,208.6731,31.7795,16799.7018,262.6141,268.0938,251.38,265.35395,256.9971,259.7369,17.1,16.7,27.3,6.1,106.43,45.03,"2,959.95","133,301.08",17.34,0
+QB,Robert Griffin III,0,2,3,2.5,,,2.5,-3.4,392.62855,165.5194,24.0125,99.3135,205.4592,236.2387,135.9,220.84895,170.6796,186.0694,14,17.2,27.7,6.7,-6.41,0.1,-204.5,-19.68,17.13,0
+QB,Jimmy Garoppolo,-0.06,0,1,1,,,1,-27.5,127.65965,62.1211,8.8081,-849.1944,68.3615,76.8563,51.74,72.6089,60.0508,64.2982,15.2,17.6,29.4,5.8,-35.41,6.67,"-1,062.77","-7,091.34",17.33,0
+QB,Josh McCown,17.02,0,0,0,,,0,-5.9,93.1085,40.6041,6.9179,29.6481,53.3888,74.9394,7.3,64.1641,30.3444,41.1197,1.5,,,,,,0,0,,0
+QB,Sam Bradford,14.92,0,0,0,,,0,-7.15,368.24265,139.0268,24.7502,106.0724,183.469,223.5863,133.261,203.52765,158.365,178.4237,3.8,,,,,,0,0,,0
+QB,Jared Goff,0,0,0,0,,,0,73.15,265.5591,118.541,20.0727,83.6364,158.0546,185.709,0,171.8818,79.0273,92.8545,,,,,,,0,0,,0
+QB,Jay Cutler,15.83,0,0,0,,,0,-53.75,488.47745,195.9559,29.689,19170.9215,249.3079,256.3185,239.5206,252.8132,244.4143,247.9196,13.2,16.1,27.6,4.6,19.46,382.96,397.76,"152,328.26",15.63,0
+QB,Colin Kaepernick,12.8,0,0,0,,,0,-9.45,160.83355,60.7784,11.2322,48.1382,80.2378,128.5521,33.5394,104.39495,56.8886,81.0458,1.6,,,,,,0,0,,0
+QB,Ryan Tannehill,16.86,0,0,0,,,0,-145.1,499.80175,205.9736,31.1799,17133.1804,263.0315,274.1405,246.6,268.586,254.8158,260.3703,13,15.3,26.7,3.9,24.48,348.7,389.94,"135,974.15",14.63,0
+QB,Geno Smith,21,0,0,0,,,0,-13.55,56.1515,21.4317,4.4834,19.2147,28.0256,48.4398,7.912,38.2327,17.9688,28.1759,1.1,,,,,,0,0,,1
+QB,Blaine Gabbert,17.09,0,1,1,,,1,-8.45,301.33725,144.2034,18.7599,680.8461,179.8378,231.5189,10.38,205.67835,95.1089,120.9495,12.8,15.1,24.8,5.4,114.21,2.08,"2,309.55","4,800.67",14.63,0
+QB,Brandon Weeden,11.4,0,0,0,,,0,62.95,26.6726,3.2359,0.9783,4.1926,4.0645,9.3162,0,6.69035,2.0323,4.6581,0.5,,,,,,0,0,,0
+QB,Matt Schaub,15.3,0,0,0,,,0,3.65,11.2004,1.3603,0.7367,3.1573,1.4637,3.8194,-0.646,2.64155,0.4089,1.5867,0.7,,,,,,0,0,,0
+QB,Nick Foles,9.64,0,0,0,,,0,8.85,19.89285,2.9887,0.7876,3.3756,3.5349,4.0479,1.968,3.7914,2.7515,3.008,0.9,,,,,,0,0,,0
+QB,Ryan Mallett,10.99,0,0,0,,,0,9.2,23.21445,5.5915,1.3273,5.6886,7.0553,12.7763,1.142,9.9158,4.0987,6.9592,0.8,,,,,,0,0,,0
+QB,Case Keenum,8.92,0,0,0,,,0,73.15,146.3863,60.7673,8.481,32.2839,70.673,119.3886,2.738,95.0308,36.7055,61.0633,11.3,14.1,24.6,3.6,-35.96,0.09,-449.08,-38.57,13.14,0
+QB,Zach Mettenberger,7.03,0,0,0,,,0,49.5,18.90535,2.3237,0.5946,2.5485,3.0982,3.5783,1.036,3.33825,2.0671,2.3072,0,,,,,,0,0,,0
+QB,Brian Hoyer,15.79,0,0,0,,,0,-53.75,42.5283,20.2256,3.9714,17.0203,26.5674,45.6978,3.724,36.1326,15.1457,24.7109,0.8,,,,,,0,0,,0
+QB,Drew Stanton,0.14,0,0,0,,,0,73.2,38.22845,7.9944,1.2867,5.5143,10.4592,14.5425,2.596,12.50085,6.5276,8.5693,0.4,,,,,,0,0,,0
+QB,Matt Cassel,9.23,0,0,0,,,0,5.45,26.3607,10.3766,2.035,8.7216,13.3355,24.1504,0,18.74295,6.6678,12.0752,1,,,,,,0,0,,0
+QB,AJ McCarron,8.18,0,0,0,,,0,48.15,38.68825,10.3686,2.0619,8.8366,13.5248,25.1169,0.91,19.32085,7.2174,13.0135,0.6,,,,,,0,0,,0
+QB,Aaron Murray,0,0,0,0,,,0,73.2,21.37155,0.779,0.1448,0.6204,1.0386,2.2659,0,1.65225,0.5193,1.133,0,,,,,,0,0,,0
+QB,Matt Moore,0.36,0,0,0,,,0,-145.1,-18.91645,1.8938,0.3309,1.4182,2.425,3.4991,1.018,2.96205,1.7215,2.2586,0.2,,,,,,0,0,,0
+QB,Landry Jones,3.72,0,0,0,,,0,49.5,29.0239,6.418,1.1755,5.0378,8.3073,14.5452,-0.112,11.42625,4.0977,7.2166,0.5,,,,,,0,0,,0
+QB,Mike Glennon,0,0,0,0,,,0,-53.85,16.72675,8.4731,1.4418,6.1791,10.7474,19.7047,0.954,15.22605,5.8507,10.3294,1.1,,,,,,0,0,,0
+QB,Colt McCoy,8.82,0,0,0,,,0,-59.4,25.2656,11.5759,2.3617,10.1216,15.0845,30.1482,1.014,22.61635,8.0493,15.5811,0.7,,,,,,0,0,,0
+QB,Chad Henne,0,0,0,0,,,0,-67.15,2.49245,4.4804,0.7595,3.255,5.7239,9.8371,1,7.7805,3.362,5.4186,0.5,,,,,,0,0,,0
+QB,EJ Manuel,10.46,0,0,0,,,0,-0.1,17.11915,7.0304,1.7959,7.4831,9.3739,12.7285,2.962,11.0512,6.168,7.8453,,,,,,,0,0,,0
+QB,Matt McGloin,5.34,0,0,0,,,0,-47.4,15.505,7.235,1.385,5.9357,9.4466,17.64,-0.7232,13.5433,4.3617,8.4584,0.4,,,,,,0,0,,0
+QB,Chase Daniel,-0.02,0,0,0,,,0,-25.7,33.19525,10.3976,1.829,7.8386,13.8134,27.3697,-0.206,20.59155,6.8037,13.5819,0.1,,,,,,0,0,,0
+QB,Dylan Thompson,0,,,,,,,73.15,14.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Trevone Boykin,0,,,,,,,80.2,26.2,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Joe Callahan,0,,,,,,,47.05,15.55,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Connor Cook,0,,,,,,,-47.4,-2.4,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Josh Woodrum,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Brandon Doughty,0,,,,,,,-145.1,-23.6,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,David Fales,0,0,0,0,,,0,9.2,9.2,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,,0
+QB,Logan Thomas,0,0,0,0,,,0,-5.35,3.65,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,,0
+QB,Christian Hackenberg,0,0,0,0,,,0,-14.55,-0.44505,0.4253,0.057,0.2443,0.317,0.5759,0,0.44645,0.1585,0.288,0.5,,,,,,0,0,,0
+QB,Garrett Grayson,0,0,0,0,,,0,12.9,10.6106,0.793,0.1768,0.7369,1.0573,2.3066,0,1.68195,0.5287,1.1533,,,,,,,0,0,,0
+QB,Ryan Nassib,6.72,0,0,0,,,0,-5.35,14.03285,4.3444,0.9262,3.9694,5.6425,8.3587,1.122,7.0006,3.3823,4.7404,0.3,,,,,,0,0,,0
+QB,Dustin Vaughan,0,0,0,0,,,0,49.5,13.5,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+QB,Jameill Showers,0,,,,,,,-35.35,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Jacoby Brissett,0,,,,,,,-28.5,-6,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Jeff Driskel,0,,,,,,,48.15,12.15,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Carson Wentz,0,,,,,,,-25.7,5.8,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Stephen Morris,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Zac Dysert,0,,,,,,,73.2,19.2,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Scott Tolzien,-0.07,0,0,0,,,0,9.65,20.48945,4.1731,0.727,3.1156,5.4641,9.1927,1.558,7.3284,3.5111,5.3754,0.2,,,,,,0,0,,0
+QB,Nate Sudfeld,0,,,,,,,-59.4,-5.4,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Ryan Griffin,0,0,0,0,,,0,-53.85,102.11545,41.8084,6.2417,27.3083,54.4445,65.2836,38.7583,59.86405,46.6014,52.021,0,3.9,5.6,2.2,0.68,0.02,0.32,0.01,5.53,0
+QB,Griffin Neal,0,,,,,,,12.9,8.4,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Jerrod Johnson,0,,,,,,,-35.35,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Shaun Hill,0.03,0,0,0,,,0,-7.15,21.4542,13.6038,1.552,-4.6184,7.6384,14.2016,0.73,10.92,4.1842,7.4658,11.4,14.4,25.3,3.5,-20.41,0.35,-260.28,-91.27,12.68,0
+QB,Jake Rudock,0,,,,,,,0.65,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Brett Hundley,0,0,0,0,,,0,47.05,18.7889,1.4807,0.2193,0.9397,1.9242,3.1234,-0.494,2.5238,0.7151,1.3147,0.1,,,,,,0,0,,0
+QB,Kevin Hogan,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Tom Savage,0,,,,,,,62.95,17.95,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Matt Simms,0,,,,,,,3.65,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Max Wittek,0,,,,,,,-67.15,-8.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Cody Kessler,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Marquise Williams,0,,,,,,,47.05,15.55,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Matt Barkley,0,0,0,0,,,0,-53.75,-6.7604,0.7137,0.1592,0.6632,0.9516,2.076,0,1.5138,0.4758,1.038,,,,,,,0,0,,0
+QB,Dak Prescott,0,66,39,52.5,,,52.5,23.15,76.1913,58.1993,17.7189,101.2077,10.749,12.5846,0,11.6668,5.3745,6.2923,16.1,18.9,29,8.8,1.37,11.19,66.18,740.75,18.73,6
+QB,Sean Mannion,1.24,0,0,0,,,0,73.15,14.65,0.0375,0.0447,0.1914,0,0,0,0,0,0,0.1,,,,,,0,0,,0
+QB,Mike Bercovici,0,,,,,,,-29.35,-6.85,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Dan Orlovsky,5.52,0,0,0,,,0,0.65,19.9108,7.4735,1.4781,6.3345,9.8146,18.3015,0.5909,14.05805,5.2028,9.4462,0.3,,,,,,0,0,,0
+QB,Keith Wenning,0,,,,,,,48.15,12.15,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Sean Renfree,-0.48,0,0,0,,,0,3.65,7.72815,-0.112,-0.0529,-0.2206,-0.1493,-0.0631,-0.482,-0.1062,-0.3157,-0.2726,,,,,,,0,0,,0
+QB,Josh Johnson,0,0,0,0,,,0,-5.35,3.65,0,0,0,0,0,0,0,0,0,0,,,,,,0,0,,0
+QB,Jake Heaps,0,,,,,,,80.2,26.2,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Brandon Allen,0,,,,,,,-67.15,-8.65,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Luke McCown,6.2,0,0,0,,,0,12.9,11.0405,1.1806,0.3927,1.683,1.4241,2.3848,0.048,1.90445,0.7361,1.2164,0.3,,,,,,0,0,,0
+QB,Tyler Bray,0,0,0,0,,,0,8.85,13.35,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+QB,Kellen Clemens,3.21,0,0,0,,,0,-29.35,2.32205,3.5399,0.7251,3.1077,4.6198,9.1045,0,6.86215,2.3099,4.5523,0.2,,,,,,0,0,,0
+QB,Joel Stave,0,,,,,,,-7.15,6.35,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Dan LeFevour,0,,,,,,,-53.85,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,Jake Coker,0,,,,,,,73.2,19.2,0,0,0,,,,,,,,,,,,,0,0,,0
+QB,B.J. Daniels,0.92,,,,,,,-53.75,-8.75,0,0.184,0.46,,,,,,,,,,,,,0,0,,0
+RB,Chris Ivory,12.51,0,0,0,,,0,-67.15,239.9495,98.944,15.0092,387.247,125.7587,143.5501,102.1315,134.6544,113.9451,122.8408,7.2,7.7,10.3,5.1,16.06,39.6,64.97,"2,572.65",8.41,0
+RB,Jerick McKinnon,4.56,0,0,0,,,0,-7.15,189.19825,72.8934,10.8372,47.3505,92.6745,108.9475,71.4,100.811,82.0373,90.1738,4.7,6.5,8.8,4.2,-2.41,0.09,-5.78,-0.5,4.35,0
+RB,Stepfan Taylor,1.12,0,0,0,,,0,73.2,36.94005,6.9005,1.2366,5.2995,8.9506,13.1788,4.4001,11.0647,6.6754,8.7895,0.5,,,,,,0,0,,0
+RB,Jonathan Williams,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Isaiah Pead,-1.7,0,0,0,,,0,-145.1,-23.6,0.4875,-0.0133,-0.0571,0,0,0,0,0,0,1.3,,,,,,0,0,,0
+RB,Paul Lasike,0,,,,,,,-53.75,-8.75,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Terron Ward,2.73,0,0,0,,,0,3.65,46.13445,15.0713,2.6433,11.3284,19.7951,26.0588,10.3199,22.92695,15.0575,18.1894,0.6,,,,,,0,0,,0
+RB,Roosevelt Nix,0.87,,,,,,,49.5,13.5,0,0.1733,0.4333,,,,,,,,,,,,,0,0,,0
+RB,Todd Gurley,15.22,20,17,18.5,,,18.5,91.65,533.54365,212.5363,35.5334,3645.0196,251.7317,271.6886,225.6353,261.71015,238.6835,248.662,15.5,16.2,21.5,10.9,38.85,19.06,"1,474.93","28,110.74",17.91,0
+RB,David Johnson,12.36,13,16,14.5,,,14.5,100.7,545.14795,208.9023,34.0802,4372.4634,251.5531,268.1797,225.61,259.8664,238.5816,246.8949,14.3,16,20.6,11.4,54.32,16.63,"2,040.96","33,939.15",17,13
+RB,Adrian Peterson,15.36,0,2,2,,,2,-4.15,468.03295,182.7691,28.1503,6044.2289,229.5921,235.1817,223,232.3869,226.2961,229.0909,14.4,14.7,19.5,9.9,16.39,101.86,465.25,"47,389.57",17.14,1
+RB,Devonta Freeman,18.66,6,7,6.5,,,6.5,12.15,463.5691,181.125,28.8088,32458.8147,223.4333,236.1316,210.84,229.78245,217.1367,223.4858,13.2,14.9,19.2,10.6,107.82,79.13,"3,269.68","258,730.46",14.36,2
+RB,Ezekiel Elliott,0,15,15,15,,,15,-17.35,464.04685,188.4137,30.8104,222.1319,224.0182,242.7573,200,233.38775,212.0091,221.3787,14,15.6,20.1,11.1,1.74,14.17,60.44,856.19,16.07,3
+RB,Lamar Miller,13.02,45,31,38,,,38,111.95,532.5237,211.8093,39.2872,1007.8488,232.0124,248.8226,218.3,240.4175,225.1562,233.5613,14.6,15.3,19.7,10.9,25.52,8.45,838.42,"7,086.74",17.28,11
+RB,Thomas Rawls,10.26,0,1,1,,,1,81.2,382.0682,137.7525,21.2338,102.0134,177.9533,200.4989,153.3309,189.2261,165.6421,176.9149,5.9,5.3,7.2,3.4,15.24,4.22,19.77,83.42,6.79,0
+RB,Mark Ingram,14.87,10,11,10.5,,,10.5,24.4,442.91835,175.4446,28.5435,7539.8415,212.4428,225.5011,195.65,218.97195,204.0464,210.5756,12.7,13.9,18,9.8,57.61,42.07,"1,412.53","59,429.96",15.17,1
+RB,Doug Martin,13.49,0,3,3,,,3,-50.85,385.62955,155.9646,24.2065,2461.7855,194.3694,202.0908,183.1295,198.2301,188.7495,192.6102,12.5,13,17.3,8.7,30.64,31.49,599.43,"18,878.56",15.78,0
+RB,DeAngelo Williams,13.21,42,35,38.5,,,38.5,96,291.30975,127.7029,26.0766,7267.7282,119.2872,126.3955,97.6496,122.84135,108.4684,112.0226,14.5,15.7,20.2,11.2,23.13,70.15,821.63,"57,633.39",18.1,8
+RB,Eddie Lacy,8.71,0,5,5,,,5,52.05,411.1806,159.1171,24.7817,-91.1178,197.0894,205.2124,181.87,201.1509,189.4797,193.5412,11.8,12.5,16.7,8.3,-9.54,9.34,-165.32,"-1,543.80",13.09,0
+RB,Justin Forsett,10.69,0,0,0,,,0,9.2,273.0609,105.2385,15.9109,78.0198,134.0346,153.4526,106.2,143.7436,120.1173,129.8263,7.1,8.2,11.1,5.3,2.32,6.02,11.17,67.28,11.37,0
+RB,LeSean McCoy,13.56,6,7,6.5,,,6.5,11.4,431.9151,171.4789,27.1762,455.5768,211.5218,229.9866,188,220.7542,199.7609,208.9933,12.3,13.4,17.3,9.5,24.13,5.2,531.3,"2,761.70",16.03,5
+RB,Latavius Murray,11.52,5,5,5,,,5,-42.4,354.32705,144.7947,22.6535,1096.88,177.6262,186.0957,162.106,181.86095,169.8661,174.1009,12,13.3,17.2,9.4,24.64,15.16,529.84,"8,034.67",13.4,0
+RB,Arian Foster,16.5,0,1,1,,,1,-143.1,273.1927,118.2225,18.2416,195.7075,149.0966,156.244,135.1482,152.6703,142.1224,145.6961,8.8,9.4,12.6,6.2,38.19,3.34,280.47,937.7,13.07,1
+RB,Matt Forte,14.82,0,2,2,,,2,-12.55,364.9515,146.0185,22.4599,1915.5518,184.1746,195.777,163.8768,189.9758,174.0257,179.8269,9.7,11,14.3,7.7,21.89,54.9,265.19,"14,559.32",12.57,0
+RB,DeMarco Murray,10.83,0,3,3,,,3,8.45,351.96625,140.221,21.7088,112.2137,175.3946,193.1933,152.05,184.29395,163.7223,172.6217,10.2,10.4,13.9,6.9,1.12,15.12,11.21,169.4,11.25,0
+RB,Jeremy Hill,10.18,0,0,0,,,0,48.15,336.9191,129.5837,19.3652,277.6713,165.3616,177.265,141.55,171.3133,153.4558,159.4075,9.1,8.6,11.5,5.7,6.46,42.39,36.42,"1,543.59",8.97,0
+RB,Ameer Abdullah,6.53,0,2,2,,,2,2.65,314.097,124.8131,19.1204,80.5111,157.1675,163.709,144.85,160.43825,151.0088,154.2795,8.1,9.6,12.9,6.3,-1.49,0.36,-11.61,-4.13,10.69,0
+RB,Jeremy Langford,9.11,0,1,1,,,1,-52.75,334.31795,135.1202,20.6549,345.9367,171.2103,183.4653,158.25,177.3378,164.7302,170.8577,8.7,10.8,14.4,7.2,29.27,6.27,327.7,"2,055.07",10.48,0
+RB,Carlos Hyde,10.83,0,2,2,,,2,-7.45,348.80125,141.2529,21.358,94.1,177.4539,186.0398,153.5549,181.74685,165.5044,169.7974,9.7,12.1,16.1,8.1,0.95,1.76,14.92,26.27,11.5,0
+RB,Frank Gore,11.02,0,2,2,,,2,11.65,318.86525,124.0744,19.011,349.3554,155.1825,171.8749,132.1906,163.5287,143.6866,152.0328,9.1,11.1,14.8,7.4,13.91,12.72,169.07,"2,150.46",9.83,0
+RB,Ryan Mathews,8.81,0,7,7,,,7,-18.7,325.0297,130.497,20.8616,179.3573,157.946,167.7077,140.8597,162.82685,149.4029,154.2837,10.3,11.7,15.6,7.8,25.91,2.11,368.8,778.2,13.09,0
+RB,T.J. Yeldon,11.49,0,1,1,,,1,-66.15,279.21,114.6504,17.4883,179.0467,145.1339,150.8422,132.61,147.98805,138.872,141.7261,7.2,9.4,12.6,6.2,27.3,4.14,200.47,830.78,9.18,0
+RB,Chris Johnson,9.47,0,0,0,,,0,73.2,158.40795,52.5033,8.4222,42.4224,66.9211,95.7637,48.81,81.3424,57.8656,72.2869,3.7,3.7,5.1,2.3,2.94,34.92,1.28,44.6,3.19,0
+RB,Matt Jones,8.07,0,1,1,,,1,-58.4,301.9079,123.5854,18.519,101.4849,156.9472,171.2414,127.48,164.0943,142.2136,149.3607,7.4,9.4,12.6,6.2,5.18,4.58,38.02,174.21,9.58,0
+RB,LeGarrette Blount,9.97,0,1,1,,,1,-27.5,264.08295,107.1881,16.4055,182.5503,135.2175,155.258,112.4729,145.23775,123.8452,133.8655,6.8,9.9,13.3,6.5,4,26.21,34.21,896.71,8.76,0
+RB,Rashad Jennings,9.4,0,3,3,,,3,-2.35,312.08815,123.6834,19.1716,158.4518,154.1945,160.6873,141.8,157.4409,147.9973,151.2437,8.5,10.4,13.9,6.9,24.22,2.6,241.57,628.11,10.73,0
+RB,Danny Woodhead,12.69,0,1,1,,,1,-28.35,321.6767,131.0769,19.8705,931.2977,166.6358,179.5618,142.22,173.0988,154.4279,160.8909,7.4,10.3,13.4,7.2,51.59,13.2,512.65,"6,765.41",9.82,0
+RB,Isaiah Crowell,8.02,0,0,0,,,0,-5.9,247.7365,99.5662,14.8963,92.987,126.2383,135.3864,110.41,130.81235,118.3242,122.8982,7.1,8.9,11.9,5.9,4.8,7.42,29.99,222.52,7.98,0
+RB,Melvin Gordon,6.56,0,1,1,,,1,-28.35,305.0802,123.3444,18.7502,73.7967,156.1925,162.2754,147.2,159.23395,151.6963,154.7377,8,9.8,13.3,6.3,-19.45,0.35,-159.72,-55.38,9.34,0
+RB,Duke Johnson Jr.,8.36,0,1,1,,,1,-4.9,317.46505,126.0277,19.1824,93.3072,159.5703,164.5695,152.02,162.0699,155.7952,158.2948,7.6,11,14.3,7.7,14.43,0.49,174.78,85.58,9.19,0
+RB,Giovani Bernard,9.79,0,1,1,,,1,49.15,328.2345,125.3191,19.0375,107.5472,158.9755,163.88,148.338,161.42775,153.6568,156.109,7.5,10.1,13.2,7,4.52,4.84,42.23,204.56,8.35,0
+RB,Darren Sproles,8.38,0,1,1,,,1,-24.7,243.4327,94.8755,14.4792,64.9571,119.834,127.0974,106.5,123.4657,113.167,116.7987,5.8,8.3,10.8,5.8,12.92,0.35,67.16,23.39,8.83,0
+RB,James Starks,9.05,0,0,0,,,0,47.05,213.20255,79.1091,11.8901,53.0973,100.9954,116.2248,77.0895,108.6101,89.0425,96.6572,5.3,5.5,7.5,3.5,8.86,0.67,12.79,8.62,6.5,0
+RB,Bilal Powell,10.15,0,0,0,,,0,-14.55,245.97215,96.8404,14.8137,65.777,123.6372,139.2699,107.5,131.45355,115.5686,123.385,6.1,7.3,9.9,4.7,40.25,0.06,136.72,7.74,8.19,0
+RB,Derrick Henry,0,0,1,1,,,1,6.45,199.4164,83.1369,11.9615,54.3171,103.7325,117.7435,69.7243,110.738,86.7284,93.7339,7.1,7.7,10.4,5,0.9,7.33,3.6,26.38,6.12,0
+RB,Alfred Morris,5.72,0,0,0,,,0,-35.35,103.08385,41.6414,6.2058,26.6565,52.6552,65.5333,34.024,59.09425,43.3396,49.7787,3.6,3.2,4.4,2,-2.56,5.49,-0.72,-3.95,3.01,0
+RB,Javorius Allen,7.7,0,0,0,,,0,9.2,184.2388,68.1198,10.4916,48.279,86.943,100.7416,75.45,93.8423,81.1965,88.0958,4.5,4.9,6.7,3.1,3.06,6.1,3.12,19.02,4.93,0
+RB,Spencer Ware,8.87,79,52,65.5,,,65.5,78.35,229.49255,112.2875,29.0609,247.62,74.1833,92.5202,52.3983,83.35175,63.2908,72.4593,11.8,12.4,16.5,8.3,24.75,3.93,420.3,"1,651.58",15.43,4
+RB,Shane Vereen,8.06,0,0,0,,,0,-5.35,242.1074,93.7672,14.2463,65.1073,119.8229,124.8929,112.3761,122.3579,116.0995,118.6345,5.6,7.2,9.4,5,6.47,1.02,21.88,22.24,8.05,0
+RB,Alfred Blue,7.44,0,0,0,,,0,62.95,129.6477,44.5656,6.7965,29.7531,56.9874,70.4429,38.9777,63.71515,47.9826,54.7103,3.2,2.5,3.5,1.5,0.79,1.42,0.1,0.15,3.84,0
+RB,Tevin Coleman,3.47,0,0,0,,,0,3.65,185.9447,72.6327,10.5605,44.3249,92.3936,104.4737,66.3285,98.43365,79.3611,85.4011,4.7,6.3,8.5,4.1,-6.88,0.99,-15.1,-15.02,5.86,0
+RB,Tim Hightower,13.4,0,0,0,,,0,12.9,150.3945,63.7705,8.6957,78.505,81.994,110.7404,9.2606,96.3672,45.6273,60.0005,3.2,4.3,5.9,2.7,21.73,21.75,14.89,323.69,3.76,0
+RB,Denard Robinson,4.79,0,0,0,,,0,-67.15,39.4356,18.4204,3.4188,14.6518,23.7605,41.6697,6.9805,32.7151,15.3705,24.3251,1.6,,,,,,0,0,,0
+RB,Charcandrick West,9.45,0,0,0,,,0,8.85,125.59755,46.1412,7.0169,47.9831,55.5049,75.8247,37.6606,65.6648,46.5828,56.7427,6.1,8.9,11.9,5.9,4.45,4.98,27.79,138.27,5.55,0
+RB,Khiry Robinson,7.75,0,0,0,,,0,-14.55,97.14275,36.4745,8.1654,35.1534,47.9326,65.7203,34.8,56.82645,41.3663,50.2602,,2.1,3.3,0.9,23.83,4.57,1.49,6.78,,0
+RB,Theo Riddick,8.69,0,1,1,,,1,1.65,263.30005,104.6818,15.9519,77.7756,132.0757,148.1487,111,140.1122,121.5379,129.5744,7,9,11.9,6.1,30.47,0.37,199.06,74.39,8.83,0
+RB,Travaris Cadet,6.12,0,0,0,,,0,12.9,43.0887,14.5704,2.5398,10.8849,19.0772,32.6824,-1.4594,25.8798,8.8089,15.6115,0.7,,,,,,0,0,,0
+RB,Mike Gillislee,9.72,,,,,,,-0.1,-0.1,0,1.944,4.86,,,,,,,,,,,,,0,0,,0
+RB,Zach Zenner,2.03,0,0,0,,,0,0.65,88.6005,36.4601,5.2533,22.5298,46.0968,60.9174,22.79,53.5071,34.4434,41.8537,2.1,4.4,5.9,2.9,-9.56,0.5,-7.2,-3.63,3.84,0
+RB,Benny Cunningham,3.47,0,0,0,,,0,73.15,172.4387,60.9033,9.3373,40.8385,77.9877,97.172,62.43,87.57985,70.2089,79.801,3.5,4.4,6.1,2.7,-3.67,0.04,-2.66,-0.1,4.26,0
+RB,C.J. Prosise,0,0,0,0,,,0,80.2,156.3469,53.2187,7.671,33.7965,67.8749,76.744,47.8,72.30945,57.8375,62.272,3.7,3.7,5.1,2.3,0.73,5.96,0.32,1.89,4.49,0
+RB,Robert Turbin,3.17,0,0,0,,,0,9.65,105.8263,39.6689,5.7489,25.1444,50.3418,65.839,25.83,58.0904,38.0859,45.8345,2.9,3.3,4.6,2,-6.57,0.03,-2,-0.06,2.79,0
+RB,Brandon Bolden,5.47,0,0,0,,,0,-28.5,66.00955,29.2517,5.0331,21.5558,37.3523,52.2145,17.1,44.7834,27.2262,34.6573,1.5,2.7,4.1,1.3,-3.55,0.2,-0.51,-0.1,,0
+RB,C.J. Spiller,4.93,0,0,0,,,0,12.9,159.1146,59.3833,8.9926,39.3203,75.661,87.7572,62.35,81.7091,69.0055,75.0536,3.5,5.3,7,3.6,-1.61,0.08,-2.14,-0.18,4.88,0
+RB,Kenyan Drake,0,,,,,,,-145.1,-23.6,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,James White,8.55,0,1,1,,,1,-27.5,184.23085,81.025,11.8326,63.7313,100.55,131.6469,45.7148,116.09845,73.1324,88.6809,6.1,10.3,13.6,7,15.28,0.71,149.82,106.21,10.53,0
+RB,Jordan Howard,0,0,0,0,,,0,-53.75,139.7411,59.3635,8.6995,38.3182,76.3347,90.6655,53.6473,83.5001,64.991,72.1564,3.1,3.8,5.2,2.4,0.73,5.96,0.35,2.06,4.4,0
+RB,Chris Thompson,5.78,0,0,0,,,0,-59.4,178.95115,72.269,10.9703,48.0739,92.4587,102.3349,81.45,97.3968,86.9544,91.8925,4.2,5.4,7.1,3.7,2.3,0.19,3.26,0.63,5.28,0
+RB,Antonio Andrews,7.25,0,0,0,,,0,5.45,52.85125,20.6033,3.7352,16.0079,26.9711,50.0097,-0.1494,38.4904,13.4109,24.9302,1,,,,,,0,0,,0
+RB,Shaun Draughn,5.85,0,0,0,,,0,-9.45,165.3375,66.9013,9.8843,43.2566,85.3517,98.2096,62.662,91.78065,74.0069,80.4358,4.1,5.4,7.4,3.4,0.47,0.16,0.63,0.1,4.42,0
+RB,Christine Michael,3.42,10,10,10,,,10,90.2,192.82595,73.2336,12.6171,42.0577,79.8948,108.4415,45.0208,94.16815,62.4578,76.7312,8.1,11.1,14.8,7.4,-1.45,0.01,-17.65,-0.14,11.82,0
+RB,Matt Asiata,2.26,0,0,0,,,0,-7.15,81.02995,29.6354,5.0973,21.8185,38.0972,50.8655,22.3,44.48135,30.1986,36.5828,1.3,2.3,3.2,1.4,-21.29,0.09,-2.19,-0.19,,0
+RB,DuJuan Harris,7.78,0,0,0,,,0,-9.45,35.651,13.0013,2.7026,11.5824,16.785,39.5028,-0.8708,28.1439,7.9571,19.316,1.1,,,,,,0,0,,0
+RB,Donald Brown,6.95,0,0,0,,,0,-28.5,18.12375,9.3766,2.2079,9.1996,12.5021,23.2433,0,17.8727,6.2511,11.6217,,,,,,,0,0,,0
+RB,Jordan Todman,0.55,0,0,0,,,0,9.65,46.35955,13.4666,2.5156,10.7813,17.2054,39.2619,-0.2536,28.23365,8.4759,19.5042,1.5,,,,,,0,0,,0
+RB,Andre Ellington,6.72,0,0,0,,,0,73.2,137.73355,46.3315,7.1713,31.3693,59.2753,70.8579,47.6586,65.0666,53.467,59.2583,2.6,3.6,5,2.2,-0.48,0.22,-0.19,-0.04,4.61,0
+RB,Ka'Deem Carey,4.41,0,0,0,,,0,-53.75,-8.75,1.9375,0.7588,2.8136,,,,,,,2.9,3.4,4.7,2.1,-3.93,0.1,-1.32,-0.13,4.07,0
+RB,DeAndre Washington,0,0,0,0,,,0,-47.4,161.5109,65.8831,9.6209,42.674,83.6774,100.017,60.45,91.8472,72.0637,80.2335,4.8,5.3,7.2,3.4,0.66,5.41,0.86,4.66,4.11,0
+RB,Terrance West,2.9,0,1,1,,,1,10.2,168.9764,64.4414,9.7832,40.3378,79.6552,96.4424,61.8,88.0488,70.7276,79.1212,5.6,7.4,9.9,4.9,-14.85,0.17,-53.32,-9.21,5.86,0
+RB,Andre Williams,2.18,0,0,0,,,0,-29.35,37.083,17.8897,3.0249,12.9639,23.5029,35.6718,5.1884,29.58735,14.3457,20.4301,0.7,,,,,,0,0,,0
+RB,Charles Sims,9.66,0,1,1,,,1,-50.85,282.65855,111.6536,17.2564,83.8049,141.2714,154.4743,131,147.87285,136.1357,142.7372,7,9.3,12.1,6.5,24.79,0.42,181.34,76.97,8.8,2
+RB,Jacquizz Rodgers,1.12,0,0,0,,,0,-53.75,38.9421,17.4432,3.8602,16.084,23.2576,34.919,13.95,29.0883,18.6038,24.4345,,,,,,,0,0,,0
+RB,Kerwynn Williams,3.47,0,0,0,,,0,73.2,52.38005,11.9283,2.7931,11.6378,15.9044,33.9744,0.5769,24.9394,8.2407,17.2757,,,,,,,0,0,,0
+RB,Lance Dunbar,9.68,0,0,0,,,0,-35.35,52.68235,22.2802,3.868,16.6535,27.6236,45.3275,3.49,36.47555,15.5568,24.4088,2.3,2.8,7.4,3.4,34.99,0.02,24.65,0.53,,0
+RB,Fitzgerald Toussaint,2.07,0,0,0,,,0,49.5,62.5729,21.8477,3.0301,13.1602,26.1802,31.8854,13.9,29.0328,20.0401,22.8927,2.7,4.8,6.5,3.1,-10.09,0.08,-9.76,-0.77,3.14,0
+RB,Bobby Rainey,0.19,0,0,0,,,0,-5.35,10.72925,2.6294,0.4917,2.1074,3.3058,8.17,-0.6231,5.7379,1.3414,3.7735,0.4,,,,,,0,0,,0
+RB,Stevan Ridley,1.35,0,0,0,,,0,9.65,61.30775,23.2548,4.1866,17.4443,31.0064,38.9414,2.3613,34.9739,16.6839,20.6514,,,,,,,0,0,,0
+RB,Roy Helu Jr.,2.74,0,0,0,,,0,-47.4,5.9227,3.4999,0.7753,3.2305,4.6665,7.3124,0,5.98945,2.3333,3.6562,,,,,,,0,0,,0
+RB,Damien Williams,2.47,0,0,0,,,0,-145.1,4.58425,10.9172,1.8143,7.9375,13.7063,27.1559,1.8,20.4311,7.7532,14.478,1.7,,,,,,0,0,2.96,0
+RB,Kenjon Barner,2.85,0,0,0,,,0,-25.7,60.6736,21.7394,3.8166,16.347,26.9359,55.2754,0.6,41.10565,13.768,27.9377,1.9,3.3,4.6,2,-11.82,0.02,-3.59,-0.07,,0
+RB,Alex Collins,0,,,,,,,80.2,26.2,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Akeem Hunt,2.36,,,,,,,62.95,17.95,0,0.4714,1.1786,,,,,,,,,,,,,0,0,,0
+RB,Cedric O'Neal,0,,,,,,,-25.7,5.8,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Mike Davis,2.62,0,0,0,,,0,-9.45,22.1252,10.6791,1.6257,6.9672,13.7388,15.4386,2.2342,14.5887,7.9865,8.8364,1,,,,,,0,0,,0
+RB,Trent Richardson,0,,,,,,,9.2,9.2,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Brandon Wilds,0,,,,,,,3.65,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Mandel Dixon,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Jerome Felton,0.47,,,,,,,-0.1,-0.1,0,0.095,0.2375,,,,,,,,,,,,,0,0,,0
+RB,Brandon Brown-Dukes,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Tyler Ervin,0,,,,,,,62.95,17.95,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,C.J. Ham,0,,,,,,,-7.15,6.35,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,David Cobb,2.99,0,0,0,,,0,49.5,24.82345,4.7258,0.8578,3.6761,6.2511,10.1447,0,8.1979,3.1256,5.0724,0.1,,,,,,0,0,,0
+RB,Chase Reynolds,0,0,0,0,,,0,73.15,16.50755,0.8606,0.1338,0.5736,0.9974,1.7203,0,1.35885,0.4987,0.8602,0.3,,,,,,0,0,,0
+RB,James Develin,0,,,,,,,-28.5,-6,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Trey Williams,1.2,0,0,0,,,0,9.65,9.6954,0.0163,0.0516,0.2151,0.0217,0.0474,0,0.03455,0.0109,0.0237,,,,,,,0,0,,0
+RB,Dominique Williams,0,,,,,,,-14.55,-1.05,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Joey Iosefa,2.55,0,0,0,,,0,-28.5,-6,0,0.102,0.425,0,0,0,0,0,0,,,,,,,0,0,,0
+RB,Mack Brown,0,,,,,,,-59.4,-5.4,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Gus Johnson,0,0,0,0,,,0,3.65,12.6442,1.8074,0.2996,1.2841,2.4099,5.518,-1.3494,3.96395,0.5303,2.0843,0,,,,,,0,0,,0
+RB,George Atkinson III,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Josh Ferguson,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Mike James,0,0,0,0,,,0,-53.85,11.09025,6.514,1.2352,5.1468,8.6853,12.1942,1.3157,10.43975,5.0005,6.755,,,,,,,0,0,,0
+RB,Don Jackson,0,,,,,,,47.05,15.55,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Bishop Sankey,4.18,0,0,0,,,0,-28.5,-6,0,0.1394,0.5976,0,0,0,0,0,0,0,,,,,,0,0,,0
+RB,Kyle Juszczyk,4.81,0,0,0,,,0,9.2,74.43755,26.6398,4.546,19.5102,34.203,41.5691,20.5,37.88605,27.3515,31.0346,1.1,2.3,3.3,1.3,4.58,0.42,0.45,0.19,,0
+RB,Zach Line,2.86,,,,,,,-7.15,6.35,0,0.5727,1.4318,,,,,,,,,,,,,0,0,,0
+RB,Orleans Darkwa,2.88,0,0,0,,,0,-5.35,30.42045,11.0525,1.9406,8.317,13.8366,25.1577,0.71,19.49715,7.2733,12.9339,1.8,,,,,,0,0,,0
+RB,Tommy Bohanon,1.56,0,0,0,,,0,-14.55,15.4407,6.2398,1.3817,5.7569,8.3197,16.342,0,12.33085,4.1599,8.171,,,,,,,0,0,,0
+RB,Patrick DiMarco,2.95,0,0,0,,,0,3.65,49.61445,15.757,2.8926,12.397,20.5593,30.2403,11.57,25.3998,16.0647,20.9052,0.9,,,,,,0,0,,0
+RB,Kendall Gaskins,3.67,0,0,0,,,0,-9.45,-0.45,0,0.147,0.6125,0,0,0,0,0,0,,,,,,,0,0,,0
+RB,Rob Kelley,0,,,,,,,-59.4,-5.4,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Senorise Perry,0,,,,,,,-53.75,-8.75,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Paul Perkins,0,,,,,,,-5.35,3.65,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Sam Bergen,0,,,,,,,5.45,0.95,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Michael Burton,1.64,,,,,,,0.65,0.65,0,0.3275,0.8188,,,,,,,,,,,,,0,0,,0
+RB,Daryl Richardson,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Sione Houma,0,,,,,,,12.9,8.4,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Bruce Miller,2.59,0,0,0,,,0,-9.45,47.60195,19.153,3.9478,16.449,25.5373,45.0293,0,35.2833,12.7687,22.5147,,,,,,,0,0,,0
+RB,Kenneth Farrow,0,,,,,,,-29.35,-6.85,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Daniel Herron,1.9,,,,,,,-0.1,-0.1,0,0.38,0.95,,,,,,,,,,,,,0,0,,0
+RB,Bernard Pierce,0.82,0,0,0,,,0,-14.55,-1.05,0,0.033,0.1375,0,0,0,0,0,0,,,,,,,0,0,,0
+RB,Ryan Hewitt,1.54,,,,,,,48.15,12.15,0,0.3089,0.7722,,,,,,,,,,,,,0,0,,0
+RB,Patrick Skov,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Terrell Watson,0,0,0,0,,,0,-5.9,22.74,9.0525,1.9312,8.0467,12.07,12.07,12.07,12.07,12.07,12.07,,,,,,,0,0,,0
+RB,Marcus Murphy,0.31,0,0,0,,,0,12.9,24.3869,6.1205,1.0827,4.6402,8.0607,15.8524,0,11.95655,4.0304,7.9262,0.2,,,,,,0,0,,0
+RB,Malcolm Johnson,0.7,,,,,,,-5.9,-1.4,0,0.14,0.35,,,,,,,,,,,,,0,0,,0
+RB,Daniel Thomas,0,,,,,,,-145.1,-23.6,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Rex Burkhead,1.57,0,0,0,,,0,48.15,58.6368,17.7665,3.168,13.5772,23.4386,28.3264,17.77,25.8825,20.6043,23.0482,0.5,,,,,,0,0,,0
+RB,Storm Johnson,0,0,0,0,,,0,-53.85,-4.35,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+RB,Jonathan Grimes,5.58,0,0,0,,,0,62.95,83.56525,25.2236,4.5869,19.6582,33.2315,54.7175,10.05,43.9745,21.6408,32.3838,0.8,,,,,,0,0,,0
+RB,Taiwan Jones,2.13,,,,,,,-47.4,-2.4,0,0.425,1.0625,,,,,,,,,,,,,0,0,,0
+RB,Kelvin Taylor,0,,,,,,,-9.45,-0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Jay Prosch,0.82,,,,,,,62.95,17.95,0,0.165,0.4125,,,,,,,,,,,,,0,0,,0
+RB,Byron Marshall,0,,,,,,,-25.7,5.8,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Darius Jackson,0,,,,,,,-35.35,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Bronson Hill,0,0,0,0,,,0,-67.15,-8.65,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Aaron Ripkowski,1.15,,,,,,,47.05,15.55,0,0.23,0.575,,,,,,,,,,,,,0,0,,0
+RB,Corey Grant,0.1,,,,,,,-67.15,-8.65,0,0.02,0.05,,,,,,,,,,,,,0,0,,0
+RB,Daniel Lasco,0,,,,,,,12.9,8.4,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Jonas Gray,4.1,0,0,0,,,0,-67.15,12.46385,7.6258,1.8531,7.7213,10.1677,22.7949,-0.9026,16.4813,4.6326,10.9462,,,,,,,0,0,,0
+RB,Knile Davis,1.28,0,0,0,,,0,8.85,30.3554,7.1192,1.2096,5.184,8.9922,13.3407,2.6857,11.16645,5.839,8.0132,1,,,,,,0,0,,0
+RB,Jhurell Pressley,0,,,,,,,47.05,15.55,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Dexter McCluster,6.93,0,0,0,,,0,5.45,87.2203,37.5281,7.1787,29.9113,50.0374,60.5378,11.928,55.2876,30.9827,36.2329,,,,,,,0,0,,0
+RB,Wendell Smallwood,0,,,,,,,-25.7,5.8,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Dreamius Smith,0,0,0,0,,,0,-29.35,-6.85,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+RB,Jalston Fowler,2.53,,,,,,,5.45,0.95,0,0.505,1.2625,,,,,,,,,,,,,0,0,,0
+RB,Christian Powell,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Zac Brooks,0,,,,,,,80.2,26.2,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Dwayne Washington,0,,,,,,,0.65,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Jamize Olawale,2.99,,,,,,,-47.4,-2.4,0,0.598,1.495,,,,,,,,,,,,,0,0,,0
+RB,Derek Watt,0,,,,,,,-29.35,-6.85,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Peyton Barber,0,,,,,,,-53.85,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Raheem Mostert,-0.25,,,,,,,-14.55,-1.05,0,-0.05,-0.125,,,,,,,,,,,,,0,0,,0
+RB,Glenn Gronkowski,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+RB,Zac Stacy,3.7,0,0,0,,,0,-14.55,3.15255,1.6924,0.4842,2.0175,2.2565,3.8921,0,3.0743,1.1283,1.9461,,,,,,,0,0,,0
+TE,Rob Gronkowski,14.64,0,2,2,,,2,-26.5,430.75065,171.7105,30.428,279.1969,217.5306,237.254,197.1861,227.3923,207.3584,217.2201,10.7,12.2,16.1,8.3,18.21,3.57,296.93,"1,059.54",,0
+TE,Jimmy Graham,8.77,0,0,0,,,0,80.2,237.91425,86.4944,12.7112,55.7436,111.3259,122.5043,78.2724,116.9151,94.7992,100.3884,4.8,4.8,6.8,2.8,6.29,0.18,5.75,1.06,7.89,0
+TE,Eric Ebron,7.66,0,1,1,,,1,1.65,207.4308,85.1744,12.6431,54.6294,107.5825,120.8166,75.58,114.19955,91.5813,98.1983,4.7,7.9,10.6,5.2,14.71,0.08,64.04,5.03,8.09,0
+TE,Dennis Pitta,0,,,,,,,9.2,9.2,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Maxx Williams,4.07,0,0,0,,,0,9.2,95.5976,34.7901,5.2338,22.8964,44.4368,61.7384,22.1832,53.0876,33.31,41.9608,1.9,3,4.2,1.8,-1.76,0.03,-0.4,-0.01,4.42,0
+TE,Justin Perillo,3.62,0,0,0,,,0,47.05,32.74285,7.5872,1.2801,5.4861,9.9163,14.5531,0,12.2347,4.9582,7.2766,0.4,,,,,,0,0,,0
+TE,Trey Burton,2.3,0,0,0,,,0,-25.7,38.45445,12.5109,2.297,9.8441,16.0312,33.0465,0.2,24.53885,8.1156,16.6233,1.3,,,,,,0,0,,0
+TE,Luke Stocker,2.08,0,0,0,,,0,-53.85,8.3839,5.4707,0.9281,3.9775,7.1442,11.1794,0,9.1618,3.5721,5.5897,0.3,,,,,,0,0,,0
+TE,Jordan Reed,14.34,40,28,34,,,34,-22.4,410.24465,174.4122,32.9156,711.9928,189.7163,196.0967,181.76,192.9065,185.7382,188.9284,9.6,12.1,15.8,8.4,102.57,2.98,"1,647.12","4,900.90",13.82,3
+TE,Delanie Walker,13.16,0,4,4,,,4,10.45,324.1699,127.6637,20.2837,311.3629,159.3849,168.2503,149.4197,163.8176,154.4023,158.835,7.2,9.7,12.9,6.5,130.71,1.71,"1,063.11","1,822.97",11.13,1
+TE,Travis Kelce,9.59,0,2,2,,,2,10.85,324.9485,122.6593,19.1166,83.864,153.5457,164.2056,147.9,158.87565,150.7229,156.0528,8.6,11.1,14.7,7.5,17.69,0.11,216.49,22.83,10.69,0
+TE,Gary Barnidge,12.36,0,2,2,,,2,-3.9,294.1909,117.1042,18.2547,538.2038,146.9723,152.9948,140.2424,149.98355,143.6074,146.6186,8,9.5,12.6,6.4,82.94,5.8,635.42,"3,687.72",10.37,0
+TE,Antonio Gates,11,0,3,3,,,3,-26.35,271.6995,110.6996,17.4434,200.9551,137.9495,141.8231,133.3769,139.8863,135.6632,137.6,7.5,8.7,11.6,5.8,33.2,5.29,194.34,"1,028.62",9.42,0
+TE,Julius Thomas,8.21,0,4,4,,,4,-63.15,263.2293,107.8486,17.1819,71.5231,133.5148,155.629,113.1,144.5719,123.3074,134.3645,6.9,8.5,11.3,5.7,6.99,0.34,38.24,12.82,8.5,0
+TE,Zach Ertz,8.85,10,7,8.5,,,8.5,-17.2,289.3857,113.9574,19.0281,75.0345,137.1932,151.785,124,144.4891,130.5966,137.8925,6.5,9,12,6,29.13,0.12,188.79,23.54,11.21,0
+TE,Dwayne Allen,2.08,9,6,7.5,,,7.5,17.15,265.61445,103.8721,16.9418,64.0459,124.7794,135.5372,111.8329,130.1583,118.3062,123.6851,6.9,8.3,10.9,5.7,-11.27,0.03,-58.1,-1.84,8.3,0
+TE,Jason Witten,7.86,0,4,4,,,4,-31.35,273.29545,108.2331,17.2332,72.8355,134.1608,141.8352,127.1341,137.998,130.6475,134.4847,6.7,8.4,11.1,5.7,8.02,0.51,42.6,21.52,9.31,0
+TE,Coby Fleener,6.41,0,6,6,,,6,19.9,323.9681,125.9263,20.1644,85.6936,154.9184,165.5994,141.7,160.2589,148.3092,153.6497,7.1,10.3,13.6,7,7.07,0.62,69.33,42.8,12.11,1
+TE,Austin Seferian-Jenkins,9.76,0,0,0,,,0,-53.85,138.96115,57.3218,8.7771,39.6778,73.3791,85.7641,54.1,79.5716,63.7396,69.9321,3.5,3.9,5.6,2.2,51.02,0.42,24.51,10.22,7.32,0
+TE,Kyle Rudolph,6.5,0,1,1,,,1,-6.15,209.61675,79.8123,12.3595,55.5798,101.0164,110.2007,92.3,105.60855,96.6582,101.2504,4.4,6.6,8.8,4.4,8.98,0.98,22.94,22.56,6.65,0
+TE,Zach Miller,7.58,0,6,6,,,6,-47.75,252.85355,103.4628,17.0023,66.7503,126.817,145.4731,112.1,136.14505,119.4585,128.7866,5.2,7.6,10.2,5,10.05,0.05,38.97,1.92,8.1,0
+TE,Jared Cook,4.22,0,3,3,,,3,50.05,211.49165,77.2422,12.4417,50.1876,95.1562,117.1684,78.4025,106.1623,86.7794,97.7855,4.8,7.3,9.9,4.7,-2.94,0.25,-9.99,-2.46,9.05,0
+TE,Will Tye,6.42,0,0,0,,,0,-5.35,186.5943,71.1509,10.909,50.2528,91.7179,113.2528,69.2,102.48535,80.459,91.2264,3.5,4.2,5.9,2.5,71.97,0.45,44.59,20.21,6.01,0
+TE,Martellus Bennett,8.04,0,1,1,,,1,-27.5,264.4018,106.1001,16.3954,77.2219,134.3335,145.9469,124.1897,140.1402,129.2616,135.0683,6.6,8.5,11.3,5.7,6.57,1.51,35.98,54.44,9.9,0
+TE,Jacob Tamme,6.75,0,0,0,,,0,3.65,173.638,65.2187,9.9581,43.6068,83.2083,88.1594,76.4,85.68385,79.8042,82.2797,3.9,5.4,7.5,3.3,13.37,0.02,17.87,0.32,6.91,0
+TE,Charles Clay,7.41,0,1,1,,,1,0.9,233.22855,92.3396,14.1941,61.0495,116.7195,125.3673,105.8508,121.0434,111.2852,115.6091,6,7.2,9.7,4.7,8.88,0.07,29.16,2.1,8.23,0
+TE,Jordan Cameron,4.63,0,0,0,,,0,-145.1,158.73485,72.7403,10.8555,47.4806,92.8704,111.6289,67.3,102.24965,80.0852,89.4645,4.1,6.2,8.5,3.9,-0.72,0.07,-1.47,-0.1,6.54,0
+TE,Crockett Gillmore,8.17,0,0,0,,,0,9.2,97.27335,36.5418,5.5965,24.7557,44.839,70.8461,15.6226,57.84255,30.2308,43.2344,3.7,6.1,8.4,3.8,21.83,0.05,42.5,2.17,7.86,0
+TE,Tyler Kroft,4.07,0,0,0,,,0,48.15,85.486,31.2966,4.612,20.141,37.3454,45.1312,26.85,41.2383,32.0977,35.9906,4.5,6.4,8.6,4.2,-1.42,0.09,-3.28,-0.29,6.18,0
+TE,Brent Celek,5.94,0,0,0,,,0,-25.7,119.03715,44.008,6.8473,29.9577,56.344,73.1863,40.6,64.76515,48.472,56.8932,2.2,3.7,5.3,2.1,0.28,0.05,0.11,0.01,5.04,0
+TE,Larry Donnell,6.1,0,0,0,,,0,-5.35,122.5035,48.137,7.1773,31.4429,61.3493,72.4084,42.6,66.87885,51.9747,57.5042,2.8,4.3,6,2.6,4.08,0.12,2.74,0.34,4.6,0
+TE,Luke Willson,2.75,0,0,0,,,0,80.2,127.45525,42.022,6.115,26.7527,53.5793,67.273,28.0789,60.42615,40.8291,47.676,3.1,2.7,3.8,1.6,-2.26,0.01,-0.37,0,5.66,0
+TE,Vernon Davis,4.5,0,0,0,,,0,-59.4,49.42905,21.1499,3.3477,14.646,27.4998,42.5902,12.0683,35.045,19.7841,27.3293,1.4,,,,,,0,0,1.61,0
+TE,Richard Rodgers,8.19,0,1,1,,,1,48.05,160.2821,57.0922,8.9874,38.6602,72.8062,102.6518,39.2,87.729,56.0031,70.9259,2.7,2.9,4.1,1.7,18.97,1.36,3.84,5.22,5.7,0
+TE,Jace Amaro,0,,,,,,,5.45,0.95,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Vance McDonald,4.69,0,3,3,,,3,-6.45,178.0546,71.7571,11.3713,45.8416,88.1594,101.6208,73.0696,94.8901,80.6145,87.3452,5.1,5.9,8.1,3.7,6.72,0.02,11.88,0.24,5.7,0
+TE,Clive Walford,4.33,0,3,3,,,3,-44.4,204.8619,83.1712,13.0317,53.0848,103.1116,111.7984,90.5022,107.455,96.8069,101.1503,4.9,7,9.4,4.6,1.64,0.01,4.96,0.07,6.86,0
+TE,Niles Paul,0,0,0,0,,,0,-59.4,71.09865,28.7783,5.1366,22.0139,37.8211,64.8051,12.55,51.3131,25.1856,38.6776,1.1,,,,,,0,0,,0
+TE,Ryan Griffin,5.23,0,0,0,,,0,62.95,124.41545,43.0084,6.4827,28.3625,54.4445,65.2836,38.7583,59.86405,46.6014,52.021,3.2,3.9,5.6,2.2,0.68,0.02,0.32,0.01,5.53,0
+TE,Lance Kendricks,3.5,0,0,0,,,0,73.15,150.12985,54.1929,8.1166,35.5055,69.0572,80.3676,52.4777,74.7124,60.7675,66.4227,3,5.1,7.1,3.1,-2.11,0.01,-2.37,-0.04,6.62,0
+TE,Darren Fells,5.42,0,0,0,,,0,73.2,135.37755,45.7111,6.9852,30.5613,58.6148,67.7755,47.35,63.19515,52.9824,57.5628,2.6,3.1,4.5,1.7,0.97,0.03,0.23,0.01,4.11,0
+TE,Cameron Brate,4.86,0,0,0,,,0,-53.85,160.6807,66.6498,9.8271,43.1684,85.733,103.7891,54.8063,94.76105,70.2697,79.2977,3.4,4.3,6,2.6,3,0.69,2.01,1.4,5.63,0
+TE,Kellen Davis,1.03,0,0,0,,,0,-14.55,23.977,10.6118,1.5654,6.8483,12.6157,22.0153,2.8073,17.3155,7.7115,12.4113,1.6,2.2,3.2,1.2,-0.82,0.01,-0.07,0,2.1,0
+TE,Marcedes Lewis,2.04,0,0,0,,,0,-67.15,68.41565,30.9848,4.5592,19.9464,40.563,52.4553,20.55,46.50915,30.5565,36.5027,1.5,,,,,,0,0,1.9,0
+TE,Levine Toilolo,1.1,0,0,0,,,0,3.65,22.3934,5.3732,0.9065,3.9658,6.8642,14.7584,0,10.8113,3.4321,7.3792,0.6,,,,,,0,0,1.54,0
+TE,Dion Sims,2.14,0,0,0,,,0,-145.1,34.18755,22.7616,3.4428,15.0621,29.6488,41.6575,14.62,35.65315,22.1344,28.1388,1.4,,,,,,0,0,1.38,0
+TE,Nick O'Leary,1.4,0,0,0,,,0,-0.1,-0.1,0.1125,0.17,0.5667,,,,,,,0.3,,,,,,0,0,,0
+TE,Mychal Rivera,3.57,0,0,0,,,0,-47.4,99.67055,39.7479,6.0841,26.6175,50.9639,64.9577,37.2556,57.9608,44.1098,51.1067,2.4,2.5,3.5,1.5,-2.81,0.01,-0.37,0,2.83,0
+TE,David Johnson,-0.17,13,16,14.5,,,14.5,77,539.44795,203.6523,33.322,4369.1462,251.5531,268.1797,225.61,259.8664,238.5816,246.8949,0.3,16,20.6,11.4,54.32,16.63,"2,040.96","33,939.15",17,13
+TE,Busta Anderson,0,,,,,,,-9.45,-0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Mitchell Henry,0,0,0,0,,,0,47.05,15.55,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+TE,Jerell Adams,0,,,,,,,-5.35,3.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Tyler Higbee,0,,,,,,,73.15,14.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Cole Wick,0,,,,,,,0.65,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Adam Fuehne,0,,,,,,,0.65,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Ifeanyi Momah,0,,,,,,,73.2,19.2,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Ben Braunecker,0,0,0,0,,,0,-53.75,-8.75,0.0375,0.01,0.0333,,,,,,,0.1,,,,,,0,0,,0
+TE,Justice Cunningham,0,0,0,0,,,0,73.15,32.80555,6.8117,1.4524,6.0519,9.0823,18.1465,0,13.6144,4.5412,9.0733,,,,,,,0,0,,0
+TE,Ryan O'Malley,0,,,,,,,-47.4,-2.4,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Craig Stevens,3.01,,,,,,,5.45,42.61275,16.622,3.4534,14.3855,21.4627,40.4001,0,30.9314,10.7314,20.2001,,2.1,7.5,3.5,-2.69,0.02,-1.49,-0.02,,0
+TE,Matt Spaeth,0.67,0,0,0,,,0,49.5,24.84695,5.5695,0.9344,3.8728,6.0926,10.5087,0,8.30065,3.0463,5.2544,,4,14.5,6.5,-4.05,0.01,-15.26,-0.12,,0
+TE,MarQueis Gray,0.7,0,0,0,,,0,-145.1,-23.6,0.1125,0.0333,0.1429,0,0,0,0,0,0,0.3,,,,,,0,0,,0
+TE,Kivon Cartwright,0,,,,,,,-53.85,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Bryce Williams,0,0,0,0,,,0,73.15,14.65,0,0,0,,,,,,,0,,,,,,0,0,,0
+TE,Gerald Christian,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,A.J. Derby,0,,,,,,,-28.5,-6,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,M.J. McFarland,0,,,,,,,-25.7,5.8,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Anthony Denham,0,,,,,,,62.95,17.95,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Danny Vitale,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Gavin Escobar,2.06,0,0,0,,,0,-35.35,68.79695,26.1049,4.0335,17.6464,34.1065,56.5409,11.54,45.3237,22.8233,34.0405,1.4,,,,,,0,0,1.42,0
+TE,Ryan Malleck,0,,,,,,,-5.35,3.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Seth DeValve,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Jake Stoneburner,6.4,,,,,,,73.15,14.65,0,1.28,3.2,,,,,,,,,,,,,0,0,,0
+TE,Eric Tomlinson,0,,,,,,,62.95,17.95,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Nick Truesdell,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Temarrick Hemingway,0,,,,,,,73.15,14.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Mike Miller,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Matt Lengel,0,,,,,,,48.15,12.15,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Chris Pantale,0,,,,,,,-25.7,5.8,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Brandon Williams,0,0,0,0,,,0,80.2,28.28055,0.9713,0.1587,0.6802,0.9951,2.1709,0,1.583,0.4976,1.0855,0.6,,,,,,0,0,,0
+TE,Khari Lee,0.3,,,,,,,0.65,0.65,0,0.06,0.15,,,,,,,,,,,,,0,0,,0
+TE,Asante Cleveland,0.6,,,,,,,-29.35,-6.85,0,0.12,0.3,,,,,,,,,,,,,0,0,,0
+TE,John Peters,0,,,,,,,48.15,12.15,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,E.J. Bibbs,0.6,,,,,,,-5.9,-1.4,0,0.12,0.3,,,,,,,,,,,,,0,0,,0
+TE,James O'Shaughnessy,2.34,0,0,0,,,0,8.85,13.35,0.75,0.434,1.4467,,,,,,,2,,,,,,0,0,,0
+TE,Joshua Perkins,0,,,,,,,3.65,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Josh Hill,2.46,0,0,0,,,0,12.9,103.2016,36.3206,6.4722,27.7378,47.3774,68.1484,26.7,57.7629,37.0387,47.4242,2.1,,,,,,0,0,,0
+TE,Brian Parker,0.55,0,0,0,,,0,-14.55,-1.05,0,0.022,0.0917,0,0,0,0,0,0,,,,,,,0,0,,0
+TE,Brian Leonhardt,0.9,0,0,0,,,0,0.65,0.65,0,0.036,0.15,0,0,0,0,0,0,,,,,,,0,0,,0
+TE,Sean McGrath,0,,,,,,,-29.35,-6.85,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,C.J. Fiedorowicz,2.25,0,0,0,,,0,62.95,83.4397,26.4084,3.9259,17.1753,33.6279,42.9136,20.81,38.27075,27.219,31.8618,1.7,2.2,3.3,1.1,-2.28,0.02,-0.18,0,2.48,0
+TE,Darion Griswold,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Jack Doyle,2.4,0,0,0,,,0,9.65,110.76145,37.7018,5.9532,26.0454,49.319,80.2086,23.3763,64.7638,36.3477,51.7925,1.9,,,,,,0,0,1.84,0
+TE,Zach Sudfeld,0,,,,,,,-14.55,-1.05,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Garrett Griffin,0,,,,,,,12.9,8.4,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Ben Koyack,0,,,,,,,-67.15,-8.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Paul Lang,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Anthony Fasano,3.85,0,0,0,,,0,5.45,74.7107,28.9205,4.458,19.5039,37.7607,47.35,24.65,42.55535,31.2054,36,1.6,,,,,,0,0,3.06,0
+TE,Troy Niklas,4.32,0,0,0,,,0,74.2,40.00875,7.6927,1.4914,6.3918,9.8569,11.6837,8.22,10.7703,9.0385,9.9519,0.8,,,,,,0,0,,1
+TE,Adrien Robinson,0,0,0,0,,,0,-14.55,-1.05,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+TE,Rhett Ellison,2.17,0,0,0,,,0,-7.15,57.8589,19.6208,3.543,15.1844,25.611,50.0335,1.7623,37.82225,13.6867,25.8979,1.1,,,,,,0,0,,0
+TE,Lee Smith,1.73,,,,,,,-47.4,-2.4,0,0.3455,0.8636,,,,,,,,,,,,,0,0,,0
+TE,Xavier Grimble,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Austin Hooper,0,,,,,,,3.65,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Randall Telfer,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Cory Harkey,0.85,0,0,0,,,0,73.15,54.27455,15.9984,2.69,11.5284,21.0312,37.1867,0,29.10895,10.5156,18.5934,0.6,,,,,,0,0,,0
+TE,Je'Ron Hamm,0,,,,,,,-9.45,-0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Cooper Helfet,2.79,0,0,0,,,0,80.2,35.56455,3.2779,0.8606,3.5858,4.3705,9.9881,0,7.1793,2.1853,4.9941,,,,,,,0,0,,0
+TE,Rob Housler,1.06,0,0,0,,,0,-53.75,24.2706,12.8882,2.684,11.1835,17.1843,24.4426,7.23,20.81345,12.2072,15.8363,,,,,,,0,0,,0
+TE,Kennard Backman,0,,,,,,,47.05,15.55,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Phillip Supernaw,1.35,,,,,,,5.45,0.95,0,0.27,0.675,,,,,,,,,,,,,0,0,,0
+TE,Connor Hamlett,0,,,,,,,-5.9,-1.4,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Blake Bell,2.9,0,0,0,,,0,-9.45,65.2454,24.595,4.513,19.3415,32.2433,59.5153,7.3889,45.8793,19.8161,33.4521,1.1,,,,,,0,0,,0
+TE,Nic Jacobs,0.37,,,,,,,-67.15,-8.65,0,0.0733,0.1833,,,,,,,,,,,,,0,0,,0
+TE,Stephen Anderson,0,,,,,,,62.95,17.95,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Logan Paulsen,0,0,0,0,,,0,-53.75,10.59705,7.3166,1.2998,5.5706,9.6055,12.9231,6.56,11.2643,8.0828,9.7416,0.3,,,,,,0,0,,0
+TE,Garrett Celek,4.61,0,0,0,,,0,-9.45,100.48595,45.9626,6.9661,29.8608,59.2001,69.4951,13.9766,64.3476,36.5884,41.7359,2.5,2.5,3.7,1.3,3.86,0.09,0.46,0.04,,0
+TE,Benson Browne,0,,,,,,,73.15,14.65,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Jermaine Gresham,2.87,0,0,0,,,0,73.2,114.2408,37.4324,5.6269,24.6176,48.9599,59.6818,32.48,54.32085,40.72,46.0809,1.9,,,,,,0,0,2.09,0
+TE,Geoff Swaim,0.5,,,,,,,-35.35,0.65,0,0.1,0.25,,,,,,,,,,,,,0,0,,0
+TE,Tony Moeaki,4.43,,,,,,,-53.75,-8.75,0,0.8867,2.2167,,,,,,,,,,,,,0,0,,0
+TE,C.J. Uzomah,0.9,0,0,0,,,0,48.15,30.44605,8.9124,1.2997,5.6743,10.2998,15.5725,0.42,12.93615,5.3599,7.9963,1.5,2.5,3.6,1.4,17.99,0.32,2.27,0.73,,0
+TE,Michael Cooper,0,,,,,,,49.5,13.5,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Braedon Bowman,0,,,,,,,-14.55,-1.05,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Wes Saxton,0,,,,,,,-59.4,-5.4,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Jim Dray,1.01,0,0,0,,,0,-0.1,53.0189,19.171,3.6116,15.4784,25.0113,51.1952,5.02,38.10325,15.0157,28.1076,1.1,,,,,,0,0,,0
+TE,D.J. Tialavea,0,,,,,,,3.65,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Jerome Cunningham,1.65,0,0,0,,,0,5.45,7.29005,2.3596,0.4777,2.0472,3.1461,6.3879,0,4.767,1.5731,3.194,0,,,,,,0,0,,0
+TE,Thomas Duarte,0,,,,,,,-145.1,-23.6,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Brandon Bostick,0,0,0,0,,,0,-14.55,-1.05,0.1125,0.01,0.0429,0,0,0,0,0,0,0.3,,,,,,0,0,,0
+TE,Matthew Mulligan,0.7,0,0,0,,,0,0.65,6.86975,2.5047,0.5256,2.1899,3.3396,5.7603,0,4.54995,1.6698,2.8802,,,,,,,0,0,,0
+TE,Hunter Henry,0,,,,,,,-29.35,-6.85,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Clay Harbor,3.74,0,0,0,,,0,-28.5,10.4883,6.5514,1.2405,5.3163,8.4852,16.0062,0,12.2457,4.2426,8.0031,0.5,,,,,,0,0,,0
+TE,Brandon Myers,3.12,0,0,0,,,0,-53.85,6.73445,4.7863,0.8595,3.6837,6.1317,9.9055,0,8.0186,3.0659,4.9528,0.5,,,,,,0,0,,0
+TE,Demetrius Harris,2.82,0,0,0,,,0,8.85,41.3484,11.573,1.9938,8.5448,14.9307,21.4954,4.64,18.21305,9.7854,13.0677,1,,,,,,0,0,,0
+TE,David Morgan,0,,,,,,,-7.15,6.35,0,0,0,,,,,,,,,,,,,0,0,,0
+TE,Jesse James,3.52,14,11,12.5,,,12.5,62,113.9674,49.5153,9.259,24.1014,49.0871,63.3306,14.43,56.20885,31.7586,38.8803,5,5.8,7.9,3.7,-1.61,0,-2.72,0,8.36,0
+WR,Golden Tate,10.27,7,9,8,,,8,8.65,383.85515,154.6469,24.7973,161.2152,189.7458,197.7815,173.1372,193.76365,181.4415,185.4594,8.7,12.3,16.4,8.2,7.23,4.23,119.63,505.82,14.52,0
+WR,Markus Wheaton,8.06,0,1,1,,,1,50.5,252.1982,97.507,16.5584,71.5548,124.2926,136.2787,90.5325,130.28565,107.4126,113.4056,4.3,7.7,11.1,4.3,18.75,0.19,68.9,13.13,,0
+WR,DeVante Parker,10.05,0,0,0,,,0,-145.1,283.6511,120.8552,21.0117,89.9793,156.0069,164.2302,138.2582,160.11855,147.1326,151.2442,5.8,6.7,9.8,3.6,-0.95,0.22,-2.25,-0.5,,0
+WR,Kevin White,0,0,0,0,,,0,-53.75,278.80225,112.9692,16.8421,73.592,145.0589,150.3306,134.6561,147.69475,139.8575,142.4934,5.6,8.3,11.8,4.8,-1.73,0.09,-8.12,-0.74,8.77,0
+WR,Jeff Janis,0.99,0,0,0,,,0,47.05,84.3367,26.315,4.6454,19.9089,34.6866,54.2002,14,44.4434,24.3433,34.1001,0.8,,,,,,0,0,,0
+WR,Michael Thomas,0,,,,,,,12.9,8.4,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Josh Doctson,0,,,,,,,-59.4,-5.4,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Charles Johnson,2.87,0,0,0,,,0,-7.15,92.79415,37.7641,5.269,22.8542,47.5521,77.7841,0,62.6681,23.7761,38.8921,3,3.9,5.9,1.9,-8.55,0.42,-3.74,-1.58,5.66,0
+WR,Chris Hogan,5.81,0,1,1,,,1,-27.5,176.02415,72.7876,11.1249,47.2928,91.5501,104.95,73.9981,98.25005,82.7741,89.4741,4.8,6.3,8.9,3.7,-2.38,0.11,-4.93,-0.53,6.21,0
+WR,Nelson Spruce,0,,,,,,,73.15,14.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Malcolm Mitchell,0,,,,,,,-28.5,-6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Joshua Bellamy,4.39,,,,,,,-53.75,-8.75,0,0.878,2.195,,,,,,,,,,,,,0,0,,0
+WR,Deonte Thompson,1.52,,,,,,,-53.75,-8.75,0,0.3033,0.7583,,,,,,,,,,,,,0,0,,0
+WR,Antonio Brown,20.01,49,34,41.5,,,41.5,109,680.61715,270.5063,48.8311,6112.4125,304.625,321.6232,284.3611,313.1241,294.4931,302.9922,15.7,20.1,27,13.2,58.5,11.36,"4,190.73","47,625.96",22.39,18
+WR,Odell Beckham Jr.,18.09,15,14,14.5,,,14.5,9.15,544.5937,220.3301,35.8821,985.4041,266.9734,277.5009,241.4397,272.23715,254.2066,259.4703,13.6,16.5,22.3,10.7,51.98,3.31,"2,046.29","6,779.61",19.05,0
+WR,Julio Jones,19.19,51,26,38.5,,,38.5,52.15,596.7311,245.6738,43.9762,3203.0901,275.2484,285.194,244.4714,280.2212,259.8599,264.8327,15.1,18.8,25.2,12.4,74.38,5.6,"4,369.63","24,489.80",20.46,10
+WR,Allen Robinson,16.5,8,11,9.5,,,9.5,-56.65,438.84195,181.023,29.033,4398.7244,221.9806,239.8227,190.2,230.90165,206.0903,215.0114,10.3,14.2,19.4,9,139.72,9.89,"3,464.14","34,273.39",15.62,1
+WR,Jordy Nelson,0,0,5,5,,,5,52.05,461.2153,176.1154,27.4466,257.643,220.2705,235.4896,205.3,227.88005,212.7853,220.3948,11.1,12,16.7,7.3,3.33,23.69,48.66,"1,153.01",15.7,0
+WR,DeAndre Hopkins,17.23,16,16,16,,,16,80.95,518.2293,204.8428,33.7467,735.6692,245.307,257.6695,216.2751,251.48825,230.7911,236.9723,12.9,16.1,21.8,10.4,42.14,3.17,"1,538.19","4,872.22",18.45,2
+WR,A.J. Green,14.42,0,3,3,,,3,51.15,463.3398,179.5934,27.6811,153.6044,226.0912,230.341,213.8562,228.2161,219.9737,222.0986,10.8,14.9,20.4,9.4,1.51,6.77,43.05,291.5,15.74,0
+WR,Dez Bryant,8.18,5,10,7.5,,,7.5,-26.85,479.7389,188.2156,30.1164,53.7379,233.1041,259.6696,215.3,246.38685,224.2021,237.4848,11.1,14.4,19.4,9.4,-14.47,1.44,-380.02,-545.42,14.87,1
+WR,Mike Evans,11.57,10,10,10,,,10,-43.85,418.2535,170.5385,27.6497,78.0008,207.5346,215.0378,195.1,211.2862,201.3173,205.0689,10.5,13.8,18.8,8.8,-4.92,2.12,-112.39,-238.73,15.46,0
+WR,Brandon Marshall,17.79,0,4,4,,,4,-9.55,444.63785,176.0352,27.626,1701.2368,220.7636,236.7494,203.0991,228.7565,211.9314,219.9243,10.3,14.4,19.4,9.4,108.72,4.44,"2,855.00","12,684.98",15.44,1
+WR,Brandin Cooks,13.23,11,12,11.5,,,11.5,24.4,436.1106,170.9262,28.3007,118.3814,206.9182,233.6898,184.895,220.304,195.9066,209.2924,10.1,13.3,17.9,8.7,19.98,0.19,413.83,77.27,14.03,0
+WR,Alshon Jeffery,14.63,0,3,3,,,3,-50.75,427.81515,173.0567,26.7812,172.4863,218.1922,232.9644,197.7815,225.5783,207.9869,215.373,9.9,13.8,18.8,8.8,25.02,0.83,571.29,474.05,14.18,0
+WR,Keenan Allen,16,0,3,3,,,3,-21.35,445.2766,175.4522,27.3952,124.8542,221.8196,241.414,203.2,231.6168,212.5098,222.307,9.3,13.4,17.8,9,36.17,0.09,776.4,71.5,13.78,5
+WR,Sammy Watkins,14.52,9,14,11.5,,,11.5,11.4,411.74945,166.6082,27.4486,133.2487,201.0443,215.9901,182.6202,208.5172,191.8323,199.3052,10.4,13.2,18.2,8.2,48.8,0.24,961.35,226.04,14.33,0
+WR,Julian Edelman,15.78,0,1,1,,,1,-27.5,352.59745,144.4014,21.8092,141.8096,183.8352,192.3413,155.1832,188.08825,169.5092,173.7623,8,11.1,14.8,7.4,34.34,0.91,417.47,381.65,13.85,0
+WR,Larry Fitzgerald,14.13,0,1,1,,,1,74.2,372.8422,141.8821,21.4728,539.591,179.7428,187.8188,157.98,183.7808,168.8614,172.8994,8.8,12.1,16.1,8.1,39.28,5.77,619.87,"3,575.68",12.84,0
+WR,Randall Cobb,10.59,6,6,6,,,6,53.05,412.1766,158.3058,25.104,-6.3312,195.7244,212.1528,177.6516,203.9386,186.688,194.9022,9.9,13.2,17.8,8.6,-6.84,6.27,-138.16,-866.29,13.9,0
+WR,Amari Cooper,11.04,28,23,25.5,,,25.5,-13.9,445.60625,182.9889,32.4307,109.3276,208.0518,221.301,191.6079,214.6764,199.8299,206.4545,11.6,13.9,18.8,9,1.43,0.22,33.68,7.29,15.67,8
+WR,Allen Hurns,12.87,0,1,1,,,1,-66.15,302.12785,123.3104,18.8977,156.8206,156.3472,173.4488,133.4125,164.898,144.8799,153.4307,7.4,10.1,14.2,6,47.72,1.47,410.64,603.65,11.09,0
+WR,Michael Floyd,9.79,0,0,0,,,0,73.2,366.27295,137.071,20.6851,106.243,174.9113,184.7733,159.55,179.8423,167.2307,172.1617,8.5,10.8,15.1,6.5,22.14,0.54,234.69,125.96,11.54,0
+WR,Eric Decker,14.18,0,2,2,,,2,-12.55,383.27685,151.9903,23.4767,1376.5056,191.9537,207.122,173.6243,199.53785,182.789,190.3732,9.2,12.3,16.6,8,83.65,7.47,"1,366.44","10,211.36",12.65,0
+WR,T.Y. Hilton,11.06,9,8,8.5,,,8.5,18.15,421.08905,165.5352,26.5767,97.946,202.4469,212.2843,188.7,207.3656,195.5735,200.4922,10.8,13.1,17.9,8.3,-1.8,1.64,-35.03,-57.37,13.2,0
+WR,Jeremy Maclin,13.31,0,2,2,,,2,10.85,381.2013,148.6177,22.5622,126.9782,187.4902,194.0822,162.64,190.7862,175.0651,178.3611,9.6,11.6,15.7,7.5,35.94,0.5,490.86,247.15,14.06,0
+WR,Doug Baldwin,14.37,0,5,5,,,5,86.2,405.2713,150.0868,23.878,147.9812,186.4824,204.8464,168.3314,195.6644,177.4069,186.5889,9.6,11.5,15.6,7.4,52.65,0.57,698.96,400.62,13.12,1
+WR,Steve Smith Sr.,15.43,0,1,1,,,1,11.2,254.23495,97.8765,15.0708,87.9467,123.3187,134.8936,104.5389,129.10615,113.9288,119.7163,6.7,8.5,12,5,60.77,0.6,309.93,186.59,8.78,1
+WR,DeSean Jackson,9.98,6,9,7.5,,,7.5,-51.9,311.20595,129.4586,20.748,80.7302,156.9781,169.9005,134.3552,163.4393,145.6667,152.1279,8.6,11.5,16,7,-0.29,0.43,-3.67,-1.59,10.64,0
+WR,Jarvis Landry,13.77,0,1,1,,,1,-138.1,387.7486,158.3352,24.416,1008.3058,201.4636,215.37,190.4,208.4168,195.9318,202.885,8.7,12.9,17.2,8.6,30.75,12.31,586.68,"7,222.39",12.89,6
+WR,Jordan Matthews,11.76,0,2,2,,,2,-23.7,341.89505,136.178,20.5844,108.4288,171.7707,178.651,145.9977,175.21085,158.8842,162.3244,8.4,10.8,14.5,7.1,12.72,1.19,141.46,167.98,11.1,0
+WR,John Brown,11.67,0,1,1,,,1,74.2,345.78175,129.4041,19.778,103.6275,163.9221,177.1488,146.1705,170.53545,155.0463,161.6597,7.9,11,15.4,6.6,47.74,0.28,533.76,147.29,11,0
+WR,Corey Coleman,0,0,1,1,,,1,-4.9,277.64555,110.7596,16.69,93.2601,139.2794,154.1585,123.3738,146.71895,131.3266,138.7662,7.4,11.1,15.3,6.9,1.34,10.96,15.74,172.43,10.16,0
+WR,Tavon Austin,10.79,0,2,2,,,2,75.15,328.95035,123.4623,19.2513,100.711,155.4831,172.9845,140.65,164.2338,148.0666,156.8173,7.2,10.6,14.4,6.8,27.99,0.53,290.49,152.89,10.2,0
+WR,Willie Snead,9.93,0,3,3,,,3,15.9,300.05555,117.1487,18.1654,81.383,146.0982,150.5901,134.5246,148.34415,140.3114,142.5574,7.2,10.5,14.5,6.5,25.65,0.18,253.84,46.78,9.85,0
+WR,Kamar Aiken,9.99,0,1,1,,,1,10.2,257.50645,97.7158,15.1519,71.0537,123.771,147.4019,99.669,135.58645,111.72,123.5355,5.9,7.7,10.9,4.5,36.2,0.36,136.7,48.61,9.31,0
+WR,Pierre Garcon,9.36,0,0,0,,,0,-59.4,239.01655,97.3277,14.6686,144.8321,123.5703,144.5925,97.1,134.0814,110.3352,120.8463,6,9.6,13,6.2,20.83,4,161.14,645.26,9.21,0
+WR,Stefon Diggs,9.48,0,0,0,,,0,-7.15,308.7053,117.7143,18.0584,79.1922,150.3691,170.8869,133.0855,160.628,141.7273,151.9862,6.9,9.4,13,5.8,2.31,0.09,16.37,1.49,10.95,0
+WR,Donte Moncrief,8.83,16,14,15,,,15,24.65,384.8315,154.9409,25.945,95.8635,183.0378,192.9716,161.3158,188.0047,172.1768,177.1437,9.1,12,16.2,7.8,2.66,0.41,40.28,16.33,12.28,0
+WR,Tyler Lockett,8.74,0,4,4,,,4,85.2,360.0129,132.4796,20.7523,87.8485,165.3895,175.1543,151.6925,170.2719,158.541,163.4234,7.5,10.5,14.4,6.6,23.4,0.08,233.5,18.46,10.46,1
+WR,Michael Crabtree,11.79,0,6,6,,,6,-41.4,340.0697,136.1588,21.9907,149.8382,167.1617,183.416,155.2,175.28885,161.1809,169.308,9.1,11.5,15.3,7.7,43.48,0.84,589.04,492.03,12.84,0
+WR,Danny Amendola,8.27,0,0,0,,,0,-28.5,134.25845,58.3779,8.4886,37.2776,75.7038,99.9953,29.114,87.84955,52.4089,64.5547,2.4,2.8,4.1,1.5,12.7,0.51,2.19,1.12,5.91,0
+WR,Brandon LaFell,6.45,0,0,0,,,0,48.15,182.75665,67.1851,10.288,44.8139,85.4801,102.4931,67.76,93.9866,76.6201,85.1266,4.6,5.4,7.9,2.9,-5.96,0.21,-7.38,-1.57,7.82,0
+WR,Laquon Treadwell,0,0,0,0,,,0,-7.15,221.243,83.2679,12.5642,54.9683,108.8239,142.1682,69.97,125.49605,89.397,106.0691,4.4,,,,,,0,0,5.56,0
+WR,Vincent Jackson,9.08,0,2,2,,,2,-51.85,276.75435,111.5343,17.3077,69.2484,139.7624,161.2839,117.4,150.52315,128.5812,139.342,7.1,10.2,14.3,6.1,-3.72,0.93,-33.1,-30.78,10.38,0
+WR,Anquan Boldin,9.67,0,1,1,,,1,1.65,176.9616,82.1808,10.9676,50.6568,104.2744,117.5674,24.507,110.9209,64.3907,71.0372,4.4,6.3,8.9,3.7,6.17,2.49,12.81,31.89,8.67,0
+WR,Mohamed Sanu,4.69,0,1,1,,,1,4.65,255.33695,98.4599,14.9546,62.9895,124.2465,141.2944,102.5865,132.77045,113.4165,121.9405,6.2,8.8,12.1,5.5,-4.07,0.38,-23.83,-9,9.65,0
+WR,Andrew Hawkins,5.14,0,0,0,,,0,-5.9,123.0846,48.8015,7.441,32.6002,62.4186,70.9118,53.2202,66.6652,57.8194,62.066,2.9,3.6,5.3,1.9,6.65,0.15,2.41,0.36,3.43,0
+WR,Travis Benjamin,10.24,0,1,1,,,1,-28.35,250.1982,102.9646,15.6238,79.9661,130.4861,150.991,100.1332,140.73855,115.3097,125.5621,5.8,8.7,12.6,4.8,22.48,0.87,118.29,103.4,8.2,0
+WR,Torrey Smith,6.8,0,0,0,,,0,-9.45,287.02315,116.0166,17.1105,74.8064,148.0554,154.2976,124.5379,151.1765,136.2967,139.4178,7.2,9.1,12.9,5.3,-2.18,0.03,-13.59,-0.42,9.92,0
+WR,Sterling Shepard,0,0,1,1,,,1,-4.35,283.44785,111.7923,16.7213,80.4194,141.3397,160.6777,114.2386,151.0087,127.7892,137.4582,6.9,9.8,13.4,6.2,1.02,8.29,8.28,68.61,10.25,0
+WR,Tyler Boyd,0,0,0,0,,,0,48.15,227.788,85.4799,12.6622,58.8026,108.9398,132.0502,81.3462,120.495,95.143,106.6982,5.2,7.3,10.3,4.3,1.02,8.29,3.29,27.25,6.7,0
+WR,Will Fuller,0,0,1,1,,,1,63.95,211.4867,82.2384,11.7238,55.8884,102.5178,130.4358,49.602,116.4768,76.0599,90.0189,6.4,8.8,12.5,5.1,1.02,8.29,5.7,47.27,8.36,0
+WR,Marvin Jones Jr.,8.84,20,19,19.5,,,19.5,20.15,328.15665,137.9386,24.2415,83.5583,156.8015,173.1869,129.2234,164.9942,143.0125,151.2052,8.1,10.7,14.9,6.5,25.11,0.1,260.21,24.77,10.75,0
+WR,Robert Woods,6.76,0,0,0,,,0,-0.1,218.18165,84.1114,13.0362,57.4596,107.4819,126.5083,95.0912,116.9951,101.2866,110.7998,4.8,6.8,9.5,4.1,6.62,0.19,17.52,3.41,8.14,0
+WR,Mike Wallace,5.29,0,1,1,,,1,10.2,240.4703,90.6021,14.0458,60.0493,114.7195,136.8516,94.25,125.78555,104.4848,115.5508,5.7,6.7,9.7,3.7,-4.36,0.07,-10.48,-0.71,9.57,0
+WR,Phillip Dorsett,3.38,0,0,0,,,0,9.65,237.1493,91.2748,13.5309,59.1701,115.4997,128.6125,95.3867,122.0561,105.4432,111.9996,6.4,9,12.4,5.6,-4.84,0.01,-30.27,-0.22,8.8,0
+WR,Jermaine Kearse,7.69,0,0,0,,,0,20.2,206.69725,76.6106,11.2092,49.8667,97.1975,114.3774,64.2221,105.78745,80.7098,89.2998,5.3,6.9,9.8,4,6.99,0.35,18.9,6.61,6.34,0
+WR,Nelson Agholor,3.37,0,0,0,,,0,9.3,186.1671,71.7101,10.4821,45.8478,91.8134,109.4074,60.7,100.6104,76.2567,85.0537,4,5.4,7.6,3.2,-7.78,0.01,-10.22,-0.09,5.77,0
+WR,Rueben Randle,9.76,0,0,0,,,0,9.3,85.45005,28.979,6.4825,27.0104,38.6386,68.7095,6.3134,53.67405,22.476,37.5115,,,,,,,0,0,,0
+WR,Kenny Britt,6.51,0,0,0,,,0,8.15,221.0369,84.3943,12.6909,55.8213,107.409,118.4726,92.4832,112.9408,99.9461,105.4779,5.3,7.4,10.7,4.1,6.6,0.11,21.43,2.39,6.6,0
+WR,Davante Adams,6.25,0,0,0,,,0,12.05,194.74615,71.4501,10.8933,47.3556,91.1334,118.9423,64.1832,105.03785,77.6583,91.5628,3.8,6.7,9.5,3.9,-4.78,0.2,-11.87,-2.42,5.82,0
+WR,Terrance Williams,8,0,0,0,,,0,4.65,232.7997,90.2002,13.6508,60.5053,115.0003,121.6425,104.6563,118.3214,109.8283,113.1494,5.8,7.1,10.3,3.9,5.41,0.41,15.42,6.26,7.68,0
+WR,Victor Cruz,0,0,1,1,,,1,5.65,136.6784,52.1415,8.0768,34.4811,64.972,94.2605,37.8523,79.61625,51.4122,66.0564,3.9,4.8,6.9,2.7,0.61,6.74,0.54,3.66,6.23,0
+WR,Taylor Gabriel,3.17,0,0,0,,,0,8.65,70.81745,25.5311,4.2603,18.2586,33.8914,57.2718,-0.7197,45.5816,16.5859,28.2761,0.3,,,,,,0,0,,0
+WR,Rishard Matthews,10.19,0,1,1,,,1,1.45,238.11425,97.7275,14.5248,63.104,123.02,148.9401,78.3484,135.98005,100.6842,113.6443,5.9,10,13.9,6.1,17.11,0.05,145.05,6.96,8.45,0
+WR,Cecil Shorts III,8.09,0,0,0,,,0,1.15,100.2848,42.4415,6.9485,29.7793,55.5386,79.0684,8.124,67.3035,31.8313,43.5962,2.1,,,,,,0,0,,0
+WR,Sammie Coates,1.6,0,0,0,,,0,9.5,196.40245,77.6903,11.1124,48.2921,99.987,115.2965,58.5344,107.64175,79.2607,86.9155,4.6,3.9,6,1.8,-10.26,0.6,-4.32,-2.6,8.93,0
+WR,Albert Wilson,5.51,0,0,0,,,0,13.85,177.13535,62.1212,9.7476,42.7138,79.8783,101.1762,65.6379,90.52725,72.7581,83.4071,3.3,3.9,5.6,2.2,7.66,0.15,3.68,0.55,5.78,0
+WR,Seth Roberts,6,0,0,0,,,0,2.6,171.58055,66.5762,10.0937,44.1481,85.3182,90.6191,76.7056,87.96865,81.0119,83.6624,3.3,5.4,7.7,3.1,-0.78,0.1,-1,-0.1,6.02,0
+WR,Dontrelle Inman,6.84,0,0,0,,,0,-4.35,98.86585,38.7573,6.3015,27.5733,48.7931,94.2456,14.5999,71.51935,31.6965,54.4228,2.9,4.3,6.3,2.3,0.51,0.1,0.32,0.03,4.38,0
+WR,Eddie Royal,5.36,0,0,0,,,0,-3.75,149.21515,60.4627,9.1276,39.9917,77.6169,94.9248,55.7717,86.27085,66.6943,75.3483,3.2,4.2,6,2.4,1.39,0.56,0.84,0.47,4.98,0
+WR,J.J. Nelson,5.04,,,,,,,13.2,13.2,0,1.0089,2.5222,,,,,,,,,,,,,0,0,,0
+WR,Leonard Hankerson,9.1,0,0,0,,,0,-0.1,9.646,4.0922,1.1011,4.7189,5.4563,8.5794,0,7.01785,2.7282,4.2897,,,,,,,0,0,4.44,0
+WR,Jamison Crowder,6.51,0,0,0,,,0,0.6,175.8745,69.6875,10.5001,47.2431,88.0667,111.49,62.9256,99.77835,75.4962,87.2078,4.5,7.8,11,4.6,3.96,0.67,15.62,10.44,5.95,0
+WR,Nate Washington,8.72,0,0,0,,,0,-3.5,30.309,12.1276,3.0533,12.7222,16.1701,35.2778,0,25.72395,8.0851,17.6389,,,,,,,0,0,,0
+WR,Cole Beasley,6.6,0,0,0,,,0,4.65,196.75565,75.5843,11.4363,50.2807,97.2457,112.1412,77.5787,104.69345,87.4122,94.86,3.8,4.9,6.9,2.9,2.2,0.92,2.15,1.97,5.66,0
+WR,Brian Hartline,7.28,0,0,0,,,0,-0.9,-0.9,0,0.291,1.2125,0,0,0,0,0,0,,,,,,,0,0,,0
+WR,Quincy Enunwa,3.86,0,0,0,,,0,0.45,99.7205,39.2294,5.961,26.0371,49.7725,59.896,39.1,54.83425,44.4363,49.498,2.4,4,5.7,2.3,-8.25,0.08,-4.33,-0.34,3.83,0
+WR,Rashad Greene,4.09,0,0,0,,,0,-2.15,88.64125,36.9445,5.4595,23.7994,46.8593,63.5439,24.32,55.2016,35.5897,43.932,2.2,3.9,5.6,2.2,-2.26,0.63,-1.09,-0.69,3.21,0
+WR,Justin Hardy,3.32,0,0,0,,,0,8.65,150.50875,56.8576,8.4271,36.8447,72.3268,89.2346,49.8293,80.7807,61.0781,69.532,3.3,5.5,7.8,3.2,-6.14,0.02,-8.43,-0.19,4.61,0
+WR,Terrelle Pryor,2.3,,,,,,,-0.9,-0.9,0,0.46,1.15,,,,,,,,,,,,,0,0,,0
+WR,Jaelen Strong,4.11,0,0,0,,,0,12.95,182.7694,67.0313,10.0103,43.7924,86.8584,113.822,52.1,100.3402,69.4792,82.961,3.5,2.3,3.4,1.2,-3.47,0.06,-0.33,-0.02,3.11,0
+WR,TJ Jones,2.19,,,,,,,0.65,0.65,0,0.438,1.095,,,,,,,,,,,,,0,0,,0
+WR,Dezmin Lewis,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Andre Johnson,5.93,0,0,0,,,0,0.45,73.6859,29.7661,4.5459,19.8576,36.9714,50.929,21.6,43.9502,29.2857,36.2645,3.1,3.5,5.1,1.9,-2.84,0.26,-0.96,-0.25,3.61,0
+WR,Keshawn Martin,5.5,0,0,0,,,0,-3.5,37.90725,15.0232,3.5326,14.7191,20.0309,36.4727,6.28,28.2518,13.1555,21.3764,,,,,,,0,0,,0
+WR,Jarius Wright,4.14,0,0,0,,,0,7.85,129.88925,49.5844,7.3031,31.9469,63.4959,79.2555,37.8312,71.3757,50.6636,58.5434,2.7,3.8,5.5,2.1,-6.88,0.01,-3.02,-0.03,4.69,0
+WR,Kenny Stills,5.03,0,0,0,,,0,-10.1,137.8689,59.9533,8.9732,38.9362,74.8711,89.3956,56.8,82.13335,65.8356,73.0978,5,7.7,11.1,4.3,-2.44,0.29,-8.97,-2.57,8.09,0
+WR,De'Anthony Thomas,3.59,0,0,0,,,0,13.85,13.85,0.525,0.499,1.6633,,,,,,,1.4,,,,,,0,0,,0
+WR,Dorial Green-Beckham,6.92,0,0,0,,,0,9.3,158.88755,59.6363,9.0619,39.6538,76.1651,97.2949,49.55,86.73,62.8576,73.4225,4.1,3.9,5.7,2.1,0.6,0.23,0.28,0.06,6.97,0
+WR,Brian Quick,1.69,0,0,0,,,0,8.15,85.63795,32.3519,4.6307,20.242,40.9192,55.1375,18,48.02835,29.4596,36.5688,1.9,3.8,5.6,2,-47.6,0.01,-20.26,-0.14,3.51,0
+WR,Paul Richardson,4.5,,,,,,,20.2,20.2,0,0.9,2.25,,,,,,,,,,,,,0,0,,0
+WR,Andre Holmes,3.93,0,0,0,,,0,2.6,80.6516,34.2625,4.7407,20.7366,43.6167,54.1498,14.72,48.88325,29.1684,34.4349,2.2,2.9,4.3,1.5,-2.66,0.06,-0.5,-0.03,3.69,0
+WR,Quinton Patton,3.81,0,0,0,,,0,0.55,151.24975,60.5743,9.0587,39.5636,76.6991,92.9393,55.062,84.8192,65.8806,74.0007,4,6.2,8.7,3.7,-3.45,0.08,-6.88,-0.55,7.85,0
+WR,Tajae Sharpe,0,15,10,12.5,,,12.5,13.95,200.34905,84.7486,14.8299,51.9456,94.6815,120.4333,63.0018,107.5574,78.8417,91.7176,5.5,9.2,13,5.4,0.73,5.92,4.69,27.77,9.5,1
+WR,Brandon Coleman,4.53,0,0,0,,,0,7.9,79.20095,28.3181,4.3651,19.0971,36.6575,54.0869,15.2,45.3722,25.9288,34.6435,2.2,,,,,,0,0,3.45,0
+WR,Dwayne Harris,6.32,0,0,0,,,0,4.65,95.57105,36.3209,5.5061,24.0928,46.5279,60.3057,28.4806,53.4168,37.5043,44.3932,2.4,2.1,3.2,1,3.04,0.15,0.2,0.03,2.15,0
+WR,Marqise Lee,4.04,0,0,0,,,0,-2.15,110.2305,44.8806,6.7279,29.4304,57.4575,69.276,40.57,63.36675,49.0138,54.923,2.7,3.1,4.6,1.6,-4.4,0.03,-1,-0.03,3.97,0
+WR,Breshad Perriman,0,0,0,0,,,0,9.2,154.34975,57.7374,8.4934,37.141,73.9332,99.319,43.1141,86.6261,58.5237,71.2166,3.1,4.5,6.4,2.6,-1.37,0.14,-1.02,-0.14,3.87,0
+WR,Jaron Brown,2.35,0,0,0,,,0,13.2,62.41295,19.3175,2.978,13.0288,25.2066,40.6597,7.353,32.93315,16.2798,24.0064,1.1,,,,,,0,0,2.35,0
+WR,Brandon Tate,0.86,0,0,0,,,0,-0.1,27.0221,10.3881,1.673,7.3193,13.6508,21.4426,5.5,17.5467,9.5754,13.4713,0.4,,,,,,0,0,3.05,0
+WR,Kenbrell Thompkins,4.17,0,0,0,,,0,0.45,63.29715,23.4221,5.1944,21.6435,31.2294,43.8355,19.4,37.53245,25.3147,31.6178,,,,,,,0,0,,0
+WR,Brice Butler,6.36,0,0,0,,,0,4.65,77.35005,27.8462,4.44,19.425,36.1282,55.2437,17.9,45.68595,27.0141,36.5719,2,,,,,,0,0,1.64,0
+WR,Devin Hester,0,0,0,0,,,0,9.2,35.7753,9.8099,1.7917,7.6787,12.7798,28.4936,-0.9026,20.6367,5.9386,13.7955,0.6,,,,,,0,0,,0
+WR,Chris Givens,3.79,0,0,0,,,0,9.3,70.39395,26.3138,5.0392,20.9968,35.0851,45.6272,6.3905,40.35615,20.7378,26.0089,,,,,,,0,0,,0
+WR,Jeremy Kerley,2.35,0,0,0,,,0,0.55,44.91175,20.2267,2.8963,12.6677,23.8356,32.9397,8.1126,28.38765,15.9741,20.5262,2.8,5.2,7.3,3.1,-0.89,0.03,-1.05,-0.03,7.5,0
+WR,Kenny Bell,0,,,,,,,1.15,1.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Harry Douglas,4.89,0,0,0,,,0,0.45,52.0247,20.2303,3.3098,14.4772,25.1904,45.4002,7.3684,35.2953,16.2794,26.3843,1.5,3.1,4.5,1.7,-2,0.05,-0.47,-0.02,6.3,0
+WR,Quan Bray,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Josh Huff,4.48,0,0,0,,,0,9.3,71.04525,25.1522,4.3323,18.5665,31.8362,44.5681,15.25,38.20215,23.5431,29.9091,2,2.1,3.1,1.1,-2.89,0.02,-0.21,0,,0
+WR,Jared Abbrederis,2.23,,,,,,,12.05,12.05,0,0.4457,1.1143,,,,,,,,,,,,,0,0,,0
+WR,Chris Conley,3.82,0,0,0,,,0,13.85,157.4537,59.6626,8.5694,37.4607,75.7668,91.1077,44.5661,83.43725,60.1665,67.8369,3.9,5.5,7.8,3.2,-3.92,0.05,-5.37,-0.24,5,0
+WR,Josh Boyce,0,,,,,,,-0.9,-0.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jeremy Ross,0.68,0,0,0,,,0,0.45,20.63735,7.2299,1.6423,6.8428,9.6399,22.0277,-0.9328,15.8338,4.3536,10.5475,,,,,,,0,0,,0
+WR,Griff Whalen,3.56,0,0,0,,,0,-10.1,15.86135,9.7038,2.2191,9.2464,12.9384,27.9445,-1.8986,20.44145,5.5199,13.023,,,,,,,0,0,,0
+WR,Ryan Grant,4.19,0,0,0,,,0,0.6,61.56335,23.7799,4.2639,18.2741,30.8065,52.6307,7.683,41.7186,19.2448,30.1569,1.8,,,,,,0,0,,0
+WR,Shane Wynn,0,,,,,,,-2.15,-2.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Mario Alford,2,,,,,,,8.15,8.15,0,0.4,1,,,,,,,,,,,,,0,0,,0
+WR,Jordan Payton,0,,,,,,,-0.9,-0.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Nick Williams,3.31,0,0,0,,,0,8.65,66.6963,23.5062,3.4692,15.1777,31.1416,54.1411,-0.3317,42.64135,15.405,26.9047,0.4,,,,,,0,0,1.62,0
+WR,Greg Salas,5.6,0,0,0,,,0,0.9,3.6308,2.3957,0.4172,-773.1012,1.4609,2.5398,0,2.00035,0.7305,1.2699,1.2,3.4,29.8,6.6,-10.46,88.61,-69.96,"-6,199.41",2.34,1
+WR,Issac Blakeney,0,,,,,,,9.5,9.5,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jordan Williams-Lambert,0,,,,,,,7.9,7.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Rashad Ross,2.65,,,,,,,0.6,0.6,0,0.5292,1.3231,,,,,,,,,,,,,0,0,,0
+WR,Justin Hunter,4.82,0,0,0,,,0,-10.1,42.41515,20.357,3.6851,15.7932,26.7927,51.4449,0,39.1188,13.3964,25.7225,0.7,,,,,,0,0,,0
+WR,Cordarrelle Patterson,0.96,0,0,0,,,0,7.85,48.50505,15.1956,2.7558,11.8106,20.0608,33.6385,7.55,26.84965,13.8054,20.5943,0.4,,,,,,0,0,,0
+WR,Jerome Simpson,2.78,,,,,,,0.55,0.55,0,0.556,1.39,,,,,,,,,,,,,0,0,,0
+WR,T.J. Graham,1.47,,,,,,,9.3,9.3,0,0.2933,0.7333,,,,,,,,,,,,,0,0,,0
+WR,Chris Moore,0,,,,,,,9.2,9.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Geronimo Allison,0,,,,,,,12.05,12.05,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,K.J. Brent,0,,,,,,,2.6,2.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Paul McRoberts,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jace Billingsley,0,,,,,,,0.65,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Andy Jones,0,,,,,,,4.65,4.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Ed Eagan,0,,,,,,,-0.9,-0.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Chris Hubert,0,,,,,,,13.2,13.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Isaac Fruechte,0,,,,,,,0.65,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Eric Weems,0.17,0,0,0,,,0,8.65,28.3379,7.2919,1.3281,5.6918,9.5725,16.6308,3.6,13.10165,6.5863,10.1154,0.3,,,,,,0,0,,0
+WR,Bradley Marquez,1.53,,,,,,,8.15,8.15,0,0.306,0.765,,,,,,,,,,,,,0,0,,0
+WR,Aaron Burbridge,0,,,,,,,0.55,0.55,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Ben Roberts,0,,,,,,,0.45,0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Kieran Duncan,0,,,,,,,-3.75,-3.75,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Rashard Higgins,0,,,,,,,-0.9,-0.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Vince Mayle,0,,,,,,,4.65,4.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Chandler Worthy,0.97,,,,,,,0.45,0.45,0,0.1933,0.4833,,,,,,,,,,,,,0,0,,0
+WR,Johnny Holton,0,,,,,,,2.6,2.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jakeem Grant,0,,,,,,,-10.1,-10.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Isaiah Burse,0,,,,,,,-4.35,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Eli Rogers,0,,,,,,,9.5,9.5,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Tommylee Lewis,0,,,,,,,7.9,7.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Duke Williams,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jarvis Turner,0,0,0,0,,,0,0.6,0.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Dwayne Bowe,1.11,0,0,0,,,0,-0.9,-0.9,0,0.0446,0.1857,0,0,0,0,0,0,,,,,,,0,0,,0
+WR,Cayleb Jones,0,,,,,,,9.3,9.3,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jaxon Shipley,0,,,,,,,13.2,13.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Dres Anderson,0,,,,,,,0.55,0.55,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Braxton Miller,0,,,,,,,12.95,12.95,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Michael Bennett,0,0,0,0,,,0,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Tavarres King,0,,,,,,,4.65,4.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Freddie Martino,0,,,,,,,1.15,1.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jeremy Butler,6.47,,,,,,,1.15,1.15,0,1.295,3.2375,,,,,,,,,,,,,0,0,,0
+WR,Tony Washington,0.8,,,,,,,-2.15,-2.15,0,0.16,0.4,,,,,,,,,,,,,0,0,,0
+WR,Jordan Leslie,0,,,,,,,8.65,8.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Lucky Whitehead,1.11,0,0,0,,,0,4.65,39.8778,13.8743,2.4088,10.3234,18.149,22.4076,11.75,20.2783,14.9495,17.0788,0.7,,,,,,0,0,,0
+WR,Tyler Murphy,2.1,,,,,,,-10.1,-10.1,0,0.42,1.05,,,,,,,,,,,,,0,0,,0
+WR,Frankie Hammond Jr.,-0.4,,,,,,,13.85,13.85,0,-0.08,-0.2,,,,,,,,,,,,,0,0,,0
+WR,Quinton Dunbar,0,,,,,,,0.6,0.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Matt Hazel,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Walt Powell,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Evan Spencer,0,,,,,,,1.15,1.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jamel Johnson,0,,,,,,,12.05,12.05,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,DeAndre Smelter,0,,,,,,,0.55,0.55,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Montario Hunter,0,,,,,,,20.2,20.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Franky Okafor,0,,,,,,,13.2,13.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Moritz Boehringer,0,,,,,,,7.85,7.85,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Valdez Showers,0,,,,,,,0.6,0.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Donte Foster,0,,,,,,,0.45,0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,DeAndre Carter,0,0,0,0,,,0,-3.5,-3.5,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+WR,Jake Kumerow,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Rashaun Simonise,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Joshua Stangby,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Rashawn Scott,0,,,,,,,-10.1,-10.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Reggie Bell,0,,,,,,,7.9,7.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Daniel Brown,2.35,,,,,,,9.2,9.2,0,0.47,1.175,,,,,,,,,,,,,0,0,,0
+WR,Dobson Collins,0,,,,,,,9.2,9.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Herb Waters,0,,,,,,,12.05,12.05,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Donteea Dye,2.47,0,0,0,,,0,1.15,24.89395,9.1777,1.9983,8.3263,12.2369,23.0141,0,17.6255,6.1185,11.5071,,,,,,,0,0,,0
+WR,Kevin Smith,1.93,,,,,,,20.2,20.2,0,0.3867,0.9667,,,,,,,,,,,,,0,0,,0
+WR,Kasen Williams,1.8,,,,,,,20.2,20.2,0,0.36,0.9,,,,,,,,,,,,,0,0,,0
+WR,C.J. Goodwin,0,,,,,,,8.65,8.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Tre McBride,1.43,,,,,,,0.45,0.45,0,0.2867,0.7167,,,,,,,,,,,,,0,0,,0
+WR,Rasheed Bailey,0,,,,,,,-4.35,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jaydon Mickens,0,,,,,,,2.6,2.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jamaal Jones,0,,,,,,,-4.35,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Bernard Reedy,0,,,,,,,1.15,1.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Dominique Williams,0,,,,,,,-4.35,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Tyrell Williams,8,0,0,0,,,0,-4.35,87.3714,38.9528,5.6801,24.8454,49.7871,64.9186,18.95,57.35285,34.3686,41.9343,2.1,3.3,5.1,1.5,-6,0.03,-1.51,-0.04,5.26,0
+WR,Cameron Meredith,2.5,0,0,0,,,0,-3.75,11.7466,5.7667,1.1298,4.8419,7.4889,16.0154,0,11.75215,3.7445,8.0077,0.4,,,,,,0,0,,0
+WR,R.J. Harris,0,,,,,,,7.9,7.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Xavier Rush,0,,,,,,,9.3,9.3,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jarrett Boykin,0,,,,,,,-0.1,-0.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Devin Lucien,0,,,,,,,-3.5,-3.5,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Antwan Goodley,0,,,,,,,20.2,20.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Shaq Evans,0,,,,,,,-2.15,-2.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Leonte Carroo,0,,,,,,,-10.1,-10.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Levi Norwood,0,,,,,,,9.5,9.5,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Myles White,2.03,,,,,,,0.45,0.45,0,0.4067,1.0167,,,,,,,,,,,,,0,0,,0
+WR,Tevin Jones,0,,,,,,,12.95,12.95,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Marvin Hall,0,,,,,,,2.6,2.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Daniel Braverman,0,,,,,,,-3.75,-3.75,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Marken Michel,0,,,,,,,7.85,7.85,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Brittan Golden,0.25,0,0,0,,,0,13.2,16.37495,1.1221,0.22,0.9428,1.4961,3.3577,0,2.4269,0.7481,1.6789,0,,,,,,0,0,,0
+WR,Hakeem Nicks,1.48,0,0,0,,,0,7.9,13.4915,2.0057,0.5067,2.1111,2.6743,5.8344,0,4.25435,1.3372,2.9172,,,,,,,0,0,,0
+WR,Devin Street,1.89,0,0,0,,,0,-3.5,25.6311,11.4546,2.0117,8.6217,15.1728,20.2566,7.66,17.7147,11.4164,13.9583,0.2,,,,,,0,0,,0
+WR,Ty Montgomery,5.75,0,0,0,,,0,12.05,95.09795,31.9592,5.7749,24.7494,41.9122,56.5032,25.7683,49.2077,33.8403,41.1358,1.4,,,,,,0,0,,0
+WR,Adam Thielen,2.93,0,0,0,,,0,7.85,32.5523,10.4651,1.7912,6.7923,12.4535,18.2076,6.29,15.33055,9.3718,12.2488,1.4,2.4,3.7,1.1,-3.79,16.7,-0.37,-6.19,,0
+WR,Aldrick Robinson,0,0,0,0,,,0,8.65,8.65,0.4875,0.0433,0.1857,0,0,0,0,0,0,1.3,,,,,,0,0,,0
+WR,Devon Cajuste,0,,,,,,,12.05,12.05,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Keith Mumphery,1.42,0,0,0,,,0,12.95,30.1877,6.4382,1.2066,5.171,8.4343,14.6068,3,11.52055,5.7172,8.8034,0.3,,,,,,0,0,,0
+WR,Chris Brown,0,,,,,,,4.65,4.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Andre Caldwell,2.04,0,0,0,,,0,0.65,11.05375,4.3821,0.914,3.8082,5.8428,9.1219,0,7.48235,2.9214,4.561,,,,,,,0,0,,0
+WR,Geremy Davis,0.77,0,0,0,,,0,4.65,33.9152,11.1779,1.9802,8.4865,14.8539,28.2626,0.56,21.55825,7.707,14.4113,0.1,,,,,,0,0,,0
+WR,Deshon Foxx,0,,,,,,,20.2,20.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Quinshad Davis,0,,,,,,,0.65,0.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Cody Core,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Ed Williams,0,0,0,0,,,0,12.05,12.05,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,T.J. Thorpe,0,,,,,,,0.6,0.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Rod Streater,1.3,0,0,0,,,0,0.55,41.7017,17.0728,2.8234,12.0802,20.8804,27.8826,12.66,24.3815,16.7702,20.2713,1.1,4,5.8,2.2,-7.65,0.04,-3.9,-0.14,,0
+WR,Richard Mullaney,0,,,,,,,4.65,4.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Greg Little,0,0,0,0,,,0,-0.1,-0.1,0,0,0,0,0,0,0,0,0,,,,,,,0,0,,0
+WR,Bryan Walters,5.35,0,0,0,,,0,-2.15,36.22735,14.8331,2.76,11.8286,19.4274,34.6199,3.28,27.02365,11.3537,18.95,0.7,,,,,,0,0,,0
+WR,Marcus Leak,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Vincent Brown,2.7,0,0,0,,,0,7.9,7.9,0,0.108,0.45,0,0,0,0,0,0,,,,,,,0,0,,0
+WR,Douglas McNeil III,0,,,,,,,20.2,20.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Demarcus Ayers,0,,,,,,,9.5,9.5,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Demarcus Robinson,0,,,,,,,13.85,13.85,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Russell Shepard,1.47,0,0,0,,,0,1.15,7.3122,2.6612,0.4665,1.9994,3.4483,5.4278,0,4.43805,1.7242,2.7139,0.2,,,,,,0,0,,0
+WR,Hunter Sharp,0,,,,,,,9.3,9.3,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Titus Davis,0,,,,,,,0.45,0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Ricardo Louis,0,,,,,,,-0.9,-0.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Darius Jennings,6.23,,,,,,,-0.9,-0.9,0,1.2467,3.1167,,,,,,,,,,,,,0,0,,0
+WR,Damond Powell,0,,,,,,,13.2,13.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Aaron Dobson,3.43,0,0,0,,,0,-3.5,-3.5,0,0.1373,0.5722,0,0,0,0,0,0,,,,,,,0,0,,0
+WR,Roger Lewis,0,,,,,,,4.65,4.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Mike Thomas,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Shakim Phillips,0,,,,,,,9.5,9.5,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,DeAndre Reaves,0,,,,,,,-4.35,-4.35,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Kadron Boone,0,,,,,,,4.65,4.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Nathan Palmer,0,,,,,,,2.6,2.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Maurice Harris,0,,,,,,,0.6,0.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Brian Tyms,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Kenny Lawler,0,,,,,,,20.2,20.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,James Wright,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Kashif Moore,0,,,,,,,13.85,13.85,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Chris Harper,-0.3,,,,,,,0.55,0.55,0,-0.06,-0.15,,,,,,,,,,,,,0,0,,0
+WR,Jared Dangerfield,0,,,,,,,7.9,7.9,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Josh Lenz,0,,,,,,,12.95,12.95,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Marquis Bundy,0,,,,,,,13.2,13.2,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,DeAndrew White,1.4,,,,,,,0.55,0.55,0,0.28,0.7,,,,,,,,,,,,,0,0,,0
+WR,Max McCaffrey,0,,,,,,,2.6,2.6,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Andre Roberts,3.13,0,0,0,,,0,0.65,44.8307,16.3089,3.0795,13.1922,20.5285,47.9275,-0.6231,34.228,9.9527,23.6522,0.9,2.3,3.4,1.2,-6.29,0.07,-0.59,-0.04,,0
+WR,Adam Humphries,4.14,,,,,,,1.15,1.15,0,0.8273,2.0682,,,,,,,,,,,,,0,0,,0
+WR,Mekale McKay,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Charone Peake,0,,,,,,,0.45,0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Alex Erickson,0,,,,,,,8.15,8.15,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Jonathan Krause,1.05,,,,,,,-4.35,-4.35,0,0.21,0.525,,,,,,,,,,,,,0,0,,0
+WR,A.J. Cruz,0,,,,,,,-10.1,-10.1,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Marlon Moore,2.2,,,,,,,-0.9,-0.9,0,0.44,1.1,,,,,,,,,,,,,0,0,,0
+WR,Matthew Slater,0,0,0,0,,,0,-3.5,-1.80955,0.6064,0.1352,0.5635,0.8085,1.7639,0,1.2862,0.4043,0.882,,,,,,,0,0,,0
+WR,Darrius Heyward-Bey,4.9,0,0,0,,,0,9.5,84.3565,31.3679,4.5621,19.9591,40.4739,50.4069,18.3583,45.4404,29.4161,34.3826,2.7,,,,,,0,0,2.36,0
+WR,Daniel Anthrop,0,,,,,,,9.65,9.65,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Kyle Williams,0,,,,,,,0.45,0.45,0,0,0,,,,,,,,,,,,,0,0,,0
+WR,Marc Mariani,2.44,0,0,0,,,0,0.45,32.76545,11.8022,2.0282,8.8736,15.7363,31.8769,1.2814,23.8066,8.5089,16.5792,0,,,,,,0,0,3.92,0

@@ -7,38 +7,161 @@ from ortools.linear_solver import pywraplp
 import csv
 import itertools as IT
 
+# Change this for the number of projections you need to run
+PROJECTION_COUNT = 21
+
+SALARY_CAP = 60000
+
+POSITION_LIMITS = [
+    ["QB", 1],
+    ["RB", 2],
+    ["WR", 3],
+    ["TE", 1],
+    ["K",  1],
+    ["D",  1]
+]
+
+ROSTER_SIZE = 9
+TEAM_MAX = 4
+
 class Player:
 
     def __init__(self, opts):
         self.id = opts['Id']
         self.position = opts['Position'].upper()
-        self.name = opts['First Name'] + " " + opts['Last Name']
+        self.name = opts['Name']
         self.salary = int(opts['Salary'])
         self.index = 0
         #Sometimes projections have bad or missing projection for players, so we need to check
         self.projected = []
         self.projection = []
+        #1
         try:
-            self.projected.append(float(opts['FPPG']))
-            self.projection.append('FFPG')
+            self.projected.append(float(opts['Fanduel']))
+            self.projection.append('Fanduel')
         except:
             self.projected.append( float(0))
+        #2
         try:
-            self.projected.append( float(opts['New projection']))
-            self.projection.append('New projection')
+            self.projected.append( float(opts['Owned 50/50']))
+            self.projection.append('Owned 50/50')
         except:
             self.projected.append( float(0))
+        #3
         try:
-            self.projected.append( float(opts['Another projection']))
-            self.projection.append('Another projection')
+            self.projected.append( float(opts['Owned GPP']))
+            self.projection.append('Owned GPP')
         except:
             self.projected.append( float(0))
+        #4
         try:
-            self.projected.append( float(opts['Yet another projection']))
-            self.projection.append('Yet another projection')
+            self.projected.append(float(opts['Owned Combined']))
+            self.projection.append('Owned Combined')
         except:
             self.projected.append( float(0))
-
+        #5
+        try:
+            self.projected.append( float(opts['Formula 7']))
+            self.projection.append('Formula 7')
+        except:
+            self.projected.append( float(0))
+        #6
+        try:
+            self.projected.append( float(opts['Formula 8']))
+            self.projection.append('Formula 8')
+        except:
+            self.projected.append( float(0))
+        #7
+        try:
+            self.projected.append(float(opts['Formula 5']))
+            self.projection.append('Formula 5')
+        except:
+            self.projected.append( float(0))
+        #8
+        try:
+            self.projected.append( float(opts['Formula 6']))
+            self.projection.append('Formula 6')
+        except:
+            self.projected.append( float(0))
+        #9
+        try:
+            self.projected.append( float(opts['Formula 9']))
+            self.projection.append('Formula 9')
+        except:
+            self.projected.append( float(0))
+        #10
+        try:
+            self.projected.append(float(opts['FFA Points']))
+            self.projection.append('FFA Points')
+        except:
+            self.projected.append( float(0))
+        #11
+        try:
+            self.projected.append( float(opts['FFA Ceiling']))
+            self.projection.append('FFA Ceiling')
+        except:
+            self.projected.append( float(0))
+        #12
+        try:
+            self.projected.append( float(opts['FFA Floor']))
+            self.projection.append('FFA Floor')
+        except:
+            self.projected.append( float(0))
+        #13
+        try:
+            self.projected.append( float(opts['FFA Points/Ceiling Avg']))
+            self.projection.append('FFA Points/Ceiling Avg')
+        except:
+            self.projected.append( float(0))
+        #14
+        try:
+            self.projected.append( float(opts['FFA Points/Floor Avg']))
+            self.projection.append('FFA Points/Floor Avg')
+        except:
+            self.projected.append( float(0))
+        #15
+        try:
+            self.projected.append( float(opts['FFA Ceiling/Floor Avg']))
+            self.projection.append('FFA Ceiling/Floor Avg')
+        except:
+            self.projected.append( float(0))                  
+        #16
+        try:
+            self.projected.append( float(opts['FantasyPros']))
+            self.projection.append('FantasyPros')
+        except:
+            self.projected.append( float(0))                  
+        #17
+        try:
+            self.projected.append( float(opts['FantasyLabs']))
+            self.projection.append('FantasyLabs')
+        except:
+            self.projected.append( float(0))              
+        #18
+        try:
+            self.projected.append( float(opts['FantasyLabs3']))
+            self.projection.append('FantasyLabs3')
+        except:
+            self.projected.append( float(0))                   
+        #19
+        try:
+            self.projected.append( float(opts['FantasyLabs4']))
+            self.projection.append('FantasyLabs4')
+        except:
+            self.projected.append( float(0))                   
+        #20
+        try:
+            self.projected.append( float(opts['Rotogrinders']))
+            self.projection.append('Rotogrinders')
+        except:
+            self.projected.append( float(0))
+        #21
+        try:
+            self.projected.append( float(opts['Counting']))
+            self.projection.append('Counting')
+        except:
+            self.projected.append( float(0))
+            
         self.team = opts['Team']
         self.opponent = opts['Opponent']
         self.lock = int(opts['Lock']) > 0
@@ -96,20 +219,6 @@ class Roster:
         s += "\n"
         return s
 
-SALARY_CAP = 60000
-
-POSITION_LIMITS = [
-    ["QB", 1],
-    ["RB", 2],
-    ["WR", 3],
-    ["TE", 1],
-    ["K",  1],
-    ["D",  1]
-]
-
-ROSTER_SIZE = 9
-TEAM_MAX = 4
-
 def write_bulk_import_csv(rosters):
     with open('test.csv', 'wb') as csvfile:
         writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
@@ -121,7 +230,7 @@ def run(all_players):
         writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
         writer.writeheader()
                 
-    for x in range(0, 4):
+    for x in range(0, PROJECTION_COUNT):
         solver = pywraplp.Solver('FD', pywraplp.Solver.CBC_MIXED_INTEGER_PROGRAMMING)
         variables = []
 
@@ -265,7 +374,7 @@ def run(all_players):
 
 def load():
     all_players = []
-    filenames = ['Player List 09-11-2016.csv', 'Projections.csv']
+    filenames = ['FanDuel-NFL-2016-09-11-16073-players-list.csv', 'Projections.csv']
     handles = [open(filename, 'rb') for filename in filenames]
     readers = [csv.DictReader(f, skipinitialspace=True) for f in handles]
 
