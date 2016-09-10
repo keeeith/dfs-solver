@@ -8,7 +8,7 @@ import csv
 import itertools as IT
 
 # Change this for the number of projections you need to run
-PROJECTION_COUNT = 21
+PROJECTION_COUNT = 24
 
 SALARY_CAP = 60000
 
@@ -133,29 +133,47 @@ class Player:
             self.projected.append( float(0))                  
         #17
         try:
-            self.projected.append( float(opts['FantasyLabs']))
-            self.projection.append('FantasyLabs')
+            self.projected.append( float(opts['Fantasy Labs']))
+            self.projection.append('Fantasy Labs')
         except:
-            self.projected.append( float(0))              
+            self.projected.append( float(0))                   
         #18
         try:
-            self.projected.append( float(opts['FantasyLabs3']))
-            self.projection.append('FantasyLabs3')
+            self.projected.append( float(opts['Fantasy Labs Ceiling']))
+            self.projection.append('Fantasy Labs Ceiling')
         except:
             self.projected.append( float(0))                   
         #19
         try:
-            self.projected.append( float(opts['FantasyLabs4']))
-            self.projection.append('FantasyLabs4')
+            self.projected.append( float(opts['Fantasy Labs Floor']))
+            self.projection.append('Fantasy Labs Floor')
         except:
             self.projected.append( float(0))                   
         #20
         try:
-            self.projected.append( float(opts['Rotogrinders']))
-            self.projection.append('Rotogrinders')
+            self.projected.append( float(opts['Fantasy Labs 2']))
+            self.projection.append('Fantasy Labs 2')
         except:
-            self.projected.append( float(0))
+            self.projected.append( float(0))                   
         #21
+        try:
+            self.projected.append( float(opts['Fantasy Labs 3']))
+            self.projection.append('Fantasy Labs 3')
+        except:
+            self.projected.append( float(0))                  
+        #22
+        try:
+            self.projected.append( float(opts['Fantasy Labs 4']))
+            self.projection.append('Fantasy Labs 4')
+        except:
+            self.projected.append( float(0))                   
+        #23
+        try:
+            self.projected.append( float(opts['Fantasy Labs 5']))
+            self.projection.append('Fantasy Labs 5')
+        except:
+            self.projected.append( float(0))    
+        #24
         try:
             self.projected.append( float(opts['Counting']))
             self.projection.append('Counting')
