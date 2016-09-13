@@ -1,210 +1,45 @@
 Position,Name,Team,Salary,Projected
-Fanduel,,,,
-"D","Kansas City Chiefs","KC",5100,11.13
+FPPG,,,,
+"D","Kansas City Chiefs","KC",5100,11.125
 "K","Chris Boswell","PIT",4600,10.5
 "QB","Geno Smith","NYJ",6400,21.0
-"RB","Devonta Freeman","ATL",8100,18.66
+"RB","Devonta Freeman","ATL",8100,18.65999959
 "RB","Arian Foster","MIA",6500,16.5
-"TE","Delanie Walker","TEN",6500,13.16
-"WR","DeAndre Hopkins","HOU",8400,17.23
-"WR","Brandon Marshall","NYJ",7700,17.79
-"WR","Steve Smith Sr.","BAL",6700,15.43
-"","","","",141.4
-Owned 50/50,,,,
-"D","Philadelphia Eagles","PHI",4800,14.0
-"K","Andrew Franks","MIA",4500,0.0
-"QB","Dak Prescott","DAL",5000,66.0
-"RB","Lamar Miller","HOU",7600,45.0
-"RB","Spencer Ware","KC",5400,79.0
-"TE","Jordan Reed","WAS",7400,40.0
-"WR","Antonio Brown","PIT",9300,49.0
-"WR","Julio Jones","ATL",9000,51.0
-"WR","Andy Jones","DAL",4500,0.0
-"","","","",344.0
-Owned GPP,,,,
-"D","Philadelphia Eagles","PHI",4800,14.0
-"K","Andrew Franks","MIA",4500,0.0
-"QB","Dak Prescott","DAL",5000,39.0
-"RB","DeAngelo Williams","PIT",7100,35.0
-"RB","Spencer Ware","KC",5400,52.0
-"TE","Jordan Reed","WAS",7400,28.0
-"WR","Antonio Brown","PIT",9300,34.0
-"WR","Dez Bryant","DAL",8000,10.0
-"WR","Amari Cooper","OAK",7100,23.0
-"","","","",235.0
-Owned Combined,,,,
-"D","Cleveland Browns","CLE",4000,7.0
-"K","Cody Parkey","PHI",4500,0.0
-"QB","Dak Prescott","DAL",5000,52.5
-"RB","DeAngelo Williams","PIT",7100,38.5
-"RB","Spencer Ware","KC",5400,65.5
-"TE","Jordan Reed","WAS",7400,34.0
-"WR","Antonio Brown","PIT",9300,41.5
-"WR","Julio Jones","ATL",9000,38.5
-"WR","Dez Bryant","DAL",8000,7.5
-"","","","",285.0
-Formula 7,,,,
-"D","Seattle Seahawks","SEA",5000,86.3
-"K","Chandler Catanzaro","ARI",4900,75.2
-"QB","Russell Wilson","SEA",8500,108.2
-"RB","Lamar Miller","HOU",7600,111.95
-"RB","DeAngelo Williams","PIT",7100,96.0
-"TE","David Johnson","PIT",4500,77.0
-"WR","Antonio Brown","PIT",9300,109.0
-"WR","Doug Baldwin","SEA",6700,86.2
-"WR","Tyler Lockett","SEA",6200,85.2
-"","","","",835.0500000000001
-Formula 8,,,,
-"D","Kansas City Chiefs","KC",5100,276.06835
-"K","Chris Boswell","PIT",4600,309.20735
-"QB","Russell Wilson","SEA",8500,705.59545
-"RB","Lamar Miller","HOU",7600,532.5237
-"RB","Charles Sims","TB",4700,282.65855
-"TE","David Johnson","PIT",4500,539.44795
-"WR","Antonio Brown","PIT",9300,680.61715
-"WR","Julio Jones","ATL",9000,596.7311
-"WR","Doug Baldwin","SEA",6700,405.2713
-"","","","",4328.1209
-Formula 5,,,,
-"D","Kansas City Chiefs","KC",5100,165.0
-"K","Chris Boswell","PIT",4600,114.8926
-"QB","Matthew Stafford","DET",7400,241.5141
-"RB","Lamar Miller","HOU",7600,211.8093
-"RB","LeSean McCoy","BUF",6900,171.4789
-"TE","David Johnson","PIT",4500,203.6523
-"WR","Antonio Brown","PIT",9300,270.5063
-"WR","Julio Jones","ATL",9000,245.6738
-"WR","Marvin Jones Jr.","DET",5500,137.9386
-"","","","",1762.4659
-Formula 6,,,,
-"D","Philadelphia Eagles","PHI",4800,20.7309
-"K","Robbie Gould","CHI",4500,20.682
-"QB","Derek Carr","OAK",7700,39.3626
-"RB","Lamar Miller","HOU",7600,39.2872
-"RB","Spencer Ware","KC",5400,29.0609
-"TE","David Johnson","PIT",4500,33.322
-"WR","Antonio Brown","PIT",9300,48.8311
-"WR","Julio Jones","ATL",9000,43.9762
-"WR","Amari Cooper","OAK",7100,32.4307
-"","","","",307.68359999999996
-Formula 9,,,,
-"D","Jacksonville Jaguars","JAC",4100,69.0952
-"K","Stephen Gostkowski","NE",5000,609.6697
-"QB","Blake Bortles","JAC",8400,672778.3839
-"RB","Devonta Freeman","ATL",8100,32458.8147
-"RB","Mark Ingram","NO",7300,7539.8415
-"TE","David Johnson","PIT",4500,4369.1462
-"WR","Antonio Brown","PIT",9300,6112.4125
-"WR","Allen Robinson","JAC",8500,4398.7244
-"WR","Tajae Sharpe","TEN",4800,51.9456
-"","","","",728388.0336999998
-FFA Points,,,,
-"D","Minnesota Vikings","MIN",4600,132.9538
-"K","Stephen Gostkowski","NE",5000,157.0906
-"QB","Ryan Tannehill","MIA",6400,263.0315
-"RB","Lamar Miller","HOU",7600,232.0124
-"RB","LeSean McCoy","BUF",6900,211.5218
-"TE","David Johnson","PIT",4500,251.5531
-"WR","Antonio Brown","PIT",9300,304.625
-"WR","Julio Jones","ATL",9000,275.2484
-"WR","Jarvis Landry","MIA",6600,201.4636
-"","","","",2029.5002000000002
-FFA Ceiling,,,,
-"D","Indianapolis Colts","IND",4400,124.7035
-"K","Chris Boswell","PIT",4600,153.3783
-"QB","Philip Rivers","SD",7300,298.026
-"RB","Lamar Miller","HOU",7600,248.8226
-"RB","LeSean McCoy","BUF",6900,229.9866
-"TE","David Johnson","PIT",4500,268.1797
-"WR","Antonio Brown","PIT",9300,321.6232
-"WR","Dez Bryant","DAL",8000,259.6696
-"WR","Keenan Allen","SD",7400,241.414
-"","","","",2145.8035
-FFA Floor,,,,
-"D","Jacksonville Jaguars","JAC",4100,104.4
-"K","Stephen Gostkowski","NE",5000,141.0916
-"QB","Philip Rivers","SD",7300,267.4005
-"RB","Adrian Peterson","MIN",8200,223.0
-"RB","Lamar Miller","HOU",7600,218.3
-"TE","David Johnson","PIT",4500,225.61
-"WR","Antonio Brown","PIT",9300,284.3611
-"WR","Keenan Allen","SD",7400,203.2
-"WR","Jarvis Landry","MIA",6600,190.4
-"","","","",1857.7632
-FFA Points/Ceiling Avg,,,,
-"D","Minnesota Vikings","MIN",4600,129.5871
-"K","Stephen Gostkowski","NE",5000,160.01585
-"QB","Ryan Tannehill","MIA",6400,268.586
-"RB","Lamar Miller","HOU",7600,240.4175
-"RB","LeSean McCoy","BUF",6900,220.7542
-"TE","David Johnson","PIT",4500,259.8664
-"WR","Antonio Brown","PIT",9300,313.1241
-"WR","Julio Jones","ATL",9000,280.2212
-"WR","Jarvis Landry","MIA",6600,208.4168
-"","","","",2080.98915
-FFA Points/Floor Avg,,,,
-"D","Minnesota Vikings","MIN",4600,120.3769
-"K","Stephen Gostkowski","NE",5000,149.0911
-"QB","Ryan Tannehill","MIA",6400,254.8158
-"RB","Lamar Miller","HOU",7600,225.1562
-"RB","LeSean McCoy","BUF",6900,199.7609
-"TE","David Johnson","PIT",4500,238.5816
-"WR","Antonio Brown","PIT",9300,294.4931
-"WR","Julio Jones","ATL",9000,259.8599
-"WR","Jarvis Landry","MIA",6600,195.9318
-"","","","",1938.0673
-FFA Ceiling/Floor Avg,,,,
-"D","Jacksonville Jaguars","JAC",4100,111.7828
-"K","Justin Tucker","BAL",4900,147.7429
-"QB","Philip Rivers","SD",7300,282.7133
-"RB","Lamar Miller","HOU",7600,233.5613
-"RB","LeSean McCoy","BUF",6900,208.9933
-"TE","David Johnson","PIT",4500,246.8949
-"WR","Antonio Brown","PIT",9300,302.9922
-"WR","Dez Bryant","DAL",8000,237.4848
-"WR","Keenan Allen","SD",7400,222.307
-"","","","",1994.4724999999999
-FantasyPros,,,,
-"D","Arizona Cardinals","ARI",5000,140.5551
-"K","Nick Novak","HOU",4500,8.3
-"QB","Dak Prescott","DAL",5000,16.1
-"RB","DeAngelo Williams","PIT",7100,14.5
-"RB","Spencer Ware","KC",5400,11.8
-"TE","Jason Witten","DAL",5500,6.7
-"WR","Antonio Brown","PIT",9300,15.7
-"WR","Odell Beckham Jr.","NYG",9100,13.6
-"WR","Julio Jones","ATL",9000,15.1
-"","","","",242.3551
-Fantasy Labs 4,,,,
-"D","Seattle Seahawks","SEA",5000,7.2
-"K","Nick Novak","HOU",4500,10.2
-"QB","Dak Prescott","DAL",5000,18.9
-"RB","Lamar Miller","HOU",7600,15.3
-"RB","DeAngelo Williams","PIT",7100,15.7
-"TE","David Johnson","PIT",4500,16.0
-"WR","Antonio Brown","PIT",9300,20.1
-"WR","Julio Jones","ATL",9000,18.8
-"WR","Dez Bryant","DAL",8000,14.4
-"","","","",136.6
-Fantasy Labs 5,,,,
-"D","Seattle Seahawks","SEA",5000,14.2
-"K","Chandler Catanzaro","ARI",4900,32.5
-"QB","Matt Ryan","ATL",7600,29.8
-"RB","Ezekiel Elliott","DAL",7900,20.1
-"RB","DeAngelo Williams","PIT",7100,20.2
-"TE","David Johnson","PIT",4500,20.6
-"WR","Antonio Brown","PIT",9300,27.0
-"WR","Julio Jones","ATL",9000,25.2
-"WR","Greg Salas","BUF",4600,29.8
-"","","","",219.4
-Counting,,,,
-"D","Jacksonville Jaguars","JAC",4100,1.1
-"K","Dustin Hopkins","WAS",4500,10.4
-"QB","Dak Prescott","DAL",5000,8.8
-"RB","Ezekiel Elliott","DAL",7900,11.1
-"RB","DeAngelo Williams","PIT",7100,11.2
-"TE","David Johnson","PIT",4500,11.4
-"WR","Antonio Brown","PIT",9300,13.2
-"WR","Julio Jones","ATL",9000,12.4
-"WR","Dez Bryant","DAL",8000,9.4
-"","","","",89.0
+"TE","Delanie Walker","TEN",6500,13.15999959
+"WR","Steve Smith Sr.","BAL",6700,15.42857143
+"WR","DeAndre Hopkins","HOU",8400,17.22500038
+"WR","Brandon Marshall","NYJ",7700,17.79375076
+"","","","",141.39232175
+New projection,,,,
+"D","Philadelphia Eagles","PHI",4800,12.98
+"K","Zach Hocker","CIN",4500,12.8
+"QB","Mike Glennon","TB",5500,12.74
+"RB","Zach Zenner","DET",4900,12.97
+"RB","Ryan Hewitt","CIN",4500,12.99
+"TE","Jake Stoneburner","LA",4500,12.95
+"WR","Eddie Royal","CHI",5100,12.92
+"WR","Jarvis Turner","WAS",4500,12.96
+"WR","Sammy Watkins","BUF",7300,12.96
+"","","","",116.27000000000001
+Another projection,,,,
+"D","San Diego Chargers","SD",4100,12.87
+"K","Roberto Aguayo","TB",4500,12.92
+"QB","Jake Heaps","SEA",5000,12.99
+"RB","Eddie Lacy","GB",7100,12.73
+"RB","Brandon Bolden","NE",4900,12.72
+"TE","Jerell Adams","NYG",4500,12.96
+"WR","Brittan Golden","ARI",4500,12.98
+"WR","Devin Street","DAL",4500,12.96
+"WR","Doug Baldwin","SEA",6700,12.9
+"","","","",116.03
+Yet another projection,,,,
+"D","San Francisco 49ers","SF",4400,12.92
+"K","Ryan Succop","TEN",4500,12.43
+"QB","Connor Cook","OAK",5000,13.0
+"RB","Devonta Freeman","ATL",8100,12.96
+"RB","Storm Johnson","TB",4500,12.89
+"TE","Geoff Swaim","DAL",4500,12.91
+"WR","Donteea Dye","TB",4500,12.79
+"WR","Rashawn Scott","MIA",4500,12.94
+"WR","Shaq Evans","JAC",4500,12.85
+"","","","",115.69

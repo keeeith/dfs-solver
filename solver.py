@@ -33,10 +33,7 @@ class Player:
         self.index = 0
         self.projected = []
         self.projection = []
-
-        column_names = ["Fanduel","Owned 50/50","Owned GPP","Owned Combined","Formula 7","Formula 8","Formula 5","Formula 6",
-        	"Formula 9","FFA Points","FFA Ceiling","FFA Floor","FFA Points/Ceiling Avg","FFA Points/Floor Avg","FantasyPros",
-        	"Fantasy Labs","Fantasy Labs Ceiling","Fantasy Labs Floor","Fantasy Labs 2","Fantasy Labs 3","Fantasy Labs 4","Fantasy Labs 5","Counting"]
+        column_names = ["FPPG","New projection","Another projection","Yet another projection"]
 
         global PROJECTION_COUNT
         PROJECTION_COUNT = len(column_names)
@@ -104,12 +101,6 @@ class Roster:
         s += "\tCost: $%s" % self.spent()
         s += "\n"
         return s
-
-def write_bulk_import_csv(rosters):
-    with open('test.csv', 'wb') as csvfile:
-        writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
-        for roster in rosters:
-            writer.writerow([x.name for x in roster.sorted_players()])
 
 def run(all_players):
     with open('Results.csv', 'wb') as csvfile:
@@ -201,11 +192,11 @@ def run(all_players):
         #
         # Add QB stacking (at least 1 wr or te on same team as QB) constraint
         #
-        offense_team_names = set([o.team for o in o_players])
-        for o_team in offense_team_names:
-            ids, players_by_team = zip(*filter(lambda (x,_): x.position in ['WR','TE'] and x.team == o_team, zip(all_players, variables)))
-            idxs, qb = zip(*filter(lambda (x,_): x.position == 'QB' and x.team == o_team, zip(all_players, variables)))
-            solver.Add(solver.Sum(players_by_team)>=solver.Sum(qb))
+        #offense_team_names = set([o.team for o in o_players])
+        #for o_team in offense_team_names:
+        #    ids, players_by_team = zip(*filter(lambda (x,_): x.position in ['WR','TE'] and x.team == o_team, zip(all_players, variables)))
+        #    idxs, qb = zip(*filter(lambda (x,_): x.position == 'QB' and x.team == o_team, zip(all_players, variables)))
+        #    solver.Add(solver.Sum(players_by_team)>=solver.Sum(qb))
 
         #
         # Add position limits
@@ -249,8 +240,9 @@ def run(all_players):
             with open('Results.csv', 'a') as csvfile:
                 writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
                 writer.writerow(['','','','',roster.projected(x)])
-
-            print str(x)+" "+projection_title+" Lineup:"
+            
+            print projection_title+" Lineup:"
+            #print str(x)+" "+projection_title+" Lineup:"
             #print "Optimal roster for: $%s\n" % SALARY_CAP
             print roster
 
@@ -260,7 +252,7 @@ def run(all_players):
 
 def load():
     all_players = []
-    filenames = ['FanDuel-NFL-2016-09-11-16073-players-list.csv', 'Projections.csv']
+    filenames = ['Player List.csv', 'Projections.csv']
     handles = [open(filename, 'rb') for filename in filenames]
     readers = [csv.DictReader(f, skipinitialspace=True) for f in handles]
 
