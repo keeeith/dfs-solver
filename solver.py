@@ -192,11 +192,11 @@ def run(all_players):
         #
         # Add QB stacking (at least 1 wr or te on same team as QB) constraint
         #
-        #offense_team_names = set([o.team for o in o_players])
-        #for o_team in offense_team_names:
-        #    ids, players_by_team = zip(*filter(lambda (x,_): x.position in ['WR','TE'] and x.team == o_team, zip(all_players, variables)))
-        #    idxs, qb = zip(*filter(lambda (x,_): x.position == 'QB' and x.team == o_team, zip(all_players, variables)))
-        #    solver.Add(solver.Sum(players_by_team)>=solver.Sum(qb))
+        offense_team_names = set([o.team for o in o_players])
+        for o_team in offense_team_names:
+            ids, players_by_team = zip(*filter(lambda (x,_): x.position in ['WR','TE'] and x.team == o_team, zip(all_players, variables)))
+            idxs, qb = zip(*filter(lambda (x,_): x.position == 'QB' and x.team == o_team, zip(all_players, variables)))
+            solver.Add(solver.Sum(players_by_team)>=solver.Sum(qb))
 
         #
         # Add position limits
