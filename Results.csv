@@ -1,45 +1,45 @@
 Position,Name,Team,Salary,Projected
 FPPG,,,,
-"D","Kansas City Chiefs","KC",5100,11.125
-"K","Chris Boswell","PIT",4600,10.5
-"QB","Geno Smith","NYJ",6400,21.0
-"RB","Devonta Freeman","ATL",8100,18.65999959
-"RB","Arian Foster","MIA",6500,16.5
-"TE","Delanie Walker","TEN",6500,13.15999959
-"WR","Steve Smith Sr.","BAL",6700,15.42857143
-"WR","DeAndre Hopkins","HOU",8400,17.22500038
-"WR","Brandon Marshall","NYJ",7700,17.79375076
-"","","","",141.39232175
+"D","Jacksonville Jaguars","JAC",4700,13.0
+"QB","Deshaun Watson","HOU",8200,25.27
+"RB","Mark Ingram","NO",6400,15.56
+"RB","Spencer Ware","KC",5200,12.66
+"RB","Kapri Bibbs","WAS",4500,11.23
+"TE","Rob Gronkowski","NE",7900,14.84
+"WR","Antonio Brown","PIT",9000,18.56
+"WR","Tyreek Hill","KC",7300,13.91
+"WR","Jarvis Landry","CLE",6600,12.75
+"","","","",137.78
 New projection,,,,
-"D","Philadelphia Eagles","PHI",4800,12.98
-"K","Zach Hocker","CIN",4500,12.8
-"QB","Mike Glennon","TB",5500,12.74
-"RB","Zach Zenner","DET",4900,12.97
-"RB","Ryan Hewitt","CIN",4500,12.99
-"TE","Jake Stoneburner","LA",4500,12.95
-"WR","Jarvis Turner","WAS",4500,12.96
-"WR","Sammy Watkins","BUF",7300,12.96
-"WR","Adam Humphries","TB",4500,12.88
-"","","","",116.23000000000002
+"D","Baltimore Ravens","BAL",4800,10.7722
+"QB","Dak Prescott","DAL",7000,16.5205
+"RB","Alvin Kamara","NO",8700,16.9948
+"RB","David Johnson","ARI",8600,17.6321
+"RB","Leonard Fournette","JAC",8000,15.2701
+"TE","Rob Gronkowski","NE",7900,11.6867
+"WR","Kenny Stills","MIA",6000,8.6513
+"WR","Keelan Cole","JAC",4500,6.3418
+"WR","Chris Thompson","HOU",4500,6.0166
+"","","","",109.8861
 Another projection,,,,
-"D","San Diego Chargers","SD",4100,12.87
-"K","Roberto Aguayo","TB",4500,12.92
-"QB","Jake Heaps","SEA",5000,12.99
-"RB","Eddie Lacy","GB",7100,12.73
-"RB","Brandon Bolden","NE",4900,12.72
-"TE","Jerell Adams","NYG",4500,12.96
-"WR","Brittan Golden","ARI",4500,12.98
-"WR","Devin Street","DAL",4500,12.96
-"WR","Doug Baldwin","SEA",6700,12.9
-"","","","",116.03
+"D","New Orleans Saints","NO",4600,32.221
+"QB","Tom Brady","NE",8600,53.1862
+"RB","Alvin Kamara","NO",8700,55.7813
+"RB","Dalvin Cook","MIN",7300,41.1662
+"RB","Mike Gillislee","NO",4600,30.5632
+"TE","Kyle Rudolph","MIN",5900,30.7421
+"WR","Stefon Diggs","MIN",7400,36.8992
+"WR","Chris Hogan","NE",6700,32.7049
+"WR","Ted Ginn Jr.","NO",6200,34.5371
+"","","","",347.8012
 Yet another projection,,,,
-"D","San Francisco 49ers","SF",4400,12.92
-"K","Ryan Succop","TEN",4500,12.43
-"QB","Josh Johnson","BAL",5000,12.66
-"RB","Devonta Freeman","ATL",8100,12.96
-"RB","Storm Johnson","TB",4500,12.89
-"TE","Geoff Swaim","DAL",4500,12.91
-"WR","Jeremy Butler","BAL",4500,12.5
-"WR","Rashawn Scott","MIA",4500,12.94
-"WR","Shaq Evans","JAC",4500,12.85
-"","","","",115.06
+"D","Pittsburgh Steelers","PIT",4200,9.2342
+"QB","Andrew Luck","IND",7300,16.8621
+"RB","Alvin Kamara","NO",8700,16.1326
+"RB","David Johnson","ARI",8600,16.7974
+"RB","Leonard Fournette","JAC",8000,13.5255
+"TE","Ricky Seals-Jones","ARI",5100,5.1846
+"WR","Antonio Brown","PIT",9000,13.9382
+"WR","Keelan Cole","JAC",4500,5.7225
+"WR","Chris Thompson","HOU",4500,5.4253
+"","","","",102.82239999999999

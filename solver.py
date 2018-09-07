@@ -13,10 +13,9 @@ SALARY_CAP = 60000
 
 POSITION_LIMITS = [
     ["QB", 1],
-    ["RB", 2],
+    ["RB", 3],
     ["WR", 3],
     ["TE", 1],
-    ["K",  1],
     ["D",  1]
 ]
 
@@ -33,17 +32,18 @@ class Player:
         self.index = 0
         self.projected = []
         self.projection = []
+
         column_names = ["FPPG","New projection","Another projection","Yet another projection"]
 
         global PROJECTION_COUNT
         PROJECTION_COUNT = len(column_names)
 
         for column in column_names:
-	        self.projection.append(column)
-	        try:
-	            self.projected.append( float(opts[column]))
-	        except:
-	            self.projected.append( float(0))
+            self.projection.append(column)
+            try:
+                self.projected.append( float(opts[column]))
+            except:
+                self.projected.append( float(0))
 
         self.team = opts['Team']
         self.opponent = opts['Opponent']
@@ -71,8 +71,7 @@ class Roster:
         "WR": 1,
         "RB": 2,
         "TE": 3,
-        "K": 4,
-        "D": 5,
+        "D": 4,
     }
 
     def __init__(self):
@@ -91,19 +90,29 @@ class Roster:
 
     def position_order(self, player):
         return self.POSITION_ORDER[player.position]
-
+    
     def sorted_players(self):
-        return sorted(self.players, key=self.position_order)
+        sortedp = sorted(self.players, key=self.position_order)
+        rbs = list(filter(lambda x: x.position=='RB', self.players))
+        wrs = list(filter(lambda x: x.position=='WR', self.players))
+        
+        if (len(rbs)>2):
+            sortedp.insert(7,sortedp.pop(3))
+        elif (len(wrs)>3):
+            sortedp.insert(7,sortedp.pop(6))
+        
+        return sortedp
 
     def __repr__(self):
         s = '\n'.join(str(x) for x in self.sorted_players())
         s += "\nProjected Score: %s" % self.projected(self.index)
-        s += "\tCost: $%s" % self.spent()
-        s += "\n"
-        return s
+        s += "\nCost: $%s\n" % self.spent()
+        return s    
+    
+    
 
 def run(all_players):
-    with open('Results.csv', 'wb') as csvfile:
+    with open('Results.csv', 'w') as csvfile:
         writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
         writer.writeheader()
 
@@ -148,19 +157,15 @@ def run(all_players):
         solver.Add(solver.Sum(teams)>=3)
 
         for i, team in enumerate(team_names):
-            ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
+            ids, players_by_team = zip(*filter(lambda x: x[0].team in team, zip(all_players, variables)))
             solver.Add(teams[i]<=solver.Sum(players_by_team))
 
         #
         # Add max number of offense-players per team constraint (Fanduel <= 4)
         # Fanduel requires that you don't have any more than 4 players from the same team
         #
-        #     for team in list(team_names):
-        #         team_players = filter(lambda x: x.team in team, all_players)
-        #         ids, players_by_game = zip(*filter(lambda (x,_): x.team in team and x.position in ['WR','TE','RB','QB'], zip(all_players, variables)))
-        #         solver.Add(solver.Sum(players_by_game)<=4)
         for team in list(team_names):
-            ids, players_by_team = zip(*filter(lambda (x,_): x.team in team, zip(all_players, variables)))
+            ids, players_by_team = zip(*filter(lambda x: x[0].team in team, zip(all_players, variables)))
             solver.Add(solver.Sum(players_by_team)<=4)
 
         #
@@ -168,34 +173,24 @@ def run(all_players):
         # This way high scoring defenses are not also shutting down your offense players.
         # It does not check if the defense is not the same team as the offense's players.
         #
-        #     o_players = filter(lambda x: x.position in ['QB','WR','RB','TE'], all_players)
-        #     opps_team_names= set([o.opponent for o in o_players])
-        #     teams_obj = filter(lambda x: x.position == 'D' , all_players)
-        #     teams = set([o.team for o in teams_obj])
-        #     for opps_team in team_names:
-        #         if opps_team in teams :
-        #             ids, players_by_opps_team = zip(*filter(lambda (x,_): x.position in ['QB','WR','RB','TE'] and x.opponent in opps_team, zip(all_players, variables)))
-        #             idxs, defense = zip(*filter(lambda (x,_): x.position == 'D' and x.team in opps_team, zip(all_players, variables)))
-        #             solver.Add(solver.Sum(1-x for x in players_by_opps_team)+solver.Sum(1-x for x in defense)>=1)
-        #
-        o_players = filter(lambda x: x.position in ['QB','WR','RB','TE','K'], all_players)
+        o_players = filter(lambda x: x.position in ['QB','WR','RB','TE'], all_players)
         opps_team_names= set([o.opponent for o in o_players])
         teams_obj = filter(lambda x: x.position == 'D' , all_players)
         teams = set([o.team for o in teams_obj])
         for opps_team in team_names:
             if opps_team in teams :
-                ids, players_by_opps_team = zip(*filter(lambda (x,_): x.position in ['QB','WR','RB','TE'] and x.opponent in opps_team, zip(all_players, variables)))
-                idxs, defense = zip(*filter(lambda (x,_): x.position == 'D' and x.team in opps_team, zip(all_players, variables)))
+                ids, players_by_opps_team = zip(*filter(lambda x: x[0].position in ['QB','WR','RB','TE'] and x[0].opponent in opps_team, zip(all_players, variables)))
+                idxs, defense = zip(*filter(lambda x: x[0].position == 'D' and x[0].team in opps_team, zip(all_players, variables)))
                 for player in players_by_opps_team:
                     solver.Add(player<=1-defense[0])
-
+                    
         #
         # Add QB stacking (at least 1 wr or te on same team as QB) constraint
         #
         offense_team_names = set([o.team for o in o_players])
         for o_team in offense_team_names:
-            ids, players_by_team = zip(*filter(lambda (x,_): x.position in ['WR','TE'] and x.team == o_team, zip(all_players, variables)))
-            idxs, qb = zip(*filter(lambda (x,_): x.position == 'QB' and x.team == o_team, zip(all_players, variables)))
+            ids, players_by_team = zip(*filter(lambda x: x[0].position in ['WR','TE'] and x[0].team == o_team, zip(all_players, variables)))
+            idxs, qb = zip(*filter(lambda x: x[0].position == 'QB' and x[0].team == o_team, zip(all_players, variables)))
             solver.Add(solver.Sum(players_by_team)>=solver.Sum(qb))
 
         #
@@ -220,9 +215,6 @@ def run(all_players):
         if solution == solver.OPTIMAL:
             roster = Roster()
             projection_title = player.projection[x]
-            #with open('Results.csv', 'a') as csvfile:
-            #  writer = csv.DictWriter(csvfile,delimiter=',',quotechar='"',fieldnames = ["Position","Name","Team","Salary","Projected"])
-            #  writer.writeheader()
 
             with open('Results.csv', 'a') as csvfile:
                 writer = csv.writer(csvfile,quotechar='"')
@@ -241,23 +233,21 @@ def run(all_players):
                 writer = csv.writer(csvfile,delimiter=',',quotechar='"',quoting=csv.QUOTE_NONNUMERIC)
                 writer.writerow(['','','','',roster.projected(x)])
             
-            print projection_title+" Lineup:"
-            #print str(x)+" "+projection_title+" Lineup:"
-            #print "Optimal roster for: $%s\n" % SALARY_CAP
-            print roster
+            print(projection_title+" Lineup:")
+            print(roster)
 
         else:
-            print "No solution :("
+            print("No solution :(")
 
 
 def load():
     all_players = []
     filenames = ['Player List.csv', 'Projections.csv']
-    handles = [open(filename, 'rb') for filename in filenames]
+    handles = [open(filename, 'r') for filename in filenames]
     readers = [csv.DictReader(f, skipinitialspace=True) for f in handles]
 
 
-    for rows in IT.izip_longest(*readers, fillvalue=['']*2):
+    for rows in IT.zip_longest(*readers, fillvalue=['']*2):
         combined_row = {}
         for row in rows:
             combined_row.update(row)
