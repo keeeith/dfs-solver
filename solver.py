@@ -12,11 +12,11 @@ PROJECTION_COUNT = int
 SALARY_CAP = 60000
 
 POSITION_LIMITS = [
-    ["QB", 1],
-    ["RB", 3],
-    ["WR", 3],
-    ["TE", 1],
-    ["D",  1]
+    ['QB', 1, 1],
+    ['RB', 2, 3],
+    ['WR', 3, 4],
+    ['TE', 1, 2],
+    ['D', 1, 1],
 ]
 
 ROSTER_SIZE = 9
@@ -196,8 +196,8 @@ def run(all_players):
         #
         # Add position limits
         #
-        for position, limit in POSITION_LIMITS:
-            position_cap = solver.Constraint(0, limit)
+        for position, min_limit, max_limit in POSITION_LIMITS:
+            position_cap = solver.Constraint(min_limit, max_limit)
 
             for i, player in enumerate(all_players):
                 if position == player.position:
